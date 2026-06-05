@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 302,
-    "old_only": 300,
+    "total": 340,
+    "old_only": 338,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.7,
+    "progress": 0.6,
     "statuses": {
       "NOT_CONTACTED": 302
     }
@@ -17,21 +17,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 116,
-    "User": 186
+    "Organization": 134,
+    "User": 206
   },
   "impact": {
-    "total": 0,
-    "average": 0.0
+    "total": 39239,
+    "average": 115.4
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9109,
+      "stars": 9112,
       "forks": 3318,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 12430
     },
     {
       "repo": "iana-org/get-trust-anchor",
@@ -39,7 +39,7 @@
       "stars": 109,
       "forks": 50,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 159
     },
     {
       "repo": "kirei/dnssec-ta-tools",
@@ -47,7 +47,7 @@
       "stars": 10,
       "forks": 6,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 16
     },
     {
       "repo": "kirei/dnssec_ta_tool",
@@ -55,7 +55,7 @@
       "stars": 2,
       "forks": 0,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 2
     },
     {
       "repo": "openbsd/src",
@@ -63,7 +63,7 @@
       "stars": 3777,
       "forks": 940,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 4717
     },
     {
       "repo": "libreswan/libreswan",
@@ -71,7 +71,7 @@
       "stars": 950,
       "forks": 265,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 1215
     },
     {
       "repo": "electroneum/electroneum",
@@ -79,7 +79,7 @@
       "stars": 384,
       "forks": 195,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 579
     },
     {
       "repo": "truenas/os",
@@ -87,7 +87,7 @@
       "stars": 234,
       "forks": 80,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 314
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -95,7 +95,7 @@
       "stars": 210,
       "forks": 78,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 288
     },
     {
       "repo": "steventroughtonsmith/MobileTerminal",
@@ -103,7 +103,7 @@
       "stars": 197,
       "forks": 24,
       "owner_type": "User",
-      "impact": 0
+      "impact": 221
     },
     {
       "repo": "xyzmos/GeekDNS",
@@ -111,15 +111,15 @@
       "stars": 157,
       "forks": 25,
       "owner_type": "User",
-      "impact": 0
+      "impact": 182
     },
     {
       "repo": "ZephyrProtocol/zephyr",
       "priority": "NORMAL",
       "stars": 149,
-      "forks": 24,
+      "forks": 23,
       "owner_type": "User",
-      "impact": 0
+      "impact": 172
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -127,7 +127,7 @@
       "stars": 133,
       "forks": 32,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 165
     },
     {
       "repo": "sumoprojects/sumokoin",
@@ -135,15 +135,7 @@
       "stars": 128,
       "forks": 58,
       "owner_type": "User",
-      "impact": 0
-    },
-    {
-      "repo": "MidnightBSD/src",
-      "priority": "NORMAL",
-      "stars": 105,
-      "forks": 12,
-      "owner_type": "Organization",
-      "impact": 0
+      "impact": 186
     },
     {
       "repo": "Judecoin/judecoin",
@@ -151,7 +143,7 @@
       "stars": 95,
       "forks": 21,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 116
     },
     {
       "repo": "scala-network/scala-v7",
@@ -159,7 +151,7 @@
       "stars": 81,
       "forks": 27,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 108
     },
     {
       "repo": "graft-project/GraftNetwork",
@@ -167,7 +159,7 @@
       "stars": 81,
       "forks": 39,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 120
     },
     {
       "repo": "ryo-currency/ryo-currency",
@@ -175,7 +167,7 @@
       "stars": 81,
       "forks": 48,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 129
     },
     {
       "repo": "masari-project/masari",
@@ -183,7 +175,7 @@
       "stars": 71,
       "forks": 56,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 127
     },
     {
       "repo": "lattera/freebsd",
@@ -191,7 +183,7 @@
       "stars": 69,
       "forks": 39,
       "owner_type": "User",
-      "impact": 0
+      "impact": 108
     },
     {
       "repo": "gzenux/asuswrt-rtn18u",
@@ -199,7 +191,7 @@
       "stars": 68,
       "forks": 12,
       "owner_type": "User",
-      "impact": 0
+      "impact": 80
     },
     {
       "repo": "havenprotocol/haven",
@@ -207,7 +199,7 @@
       "stars": 59,
       "forks": 39,
       "owner_type": "User",
-      "impact": 0
+      "impact": 98
     },
     {
       "repo": "E-F-A/v4",
@@ -215,7 +207,7 @@
       "stars": 58,
       "forks": 37,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 95
     },
     {
       "repo": "FreshTomato-Project/freshtomato-mips",
@@ -223,17 +215,25 @@
       "stars": 55,
       "forks": 15,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 70
+    },
+    {
+      "repo": "arqma/arqma",
+      "priority": "NORMAL",
+      "stars": 49,
+      "forks": 56,
+      "owner_type": "Organization",
+      "impact": 105
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9109,
+      "stars": 9112,
       "forks": 3318,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 12430
     },
     {
       "repo": "iana-org/get-trust-anchor",
@@ -241,7 +241,7 @@
       "stars": 109,
       "forks": 50,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 159
     },
     {
       "repo": "kirei/dnssec-ta-tools",
@@ -249,7 +249,7 @@
       "stars": 10,
       "forks": 6,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 16
     },
     {
       "repo": "kirei/dnssec_ta_tool",
@@ -257,183 +257,183 @@
       "stars": 2,
       "forks": 0,
       "owner_type": "Organization",
-      "impact": 0
+      "impact": 2
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 0,
-      "stars": 9109,
+      "impact": 12430,
+      "stars": 9112,
       "forks": 3318,
       "owner_type": "Organization"
     },
     {
-      "repo": "electroneum/electroneum",
-      "impact": 0,
-      "stars": 384,
-      "forks": 195,
+      "repo": "microsoft/azurelinux",
+      "impact": 5593,
+      "stars": 4942,
+      "forks": 651,
       "owner_type": "Organization"
     },
     {
+      "repo": "openbsd/src",
+      "impact": 4717,
+      "stars": 3777,
+      "forks": 940,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "gnuton/asuswrt-merlin.ng",
+      "impact": 2325,
+      "stars": 2203,
+      "forks": 122,
+      "owner_type": "User"
+    },
+    {
       "repo": "libreswan/libreswan",
-      "impact": 0,
+      "impact": 1215,
       "stars": 950,
       "forks": 265,
       "owner_type": "Organization"
     },
     {
+      "repo": "opnsense/src",
+      "impact": 677,
+      "stars": 481,
+      "forks": 196,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "getdnsapi/getdns",
+      "impact": 614,
+      "stars": 483,
+      "forks": 131,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "electroneum/electroneum",
+      "impact": 579,
+      "stars": 384,
+      "forks": 195,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "pfsense/FreeBSD-src",
+      "impact": 499,
+      "stars": 165,
+      "forks": 334,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "truenas/os",
+      "impact": 314,
+      "stars": 234,
+      "forks": 80,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "bitrig/bitrig",
+      "impact": 298,
+      "stars": 256,
+      "forks": 42,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "CTSRD-CHERI/cheribsd",
+      "impact": 288,
+      "stars": 210,
+      "forks": 78,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "steventroughtonsmith/MobileTerminal",
+      "impact": 221,
+      "stars": 197,
+      "forks": 24,
+      "owner_type": "User"
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-arm",
+      "impact": 208,
+      "stars": 166,
+      "forks": 42,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "sumoprojects/sumokoin",
+      "impact": 186,
+      "stars": 128,
+      "forks": 58,
+      "owner_type": "User"
+    },
+    {
+      "repo": "xyzmos/GeekDNS",
+      "impact": 182,
+      "stars": 157,
+      "forks": 25,
+      "owner_type": "User"
+    },
+    {
+      "repo": "ghostbsd/ghostbsd-src",
+      "impact": 177,
+      "stars": 143,
+      "forks": 34,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "ZephyrProtocol/zephyr",
+      "impact": 172,
+      "stars": 149,
+      "forks": 23,
+      "owner_type": "User"
+    },
+    {
+      "repo": "HardenedBSD/hardenedBSD-stable",
+      "impact": 165,
+      "stars": 133,
+      "forks": 32,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 0,
+      "impact": 159,
       "stars": 109,
       "forks": 50,
       "owner_type": "Organization"
     },
     {
-      "repo": "gzenux/asuswrt-rtn18u",
-      "impact": 0,
-      "stars": 68,
-      "forks": 12,
-      "owner_type": "User"
-    },
-    {
-      "repo": "Judecoin/judecoin",
-      "impact": 0,
-      "stars": 95,
-      "forks": 21,
+      "repo": "ryo-currency/ryo-currency",
+      "impact": 129,
+      "stars": 81,
+      "forks": 48,
       "owner_type": "Organization"
     },
     {
-      "repo": "E-F-A/v4",
-      "impact": 0,
-      "stars": 58,
-      "forks": 37,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "kirei/dnssec_ta_tool",
-      "impact": 0,
-      "stars": 2,
-      "forks": 0,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "safex/safexcore",
-      "impact": 0,
-      "stars": 31,
-      "forks": 27,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "kirei/dnssec-ta-tools",
-      "impact": 0,
-      "stars": 10,
-      "forks": 6,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "metebalci/digsec",
-      "impact": 0,
-      "stars": 5,
-      "forks": 2,
-      "owner_type": "User"
-    },
-    {
-      "repo": "RavenProject/ravenwallet-ios",
-      "impact": 0,
-      "stars": 25,
-      "forks": 19,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "klaroooo/klaro",
-      "impact": 0,
-      "stars": 3,
-      "forks": 2,
-      "owner_type": "User"
-    },
-    {
-      "repo": "blackfuel/asuswrt-gt-ac5300",
-      "impact": 0,
-      "stars": 19,
-      "forks": 10,
-      "owner_type": "User"
-    },
-    {
-      "repo": "websharpstudios/monero",
-      "impact": 0,
-      "stars": 1,
-      "forks": 0,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "freight-trust/trust-anchors",
-      "impact": 0,
-      "stars": 3,
-      "forks": 0,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "monerov/unbound",
-      "impact": 0,
-      "stars": 0,
-      "forks": 3,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "lattera/openbsd",
-      "impact": 0,
-      "stars": 13,
-      "forks": 7,
-      "owner_type": "User"
-    },
-    {
-      "repo": "equisde/seva-dev",
-      "impact": 0,
-      "stars": 1,
-      "forks": 1,
-      "owner_type": "User"
-    },
-    {
-      "repo": "incognito-currency/incognito",
-      "impact": 0,
-      "stars": 5,
-      "forks": 0,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "Saronite/saronite-protocol",
-      "impact": 0,
-      "stars": 1,
-      "forks": 3,
-      "owner_type": "User"
-    },
-    {
-      "repo": "arqma/arqma",
-      "impact": 0,
-      "stars": 49,
+      "repo": "masari-project/masari",
+      "impact": 127,
+      "stars": 71,
       "forks": 56,
       "owner_type": "Organization"
     },
     {
-      "repo": "scala-network/scala-v7",
-      "impact": 0,
-      "stars": 81,
-      "forks": 27,
+      "repo": "masari-project/masari-webwallet",
+      "impact": 124,
+      "stars": 16,
+      "forks": 108,
       "owner_type": "Organization"
     },
     {
-      "repo": "equisde/sevabit-last",
-      "impact": 0,
-      "stars": 1,
-      "forks": 0,
-      "owner_type": "User"
+      "repo": "graft-project/GraftNetwork",
+      "impact": 120,
+      "stars": 81,
+      "forks": 39,
+      "owner_type": "Organization"
     },
     {
-      "repo": "sprout-uci/PDoT",
-      "impact": 0,
-      "stars": 6,
-      "forks": 0,
+      "repo": "Judecoin/judecoin",
+      "impact": 116,
+      "stars": 95,
+      "forks": 21,
       "owner_type": "Organization"
     }
   ],
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-05T17:35:46.758096+00:00",
+    "generated_at": "2026-06-05T21:51:50.151099+00:00",
     "snapshot_count": 3
   }
 }

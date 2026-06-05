@@ -2,6 +2,7 @@ import json
 import os
 import requests
 from pathlib import Path
+import time
 
 CONFIG_FILE = "data/config.json"
 OUTPUT_FILE = "data/repos.json"
@@ -31,10 +32,23 @@ def github_search(query, headers):
             }
         )
 
+        if response.status_code == 429:
+            retry_after = int(
+                response.headers.get("Retry-After", 60)
+            )
+
+            print(
+                f"Rate limited. Sleeping {retry_after} seconds..."
+            )
+
+            time.sleep(retry_after)
+
+            continue
+
         if response.status_code != 200:
-            print(response.status_code)
-            print(response.text)
-            break
+            raise RuntimeError(
+                f"GitHub API returned {response.status_code}"
+            )
 
         data = response.json()
 
@@ -96,6 +110,8 @@ def main():
 
                     print(f"Fetching metadata: {repo_name}")
 
+                    time.sleep(1)
+                    
                     metadata_response = requests.get(
                         f"https://api.github.com/repos/{repo_name}",
                         headers=headers
@@ -178,6 +194,20 @@ def main():
             {"path": p, "html_url": u}
             for (p, u) in repo["files"]
         ]
+
+    print(
+        f"Discovered {len(repos)} repositories"
+    )
+
+    if len(repos) < 200:
+        raise RuntimeError(
+            f"Unexpected repository count: {len(repos)}"
+        )
+
+    if len(repos) == 0:
+        raise RuntimeError(
+            "Discovery returned 0 repositories"
+        )
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(list(repos.values()), f, indent=2)
