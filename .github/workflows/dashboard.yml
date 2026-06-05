@@ -1,15 +1,14 @@
-name: Run full scan, build and deploy dashboard
-
-env:
-  GITHUB_TOKEN: ${{ github.token }}
-  run: |
-    make scan
+name: Deploy Dashboard
 
 on:
   workflow_dispatch:
+
   push:
     branches:
       - main
+
+    paths:
+      - "docs/**"
 
 permissions:
   contents: read
@@ -23,22 +22,10 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: |
-          pip install -r scripts/requirements.txt
-
-      - name: Build dashboard
-        run: |
-          make dashboard
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -47,12 +34,14 @@ jobs:
 
   deploy:
     needs: build
+
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-      
+
     steps:
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
