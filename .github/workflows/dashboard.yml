@@ -1,4 +1,9 @@
-name: Build and Deploy Dashboard
+name: Run full scan, build and deploy dashboard
+
+env:
+  GITHUB_TOKEN: ${{ github.token }}
+  run: |
+    make scan
 
 on:
   workflow_dispatch:
