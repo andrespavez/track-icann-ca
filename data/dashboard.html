@@ -1,0 +1,420 @@
+
+<html>
+<head>
+<title>ICANN Root CA Migration Dashboard</title>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background: #f4f6f8;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background: #f0f0f0;
+}
+
+.metric {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.high {
+    color: #c0392b;
+}
+
+.normal {
+    color: #e67e22;
+}
+
+.low {
+    color: #27ae60;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="card">
+<h1>ICANN Root CA Migration Dashboard</h1>
+<p>Repositories scanned:</p>
+<p class="metric">302</p>
+</div>
+
+<div class="card">
+<h2>Repository Status</h2>
+
+<ul>
+<li>OLD_ONLY: 300</li>
+<li>OLD_AND_NEW: 2</li>
+<li>NEW_ONLY: 0</li>
+<li>UNKNOWN: 0</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Campaign Status</h2>
+
+<ul>
+<li>NOT_CONTACTED: 300</li>
+<li>ISSUE_OPEN: 0</li>
+<li>ISSUE_CLOSED: 0</li>
+<li>FIX_MERGED: 0</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Priority Breakdown</h2>
+
+<ul>
+<li>HIGH: 4</li>
+<li>NORMAL: 296</li>
+<li>LOW: 0</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Ecosystem Reach</h2>
+
+<ul>
+<li>Total Stars: 22,114</li>
+<li>Total Forks: 6,680</li>
+<li>Affected Stars: 17,521</li>
+<li>Affected Forks: 6,244</li>
+</ul>
+
+</div>
+
+<div class="card">
+<h2>Migration Progress</h2>
+
+<p class="metric">0.66%</p>
+
+</div>
+
+<div class="card">
+<h2>Trend History</h2>
+
+<table>
+
+<tr>
+<th>Snapshot</th>
+<th>OLD_ONLY</th>
+<th>OLD_AND_NEW</th>
+<th>NEW_ONLY</th>
+</tr>
+
+<tr>
+<td>snapshot_2026-06-03_18-26-08.json</td>
+<td>300</td>
+<td>2</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>snapshot_2026-06-03_18-42-21.json</td>
+<td>300</td>
+<td>2</td>
+<td>0</td>
+</tr>
+
+<tr>
+<td>snapshot_2026-06-04_18-39-33.json</td>
+<td>300</td>
+<td>2</td>
+<td>0</td>
+</tr>
+
+</table>
+</div>
+
+<div class="card">
+<h2>Top Outreach Targets</h2>
+
+<table>
+
+<tr>
+<th>Priority</th>
+<th>Repository</th>
+<th>Stars</th>
+<th>Forks</th>
+<th>Impact</th>
+<th>Owner</th>
+</tr>
+
+<tr>
+<td>HIGH</td>
+<td>freebsd/freebsd-src</td>
+<td>9109</td>
+<td>3318</td>
+<td>12427</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>openbsd/src</td>
+<td>3777</td>
+<td>940</td>
+<td>4717</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>libreswan/libreswan</td>
+<td>950</td>
+<td>265</td>
+<td>1215</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>HIGH</td>
+<td>iana-org/get-trust-anchor</td>
+<td>109</td>
+<td>50</td>
+<td>159</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>HIGH</td>
+<td>kirei/dnssec-ta-tools</td>
+<td>10</td>
+<td>6</td>
+<td>16</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>HIGH</td>
+<td>kirei/dnssec_ta_tool</td>
+<td>2</td>
+<td>0</td>
+<td>2</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>electroneum/electroneum</td>
+<td>384</td>
+<td>195</td>
+<td>579</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>truenas/os</td>
+<td>234</td>
+<td>80</td>
+<td>314</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>CTSRD-CHERI/cheribsd</td>
+<td>210</td>
+<td>78</td>
+<td>288</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>steventroughtonsmith/MobileTerminal</td>
+<td>197</td>
+<td>24</td>
+<td>221</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>sumoprojects/sumokoin</td>
+<td>128</td>
+<td>58</td>
+<td>186</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>xyzmos/GeekDNS</td>
+<td>157</td>
+<td>25</td>
+<td>182</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>ZephyrProtocol/zephyr</td>
+<td>149</td>
+<td>24</td>
+<td>173</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>HardenedBSD/hardenedBSD-stable</td>
+<td>133</td>
+<td>32</td>
+<td>165</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>ryo-currency/ryo-currency</td>
+<td>81</td>
+<td>48</td>
+<td>129</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>masari-project/masari</td>
+<td>71</td>
+<td>56</td>
+<td>127</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>masari-project/masari-webwallet</td>
+<td>16</td>
+<td>108</td>
+<td>124</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>graft-project/GraftNetwork</td>
+<td>81</td>
+<td>39</td>
+<td>120</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>MidnightBSD/src</td>
+<td>105</td>
+<td>12</td>
+<td>117</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>Judecoin/judecoin</td>
+<td>95</td>
+<td>21</td>
+<td>116</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>scala-network/scala-v7</td>
+<td>81</td>
+<td>27</td>
+<td>108</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>lattera/freebsd</td>
+<td>69</td>
+<td>39</td>
+<td>108</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>arqma/arqma</td>
+<td>49</td>
+<td>56</td>
+<td>105</td>
+<td>Organization</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>havenprotocol/haven</td>
+<td>59</td>
+<td>39</td>
+<td>98</td>
+<td>User</td>
+</tr>
+
+<tr>
+<td>NORMAL</td>
+<td>E-F-A/v4</td>
+<td>58</td>
+<td>37</td>
+<td>95</td>
+<td>Organization</td>
+</tr>
+
+</table>
+</div>
+
+<div class="card">
+<h2>Repositories Already Migrating</h2>
+<ul>
+<li>NLnetLabs/unbound</li><li>takonomura/iana-root-files</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Completed Repositories</h2>
+<ul>
+
+</ul>
+</div>
+
+<div class="card">
+<h2>Dashboard Metadata</h2>
+<ul>
+<li>Generated: 2026-06-05 04:41 UTC</li>
+<li>Snapshots: 3</li>
+<li>Repositories: 302</li>
+</ul>
+</div>
+
+</body>
+</html>

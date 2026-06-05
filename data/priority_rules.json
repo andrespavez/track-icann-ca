@@ -1,0 +1,19 @@
+{
+  "high_keywords": [
+    "freebsd",
+    "openbsd",
+    "unbound",
+    "libreswan",
+    "iana",
+    "icann",
+    "dns",
+    "icannbundle"
+  ],
+
+  "low_keywords": [
+    "test",
+    "fork",
+    "old",
+    "obsolete"
+  ]
+}

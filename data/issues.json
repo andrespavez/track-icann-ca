@@ -1,0 +1,1814 @@
+{
+  "freebsd/freebsd-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "HIGH"
+  },
+  "electroneum/electroneum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "libreswan/libreswan": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "iana-org/get-trust-anchor": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "HIGH"
+  },
+  "gzenux/asuswrt-rtn18u": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Judecoin/judecoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "E-F-A/v4": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "NLnetLabs/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kirei/dnssec_ta_tool": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "HIGH"
+  },
+  "safex/safexcore": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kirei/dnssec-ta-tools": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "HIGH"
+  },
+  "metebalci/digsec": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "RavenProject/ravenwallet-ios": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "klaroooo/klaro": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "blackfuel/asuswrt-gt-ac5300": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "websharpstudios/monero": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "freight-trust/trust-anchors": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "monerov/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "lattera/openbsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "equisde/seva-dev": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "incognito-currency/incognito": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Saronite/saronite-protocol": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "arqma/arqma": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "scala-network/scala-v7": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "equisde/sevabit-last": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sprout-uci/PDoT": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "FreshTomato-Project/freshtomato-mips": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CryptoBLK/Abelian": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "profitsltd/xnxx": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jfreeze/jewelcoin2": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "dinastyoffreedom/dinastycoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "rohitchangediya/MoneroDollar": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "domajor/noxcoin-project": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ditcoin/ditcoin-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "gkruja/MoneroAndroidwallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "pcbsd/NextBSD": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "mangonote-project/mangonote": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "MYT-Core/MYT": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "izaanhussain/revolux-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre-working-old-chain-before-for-test": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "trublud/kickasscoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "associazione-rousseau/voting-chain": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "x12project/x12-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "taboProtocol/tabo": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "steventroughtonsmith/MobileTerminal": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "monerov/monerov": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "truenas/os": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "mr-foxxo/vibe-os": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sumogr/Sumokoin-ios": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "chantra/trytravis-builds": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "electroneumclassic/electroneum-classic": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "takonomura/iana-root-files": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "HIGH"
+  },
+  "WalkerWaqiOrg/RRChain": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "edollar-project/edollar": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "xeonbit-project/xeonbit": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "bmnc-project/bmnc": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ryan801/tilt": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Lord1Egypt/ShinyChain": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "priority": "NORMAL",
+    "notes": ""
+  },
+  "glk/freebsd-head": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cryptofriend/vincoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ReCoal/recoal": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "swapcoinz/swapcoinz-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hakcoin-project/hakcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jedigras/noodledoodle_xmr_trezor": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "JyoCoin/JyoCoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Monereum/Monereum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/TerraGenesis": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "xmid/midas-coin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "graft-project/GraftNetwork": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "mimuret/unbound-session-ticket-keys": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "nevocoin/nevocoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "havenprotocol/haven": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hertogp/dnscheck": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "priority": "NORMAL",
+    "notes": ""
+  },
+  "BitChute/chutoken": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "freebsd/wireless": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "etcoin-project/etcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "TheSuperiorCoin/TheSuperiorCoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "charnacrypto/charnacoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sumoproject/sumokoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hdezela/aws-media": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ashfordneil/openbsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "josephnicholas/qwarta": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sumoprojects/sumokoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "crystaleum/crystaleum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "MidnightBSD/src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "schmeckles22/SolaceCoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "XtendCash/XtendCash": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jeremie1112/xmr": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "samisbakedham/Clerici": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ArqTras/evox-master": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "wkgcoin-project/wkgcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "moneromooo-monero/monero-update": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "monero-classic-lab/Monero-Classic-V4": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ryo-currency/ryo-libre": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ultrapoint/ultrapoint-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "EmbeddedAndroid/electroneum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "contentnetwork/contentcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "markjdb/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "deepin-community/libreswan": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "m-asama/ubuntu-libreswan-noble": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ExodusVPN/resolver": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "vrutkovs/sno-etc": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "deepin-community/dns-root-data": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "nepoche/miamibtchack": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "LIMXTEC/breadwallet-bitcore-ios": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sqoin/bastoji-ios": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kchanqvq/MXTC": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "blackfuel/asuswrt-rt-ac86u": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "N-wrt/asuswrt-ipq6018": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Chiencc/asuswrt-gt-ac5300": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "dbuos/freshtomatoe": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Estella/libunbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "JordyZomer/unbnd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "PrivatePay-Reborn/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "enukane/openbsd-work": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "google2725/incognito-l1": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "J0s3f/rt-n56u": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "FreshTomato-Project/freshtomato-ax": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "onkofonko/padavan-ng": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "HE7086/asuswrt": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CloudedQuartz/padavan-ng-dlink": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "vkajic/platformCT": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "strejda/qualcomm": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "JamesLinus/freebsd-base-graphics": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "SatheeshPeriyasamy/Oxyra": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "soloking1412/oxyra": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ZatON318/mantak_gros": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "prxject64-stack/Arcana-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre-sync-old": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre2": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre3": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre1.5": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "alexvitik/jac": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "minombreesjeff/darwin_env": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "binsys/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "crystax/android-vendor-freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Cloudxtreme/InfoSecBSD": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "chris-romanov/os": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "beingofexistence13/multiversal-os": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "trasz/chelsio": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "prp-e/JabirOS-source": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "rgnwall/FreeBSD-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "shopglobal/node-xmr": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hvardhanx/monero": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "caliber-cash/caliber": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kevacoin-project/keva-stratum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "steffanjensen/monerofork": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "5ha2s6/tnft-stratum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "DarkGhostHunter/OpenWRT-NSS-Full": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "gsmlg-dev/ex_dns": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "priority": "NORMAL",
+    "notes": ""
+  },
+  "openela-main/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "priority": "NORMAL",
+    "notes": ""
+  },
+  "ciq-rocky-lts/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "priority": "NORMAL",
+    "notes": ""
+  },
+  "obiwac/freebsd-gsoc": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "oss-fun/await-freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OpenSciViz/cloud": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "isoft-linux/packages-framework": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hoidn/etckeeper": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "evadot/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "rems-project/freebsd-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "aoli-al/llm_eval": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "aeticusdev/CINOS": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "samisbakedham/hollisd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Monu-Fork/monu": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "monero-classic-lab/monero-classic-v3": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "amory1997/xmcwallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "OIEIEIO/ombre4": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "bittoro/bittoro": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ryo-currency/ryo-currency": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CTSRD-CHERI/cheribsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "HardenedBSD/hardenedBSD-stable": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "GeldumProject/geldum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "hselasky/usb4": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "avrtt/rnxmonero": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "NexBSD/NextBSD": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Lunexa-Project/Lunexa": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cadets/freebsd-old": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "victor-tucci/beldex-lws": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Judecoin/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CalexCore/AmityCoinV3-DO-NOT-USE": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "projekgallus/galluscoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "firewalla/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "musec/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "equisde/quorax_dev": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ZephyrProtocol/zephyr": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "grimreaper/freebsd-svn-bootstrap": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "scala-network/Scala": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "nerva-project/nerva": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "BixBite-project/bixbite": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Riskerman21/openbsd-zones-syscalls-scheduling": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jamesmintram/OpenBSD": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "salvium/salvium": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "aaomidi/unbound-latest": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "zfsrogue/freebsd-crypto": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "nerva-pool/nerva-pool-miner": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "trublud/KIckass": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "velkavo-project/Velkavo": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cyxion-project/cyxion": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "framepix/guus-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "naos-project/naos": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "arijitdutta67/MProveAndMProvisions": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "tuskeNetwork/tuske": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "shopglobal/edollar": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "equisde/luka_core_testing": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "unprll-project/unprll": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "who-biz/nevar": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "dcycoin/xdc": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sebseb7/mon_test": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "wenewzhang/wukongcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "pranavms13/Rixe": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kredits-project-old/kredits": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cutcoin/cutcoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ExcitableAardvark/node-cryptonight": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "xxxcoder-ui/ryo": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cadets/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "DynFi/FreeBSD-base": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Antzed/CS466-CHERI": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "patmaddox/test-subtree": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "HardenedBSD/hardenedBSD-playground": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "coolstar/freebsd-ports-ios": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sunrash/freebsd_steroid": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "MPTCP-FreeBSD/FB13.1-ML-MPTCP-SRC": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "inobulles/aquabsd-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "csgordon/freebsd-starfive2": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Jest13/prolo-blockchain": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "stratustech/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jeremie1112/Veezowall-FreeBSD-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "HardenedBSD/hbsdfw-src-mirror": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "2waymirror/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Cambridge-AdvancedOS/l41-freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CoreNGS/contrib": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Beldex-Coin/Beldex-EVM-POC": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cryptobuks1/pos-beldex": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "SafeNetIoT/dns_guidelines": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "SafeNetIoT/iot_dns": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "shenki/unbound-debian": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "markjdb/freebsd-shared": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "bzfbd/fbdz": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "AnthonyTechhh/ZephyrWallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "grimreaper/freebsd-git-svn": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Riskerman21/openbsd-pci-network-driver": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Riskerman21/openbsd-fvd-block-device-driver": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "haven-protocol-org/haven-main": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "luckyduckcode/duck_bucks_privacy_coin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ZeroPointWorks/EMBER": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "LTD-Beget/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "BlackjackDNS/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "pruiz/openbsd-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "trublud/KickAss-Gui": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "focuscurrency/focus": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "scilicet64/monero": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "ang-st/monero-regtest": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "warproxxx/StorageX": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "openbsd/src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "masari-project/masari": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "txchangecoin-project/txchangecoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "lattera/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Bitlitas/bitlitas": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "syuu1228/openbsd-src": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "citicashio/citicash": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "FreeBSDonHyper-V/freebsd-snapshot_obsolete": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "italocoin-project/italocoin-old": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "xyzmos/GeekDNS": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "uPlexa/uplexa": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "os3sec/Extended-DNSSEC-Validator": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "APEPEPOW/APEPEPOW": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "MKEcoin/mkecoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "kosowwwa/TroutBucks": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "a3rk/remix-web-wallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "verisign/mtl-mode-unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Shekyl-Foundation/shekyl-core": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "happybigmtn/rXMR": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "Dtor-Project/dtor": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "a3rk/remix": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "surecoin/surecoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "babycoin-project/babycoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "AltcoinCoop/Mynt": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "devopsralf/aeon-rebase": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "zephyr-protocol/zephyr": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "electronero/electronero-fork": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "equisde/sevabit-new": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "judecoin-project/judecoin": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "masari-project/masari-webwallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "sumoprojects/sumokoin-webwallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "PrivatePay-Reborn/privatepay-webwallet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "EvrmoreOrg/evrmore-webwallet-account": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "andrewbates09/numa": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jhbsz/FreeBSD-REP": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "himanshuchoudhary/freebsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "CTSRD-TESLA/teslabsd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "MrE-Fog/Extended-DNSSEC-Validator": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "jas88/phreebird": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "keatonLiu/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "icann-dns/unbound_package": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "bmwiedemann/openSUSE": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "oxynaz/c64chain-mainnet": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "KlaraSystems/freebsd-relayd": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "deepin-community/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "electroneium/electroneum": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "wownero-project/wownero": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "NCommander/openbsd-src-with-branches": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  },
+  "cicc123/unbound": {
+    "issue_status": "NOT_CONTACTED",
+    "issue_url": null,
+    "notes": "",
+    "priority": "NORMAL"
+  }
+}

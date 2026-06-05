@@ -1,0 +1,470 @@
+{
+  "summary": {
+    "total": 302,
+    "old_only": 300,
+    "old_and_new": 2,
+    "new_only": 0,
+    "unknown": 0
+  },
+  "campaign": {
+    "progress": 0.7,
+    "statuses": {
+      "NOT_CONTACTED": 302
+    }
+  },
+  "priority": {
+    "HIGH": 5,
+    "NORMAL": 297
+  },
+  "owners": {
+    "Organization": 116,
+    "User": 186
+  },
+  "impact": {
+    "total": 0,
+    "average": 0.0
+  },
+  "top_targets": [
+    {
+      "repo": "freebsd/freebsd-src",
+      "priority": "HIGH",
+      "stars": 9109,
+      "forks": 3318,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "iana-org/get-trust-anchor",
+      "priority": "HIGH",
+      "stars": 109,
+      "forks": 50,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "kirei/dnssec-ta-tools",
+      "priority": "HIGH",
+      "stars": 10,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "kirei/dnssec_ta_tool",
+      "priority": "HIGH",
+      "stars": 2,
+      "forks": 0,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "openbsd/src",
+      "priority": "NORMAL",
+      "stars": 3777,
+      "forks": 940,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "libreswan/libreswan",
+      "priority": "NORMAL",
+      "stars": 950,
+      "forks": 265,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "electroneum/electroneum",
+      "priority": "NORMAL",
+      "stars": 384,
+      "forks": 195,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "truenas/os",
+      "priority": "NORMAL",
+      "stars": 234,
+      "forks": 80,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "CTSRD-CHERI/cheribsd",
+      "priority": "NORMAL",
+      "stars": 210,
+      "forks": 78,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "steventroughtonsmith/MobileTerminal",
+      "priority": "NORMAL",
+      "stars": 197,
+      "forks": 24,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "xyzmos/GeekDNS",
+      "priority": "NORMAL",
+      "stars": 157,
+      "forks": 25,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "ZephyrProtocol/zephyr",
+      "priority": "NORMAL",
+      "stars": 149,
+      "forks": 24,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "HardenedBSD/hardenedBSD-stable",
+      "priority": "NORMAL",
+      "stars": 133,
+      "forks": 32,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "sumoprojects/sumokoin",
+      "priority": "NORMAL",
+      "stars": 128,
+      "forks": 58,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "MidnightBSD/src",
+      "priority": "NORMAL",
+      "stars": 105,
+      "forks": 12,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "Judecoin/judecoin",
+      "priority": "NORMAL",
+      "stars": 95,
+      "forks": 21,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "scala-network/scala-v7",
+      "priority": "NORMAL",
+      "stars": 81,
+      "forks": 27,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "graft-project/GraftNetwork",
+      "priority": "NORMAL",
+      "stars": 81,
+      "forks": 39,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "ryo-currency/ryo-currency",
+      "priority": "NORMAL",
+      "stars": 81,
+      "forks": 48,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "masari-project/masari",
+      "priority": "NORMAL",
+      "stars": 71,
+      "forks": 56,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "lattera/freebsd",
+      "priority": "NORMAL",
+      "stars": 69,
+      "forks": 39,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "gzenux/asuswrt-rtn18u",
+      "priority": "NORMAL",
+      "stars": 68,
+      "forks": 12,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "havenprotocol/haven",
+      "priority": "NORMAL",
+      "stars": 59,
+      "forks": 39,
+      "owner_type": "User",
+      "impact": 0
+    },
+    {
+      "repo": "E-F-A/v4",
+      "priority": "NORMAL",
+      "stars": 58,
+      "forks": 37,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-mips",
+      "priority": "NORMAL",
+      "stars": 55,
+      "forks": 15,
+      "owner_type": "Organization",
+      "impact": 0
+    }
+  ],
+  "high_priority": [
+    {
+      "repo": "freebsd/freebsd-src",
+      "priority": "HIGH",
+      "stars": 9109,
+      "forks": 3318,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "iana-org/get-trust-anchor",
+      "priority": "HIGH",
+      "stars": 109,
+      "forks": 50,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "kirei/dnssec-ta-tools",
+      "priority": "HIGH",
+      "stars": 10,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 0
+    },
+    {
+      "repo": "kirei/dnssec_ta_tool",
+      "priority": "HIGH",
+      "stars": 2,
+      "forks": 0,
+      "owner_type": "Organization",
+      "impact": 0
+    }
+  ],
+  "high_impact": [
+    {
+      "repo": "freebsd/freebsd-src",
+      "impact": 0,
+      "stars": 9109,
+      "forks": 3318,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "electroneum/electroneum",
+      "impact": 0,
+      "stars": 384,
+      "forks": 195,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "libreswan/libreswan",
+      "impact": 0,
+      "stars": 950,
+      "forks": 265,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "iana-org/get-trust-anchor",
+      "impact": 0,
+      "stars": 109,
+      "forks": 50,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "gzenux/asuswrt-rtn18u",
+      "impact": 0,
+      "stars": 68,
+      "forks": 12,
+      "owner_type": "User"
+    },
+    {
+      "repo": "Judecoin/judecoin",
+      "impact": 0,
+      "stars": 95,
+      "forks": 21,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "E-F-A/v4",
+      "impact": 0,
+      "stars": 58,
+      "forks": 37,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "kirei/dnssec_ta_tool",
+      "impact": 0,
+      "stars": 2,
+      "forks": 0,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "safex/safexcore",
+      "impact": 0,
+      "stars": 31,
+      "forks": 27,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "kirei/dnssec-ta-tools",
+      "impact": 0,
+      "stars": 10,
+      "forks": 6,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "metebalci/digsec",
+      "impact": 0,
+      "stars": 5,
+      "forks": 2,
+      "owner_type": "User"
+    },
+    {
+      "repo": "RavenProject/ravenwallet-ios",
+      "impact": 0,
+      "stars": 25,
+      "forks": 19,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "klaroooo/klaro",
+      "impact": 0,
+      "stars": 3,
+      "forks": 2,
+      "owner_type": "User"
+    },
+    {
+      "repo": "blackfuel/asuswrt-gt-ac5300",
+      "impact": 0,
+      "stars": 19,
+      "forks": 10,
+      "owner_type": "User"
+    },
+    {
+      "repo": "websharpstudios/monero",
+      "impact": 0,
+      "stars": 1,
+      "forks": 0,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "freight-trust/trust-anchors",
+      "impact": 0,
+      "stars": 3,
+      "forks": 0,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "monerov/unbound",
+      "impact": 0,
+      "stars": 0,
+      "forks": 3,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "lattera/openbsd",
+      "impact": 0,
+      "stars": 13,
+      "forks": 7,
+      "owner_type": "User"
+    },
+    {
+      "repo": "equisde/seva-dev",
+      "impact": 0,
+      "stars": 1,
+      "forks": 1,
+      "owner_type": "User"
+    },
+    {
+      "repo": "incognito-currency/incognito",
+      "impact": 0,
+      "stars": 5,
+      "forks": 0,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "Saronite/saronite-protocol",
+      "impact": 0,
+      "stars": 1,
+      "forks": 3,
+      "owner_type": "User"
+    },
+    {
+      "repo": "arqma/arqma",
+      "impact": 0,
+      "stars": 49,
+      "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "scala-network/scala-v7",
+      "impact": 0,
+      "stars": 81,
+      "forks": 27,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "equisde/sevabit-last",
+      "impact": 0,
+      "stars": 1,
+      "forks": 0,
+      "owner_type": "User"
+    },
+    {
+      "repo": "sprout-uci/PDoT",
+      "impact": 0,
+      "stars": 6,
+      "forks": 0,
+      "owner_type": "Organization"
+    }
+  ],
+  "trend": [
+    {
+      "timestamp": "2026-06-03_18-26-08",
+      "total": 302,
+      "old_only": 300,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-03_18-42-21",
+      "total": 302,
+      "old_only": 300,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-04_18-39-33",
+      "total": 302,
+      "old_only": 300,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
+    }
+  ],
+  "metadata": {
+    "generated_at": "2026-06-05T03:46:15.728992+00:00",
+    "snapshot_count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "campaign_id": "New-ICANN-Root-ca",
+    "old_root": {
+        "search_strings": [
+            "MIIDdzCCAl+gAwIBAgIBATANBgkqhkiG9w0BAQsFADBdMQ4wDAYDVQQKEwVJQ0FO"
+        ]
+    },
+    "new_root": {
+        "search_strings": [
+            "MIIFsTCCA5mgAwIBAgIUQFsYkgroBoe69HKQPy8/DQuiLwgwDQYJKoZIhvcNAQEN"
+        ]
+    }
+}
