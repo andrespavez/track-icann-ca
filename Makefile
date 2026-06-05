@@ -47,7 +47,7 @@ report:
 action-report:
 	$(PYTHON) scripts/action_report.py
 
-dashboard:
+dashboard:	dashboard-data
 	$(PYTHON) scripts/dashboard.py
 	cp data/dashboard.html docs/index.html
 	cp data/dashboard_data.json docs/dashboard_data.json
@@ -103,3 +103,4 @@ clean:
 	rm -f data/dashboard.html
 	rm -f reports/action_required.md
 	rm -f docs/index.html
+	rm -f docs/dashboard_data.json
