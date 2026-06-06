@@ -21,8 +21,8 @@
     "User": 206
   },
   "impact": {
-    "total": 39239,
-    "average": 115.4
+    "total": 39253,
+    "average": 115.5
   },
   "top_targets": [
     {
@@ -60,10 +60,10 @@
     {
       "repo": "openbsd/src",
       "priority": "NORMAL",
-      "stars": 3777,
+      "stars": 3778,
       "forks": 940,
       "owner_type": "Organization",
-      "impact": 4717
+      "impact": 4718
     },
     {
       "repo": "libreswan/libreswan",
@@ -100,10 +100,10 @@
     {
       "repo": "steventroughtonsmith/MobileTerminal",
       "priority": "NORMAL",
-      "stars": 197,
+      "stars": 198,
       "forks": 24,
       "owner_type": "User",
-      "impact": 221
+      "impact": 222
     },
     {
       "repo": "xyzmos/GeekDNS",
@@ -270,15 +270,15 @@
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5593,
-      "stars": 4942,
-      "forks": 651,
+      "impact": 5605,
+      "stars": 4955,
+      "forks": 650,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4717,
-      "stars": 3777,
+      "impact": 4718,
+      "stars": 3778,
       "forks": 940,
       "owner_type": "Organization"
     },
@@ -347,8 +347,8 @@
     },
     {
       "repo": "steventroughtonsmith/MobileTerminal",
-      "impact": 221,
-      "stars": 197,
+      "impact": 222,
+      "stars": 198,
       "forks": 24,
       "owner_type": "User"
     },
@@ -461,10 +461,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-05_21-51-50",
+      "total": 340,
+      "old_only": 338,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-05T21:51:50.151099+00:00",
-    "snapshot_count": 3
+    "generated_at": "2026-06-06T15:50:48.969959+00:00",
+    "snapshot_count": 4
   }
 }
