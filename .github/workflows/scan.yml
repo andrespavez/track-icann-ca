@@ -8,6 +8,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   scan:
@@ -42,7 +48,19 @@ jobs:
           git add reports/
           git add docs/
 
-          git diff --cached --quiet || \
+          if ! git diff --cached --quiet; then
             git commit -m "Automated daily scan"
+            git push
+          fi
+      
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
 
-          git push
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
