@@ -18,8 +18,8 @@
     "priority": "NORMAL"
   },
   "iana-org/get-trust-anchor": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/iana-org/get-trust-anchor/issues/29",
     "notes": "",
     "priority": "HIGH"
   },
@@ -48,8 +48,8 @@
     "priority": "NORMAL"
   },
   "kirei/dnssec_ta_tool": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/kirei/dnssec_ta_tool/issues/1",
     "notes": "",
     "priority": "HIGH"
   },
@@ -60,8 +60,8 @@
     "priority": "NORMAL"
   },
   "kirei/dnssec-ta-tools": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/kirei/dnssec_ta_tool/issues/1",
     "notes": "",
     "priority": "HIGH"
   },

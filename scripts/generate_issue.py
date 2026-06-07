@@ -61,7 +61,7 @@ def main():
         return
 
     print(
-        "# ICANN DNSSEC Trust Anchor Certificate Update\n"
+        "ICANN DNSSEC Trust Anchor Certificate Update\n"
     )
 
     print(
@@ -98,7 +98,7 @@ def main():
     for file_info in repo.get("files", []):
 
         print(
-            f"* {file_info['path']}"
+            f"* [{file_info['path']}]({file_info['html_url']})"
         )
 
     print()
@@ -110,9 +110,8 @@ def main():
     )
 
     print( 
-        "Considerations for updating the trust anchor "
-        "are described in RFC 9718, "
-        "*DNSSEC Trust Anchor Publication for the Root Zone*.\n"
+        "Considerations for updating the trust anchor are described in"
+        "*DNSSEC Trust Anchor Publication for the Root Zone* (RFC 9718).\n"
     )
 
     print(
