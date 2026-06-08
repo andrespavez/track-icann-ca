@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 240,
-    "old_only": 238,
+    "total": 300,
+    "old_only": 298,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.8,
+    "progress": 0.7,
     "statuses": {
       "NOT_CONTACTED": 299,
       "ISSUE_OPEN": 3
@@ -18,12 +18,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 99,
-    "User": 141
+    "Organization": 116,
+    "User": 184
   },
   "impact": {
-    "total": 28745,
-    "average": 119.8
+    "total": 29209,
+    "average": 97.4
   },
   "top_targets": [
     {
@@ -67,14 +67,6 @@
       "impact": 314
     },
     {
-      "repo": "CTSRD-CHERI/cheribsd",
-      "priority": "NORMAL",
-      "stars": 211,
-      "forks": 78,
-      "owner_type": "Organization",
-      "impact": 289
-    },
-    {
       "repo": "steventroughtonsmith/MobileTerminal",
       "priority": "NORMAL",
       "stars": 198,
@@ -105,6 +97,14 @@
       "forks": 32,
       "owner_type": "Organization",
       "impact": 165
+    },
+    {
+      "repo": "sumoprojects/sumokoin",
+      "priority": "NORMAL",
+      "stars": 128,
+      "forks": 58,
+      "owner_type": "User",
+      "impact": 186
     },
     {
       "repo": "MidnightBSD/src",
@@ -281,17 +281,17 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 289,
-      "stars": 211,
-      "forks": 78,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "steventroughtonsmith/MobileTerminal",
       "impact": 222,
       "stars": 198,
       "forks": 24,
+      "owner_type": "User"
+    },
+    {
+      "repo": "sumoprojects/sumokoin",
+      "impact": 186,
+      "stars": 128,
+      "forks": 58,
       "owner_type": "User"
     },
     {
@@ -300,6 +300,13 @@
       "stars": 157,
       "forks": 25,
       "owner_type": "User"
+    },
+    {
+      "repo": "ghostbsd/ghostbsd-src",
+      "impact": 179,
+      "stars": 145,
+      "forks": 34,
+      "owner_type": "Organization"
     },
     {
       "repo": "ZephyrProtocol/zephyr",
@@ -334,6 +341,13 @@
       "impact": 127,
       "stars": 71,
       "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "masari-project/masari-webwallet",
+      "impact": 124,
+      "stars": 16,
+      "forks": 108,
       "owner_type": "Organization"
     },
     {
@@ -393,24 +407,10 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "noloader/Build-Scripts",
-      "impact": 92,
-      "stars": 70,
-      "forks": 22,
-      "owner_type": "User"
-    },
-    {
       "repo": "AnthonyTechhh/ZephyrWallet",
       "impact": 92,
       "stars": 47,
       "forks": 45,
-      "owner_type": "User"
-    },
-    {
-      "repo": "gzenux/asuswrt-rtn18u",
-      "impact": 80,
-      "stars": 68,
-      "forks": 12,
       "owner_type": "User"
     }
   ],
@@ -462,10 +462,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-08_16-39-40",
+      "total": 240,
+      "old_only": 238,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-08T16:39:40.343088+00:00",
-    "snapshot_count": 6
+    "generated_at": "2026-06-08T17:31:31.822324+00:00",
+    "snapshot_count": 7
   }
 }
