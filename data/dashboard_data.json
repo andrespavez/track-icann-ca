@@ -18,29 +18,29 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 116,
-    "User": 184
+    "Organization": 114,
+    "User": 186
   },
   "impact": {
-    "total": 29209,
-    "average": 97.4
+    "total": 29319,
+    "average": 97.7
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9115,
+      "stars": 9118,
       "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12438
+      "impact": 12441
     },
     {
       "repo": "openbsd/src",
       "priority": "NORMAL",
-      "stars": 3780,
-      "forks": 940,
+      "stars": 3781,
+      "forks": 941,
       "owner_type": "Organization",
-      "impact": 4720
+      "impact": 4722
     },
     {
       "repo": "libreswan/libreswan",
@@ -117,10 +117,18 @@
     {
       "repo": "Judecoin/judecoin",
       "priority": "NORMAL",
-      "stars": 95,
+      "stars": 96,
       "forks": 22,
       "owner_type": "Organization",
-      "impact": 117
+      "impact": 118
+    },
+    {
+      "repo": "graft-project/GraftNetwork",
+      "priority": "NORMAL",
+      "stars": 81,
+      "forks": 39,
+      "owner_type": "Organization",
+      "impact": 120
     },
     {
       "repo": "ryo-currency/ryo-currency",
@@ -137,14 +145,6 @@
       "forks": 27,
       "owner_type": "Organization",
       "impact": 108
-    },
-    {
-      "repo": "graft-project/GraftNetwork",
-      "priority": "NORMAL",
-      "stars": 81,
-      "forks": 39,
-      "owner_type": "Organization",
-      "impact": 120
     },
     {
       "repo": "masari-project/masari",
@@ -231,25 +231,25 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9115,
+      "stars": 9118,
       "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12438
+      "impact": 12441
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12438,
-      "stars": 9115,
+      "impact": 12441,
+      "stars": 9118,
       "forks": 3323,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4720,
-      "stars": 3780,
-      "forks": 940,
+      "impact": 4722,
+      "stars": 3781,
+      "forks": 941,
       "owner_type": "Organization"
     },
     {
@@ -358,24 +358,17 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "MidnightBSD/src",
-      "impact": 118,
-      "stars": 106,
-      "forks": 12,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "Judecoin/judecoin",
-      "impact": 117,
-      "stars": 95,
+      "impact": 118,
+      "stars": 96,
       "forks": 22,
       "owner_type": "Organization"
     },
     {
-      "repo": "scala-network/scala-v7",
-      "impact": 108,
-      "stars": 81,
-      "forks": 27,
+      "repo": "MidnightBSD/src",
+      "impact": 118,
+      "stars": 106,
+      "forks": 12,
       "owner_type": "Organization"
     },
     {
@@ -384,6 +377,13 @@
       "stars": 69,
       "forks": 39,
       "owner_type": "User"
+    },
+    {
+      "repo": "scala-network/scala-v7",
+      "impact": 108,
+      "stars": 81,
+      "forks": 27,
+      "owner_type": "Organization"
     },
     {
       "repo": "arqma/arqma",
@@ -407,10 +407,10 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "AnthonyTechhh/ZephyrWallet",
+      "repo": "noloader/Build-Scripts",
       "impact": 92,
-      "stars": 47,
-      "forks": 45,
+      "stars": 70,
+      "forks": 22,
       "owner_type": "User"
     }
   ],
@@ -470,10 +470,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-08_17-31-31",
+      "total": 300,
+      "old_only": 298,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-08T17:31:31.822324+00:00",
-    "snapshot_count": 7
+    "generated_at": "2026-06-09T16:40:06.335216+00:00",
+    "snapshot_count": 8
   }
 }

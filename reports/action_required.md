@@ -1,6 +1,6 @@
 # ICANN Root CA Migration
 
-Generated: 2026-06-08T17:31:31.721244+00:00
+Generated: 2026-06-09T16:40:06.235664+00:00
 
 ## OLD_ONLY (298)
 
@@ -385,7 +385,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/bmwiedemann/openSUSE/blob/e717c0fc29620043b44b3a44d43a7179f7f1b30c/packages/u/unbound/icannbundle.pem
+- https://github.com/bmwiedemann/openSUSE/blob/4c999545600775679fc8c0d5af9ad384cfe569cf/packages/u/unbound/icannbundle.pem
 
 ---
 
@@ -1106,7 +1106,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/freebsd/freebsd-src/blob/0b269737f9ca057826a6c9376c2474b1ae5bc91c/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/freebsd/freebsd-src/blob/13fb6dbc738f4ba30e78a8fb21efa1382c520d33/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -1142,9 +1142,9 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem
+- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py
 
 ---
 
@@ -1168,7 +1168,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-mips/blob/1c663bfadeb4ce3c6b5867d01daece64146b2fa1/release/src/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-mips/blob/4b52f48669bca6abb0b93880d5f3946435d58c54/release/src/router/getdns/src/context.c
 
 ---
 
@@ -1217,6 +1217,18 @@ Affected files: 1
 Source locations:
 
 - https://github.com/glk/freebsd-head/blob/46559a7088dd10ecae748466f4023a9d6a61750d/contrib/unbound/smallapp/unbound-anchor.c
+
+---
+
+### go-n/n
+
+Repository: https://github.com/go-n/n
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/go-n/n/blob/c2fff64b8db15cba371a422cfdeff78bf6b3006b/dnssec/trust/ICANN_ROOT_CA.crt
 
 ---
 
@@ -1388,6 +1400,18 @@ Source locations:
 
 ---
 
+### hertogp/dnscheck
+
+Repository: https://github.com/hertogp/dnscheck
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/hertogp/dnscheck/blob/5f586afb129c49abb40dd2996452a12198b05ff4/priv/icannbundle.pem
+
+---
+
 ### himanshuchoudhary/freebsd
 
 Repository: https://github.com/himanshuchoudhary/freebsd
@@ -1532,6 +1556,18 @@ Source locations:
 
 ---
 
+### jackofall1232/zillha-shards
+
+Repository: https://github.com/jackofall1232/zillha-shards
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/jackofall1232/zillha-shards/blob/5c8bbdf99c2c7cb0e0656047d073a50e8a11e030/src/common/dns_utils.cpp
+
+---
+
 ### JamesLinus/freebsd-base-graphics
 
 Repository: https://github.com/JamesLinus/freebsd-base-graphics
@@ -1640,6 +1676,18 @@ Source locations:
 
 ---
 
+### jkool702/openwrt-custom-builds
+
+Repository: https://github.com/jkool702/openwrt-custom-builds
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/jkool702/openwrt-custom-builds/blob/a85a984f017002e521af052da6ca8524f4c1380f/WRX36/bin/extra/files/etc/unbound/icannbundle.pem
+
+---
+
 ### JordyZomer/unbnd
 
 Repository: https://github.com/JordyZomer/unbnd
@@ -1684,7 +1732,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/Judecoin/judecoin/blob/b47777a57b0b2ef800a178218081f2368cfe9d45/src/common/dns_utils.cpp
+- https://github.com/Judecoin/judecoin/blob/feab82ac555199b2f9dbd5d9fca62d2ad8b7fc70/src/common/dns_utils.cpp
 
 ---
 
@@ -1757,9 +1805,9 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
-- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py
 - https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem
+- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py
+- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 
 ---
 
@@ -1855,7 +1903,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/libreswan/libreswan/blob/43406c2714dc04d2f7ac1987cf56a6e5420ab499/testing/baseconfigs/all/etc/unbound/icannbundle.pem
+- https://github.com/libreswan/libreswan/blob/d11cdc64694a137c2ace480e43a9817a1905841f/testing/baseconfigs/all/etc/unbound/icannbundle.pem
 
 ---
 
@@ -2011,7 +2059,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/MidnightBSD/src/blob/82f491ad89768061099ce8ea70a6007e7db63e35/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/MidnightBSD/src/blob/7c11ef1a7226d966be826605b24697fe5f1023f6/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2291,6 +2339,18 @@ Source locations:
 
 ---
 
+### noloader/Build-Scripts
+
+Repository: https://github.com/noloader/Build-Scripts
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/noloader/Build-Scripts/blob/12c6cbf3cae18759c210c83475f0d07e4dd91bf7/bootstrap/icannbundle.pem
+
+---
+
 ### obiwac/freebsd-gsoc
 
 Repository: https://github.com/obiwac/freebsd-gsoc
@@ -2300,18 +2360,6 @@ Affected files: 1
 Source locations:
 
 - https://github.com/obiwac/freebsd-gsoc/blob/91311aef1126f69aacbb8624587211f607e6c06a/contrib/unbound/smallapp/unbound-anchor.c
-
----
-
-### obiwac/freebsd-s0ix
-
-Repository: https://github.com/obiwac/freebsd-s0ix
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/obiwac/freebsd-s0ix/blob/315f665fe1ac97ea2ca946e51ced24f7b21fb22e/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2419,43 +2467,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/openbsd/src/blob/d88eaf8f50bc70cbd08abae0d2c75e3b17ab1993/usr.sbin/unbound/smallapp/unbound-anchor.c
-
----
-
-### openos365/openos365-10002-anolisos-8-docker
-
-Repository: https://github.com/openos365/openos365-10002-anolisos-8-docker
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/openos365/openos365-10002-anolisos-8-docker/blob/b7641dc85f1dee079cda66a9d2a38b0b8d938c34/ci/1030-docker-run/etc/unbound/icannbundle.pem
-
----
-
-### openos365/openos365-10009-centos-stream-docker
-
-Repository: https://github.com/openos365/openos365-10009-centos-stream-docker
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/openos365/openos365-10009-centos-stream-docker/blob/06e5f5a12dbd38ed78528a7e2b694eb145b56b95/ci/1030-docker-run/etc/unbound/icannbundle.pem
-
----
-
-### openos365/openos365-10010-rockylinux-8-docker
-
-Repository: https://github.com/openos365/openos365-10010-rockylinux-8-docker
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/openos365/openos365-10010-rockylinux-8-docker/blob/3638bf03f851b39f337bbafa929c858d923cc494/ci/1030-docker-run/etc/unbound/icannbundle.pem
+- https://github.com/openbsd/src/blob/6778b3d3b609d81d9dcdac07c96028a281e43b79/usr.sbin/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2467,8 +2479,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/pike-etc/unbound/icannbundle.pem
 - https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/eviz-etc/unbound/icannbundle.pem
+- https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/pike-etc/unbound/icannbundle.pem
 
 ---
 
@@ -2508,18 +2520,6 @@ Source locations:
 
 ---
 
-### p5/hummingbird-rpms
-
-Repository: https://github.com/p5/hummingbird-rpms
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/dns-root-data/icannbundle.pem
-
----
-
 ### patmaddox/test-subtree
 
 Repository: https://github.com/patmaddox/test-subtree
@@ -2528,8 +2528,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c
 - https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/main/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2545,18 +2545,6 @@ Source locations:
 
 ---
 
-### pemensik/dns-root-data
-
-Repository: https://github.com/pemensik/dns-root-data
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/pemensik/dns-root-data/blob/8a9b1102c6fa0dac47708f05726d7c1bc1f6c51a/icannbundle.pem
-
----
-
 ### pfsense/FreeBSD-src
 
 Repository: https://github.com/pfsense/FreeBSD-src
@@ -2566,6 +2554,18 @@ Affected files: 1
 Source locations:
 
 - https://github.com/pfsense/FreeBSD-src/blob/220e9a7e8d1f8d11dac87d7f1ffe1a1e10dade10/contrib/unbound/smallapp/unbound-anchor.c
+
+---
+
+### pgraug/dhyve-src
+
+Repository: https://github.com/pgraug/dhyve-src
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/pgraug/dhyve-src/blob/3ef7d5fb006a42be710e1d097b411d9fa8d3b8e8/dhyve/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2650,18 +2650,6 @@ Affected files: 1
 Source locations:
 
 - https://github.com/pruiz/openbsd-src/blob/3cb379cf3ab3dc06425afde357acdffe4cf9326a/usr.sbin/unbound/smallapp/unbound-anchor.c
-
----
-
-### prxject64-stack/Arcana-core
-
-Repository: https://github.com/prxject64-stack/Arcana-core
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/prxject64-stack/Arcana-core/blob/c157448859a0bc3c12be0ab5dafdc2cfb81761fb/engine/src/common/dns_utils.cpp
 
 ---
 
@@ -3539,6 +3527,18 @@ Affected files: 1
 Source locations:
 
 - https://github.com/xyzmos/GeekDNS/blob/e8e12afad29545be412d2f59d6629e4f351f95be/Docker/data/unbound/smallapp/unbound-anchor.c
+
+---
+
+### Yegudion/MISIS
+
+Repository: https://github.com/Yegudion/MISIS
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/Yegudion/MISIS/blob/037282d91178cfff2ad77777db86d1e2fe2860d0/MISIS_LABS/Operatin_system/LAB_2/test/i-files/icannbundle.pem
 
 ---
 
