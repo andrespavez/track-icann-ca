@@ -18,29 +18,29 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 114,
-    "User": 186
+    "Organization": 115,
+    "User": 185
   },
   "impact": {
-    "total": 29319,
-    "average": 97.7
+    "total": 30126,
+    "average": 100.4
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9118,
-      "forks": 3323,
+      "stars": 9121,
+      "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12441
+      "impact": 12445
     },
     {
       "repo": "openbsd/src",
       "priority": "NORMAL",
-      "stars": 3781,
-      "forks": 941,
+      "stars": 3784,
+      "forks": 942,
       "owner_type": "Organization",
-      "impact": 4722
+      "impact": 4726
     },
     {
       "repo": "libreswan/libreswan",
@@ -123,6 +123,14 @@
       "impact": 118
     },
     {
+      "repo": "scala-network/scala-v7",
+      "priority": "NORMAL",
+      "stars": 81,
+      "forks": 27,
+      "owner_type": "Organization",
+      "impact": 108
+    },
+    {
       "repo": "graft-project/GraftNetwork",
       "priority": "NORMAL",
       "stars": 81,
@@ -133,18 +141,10 @@
     {
       "repo": "ryo-currency/ryo-currency",
       "priority": "NORMAL",
-      "stars": 81,
+      "stars": 80,
       "forks": 48,
       "owner_type": "Organization",
-      "impact": 129
-    },
-    {
-      "repo": "scala-network/scala-v7",
-      "priority": "NORMAL",
-      "stars": 81,
-      "forks": 27,
-      "owner_type": "Organization",
-      "impact": 108
+      "impact": 128
     },
     {
       "repo": "masari-project/masari",
@@ -231,25 +231,25 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9118,
-      "forks": 3323,
+      "stars": 9121,
+      "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12441
+      "impact": 12445
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12441,
-      "stars": 9118,
-      "forks": 3323,
+      "impact": 12445,
+      "stars": 9121,
+      "forks": 3324,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4722,
-      "stars": 3781,
-      "forks": 941,
+      "impact": 4726,
+      "stars": 3784,
+      "forks": 942,
       "owner_type": "Organization"
     },
     {
@@ -257,6 +257,13 @@
       "impact": 1214,
       "stars": 950,
       "forks": 264,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "getdnsapi/getdns",
+      "impact": 614,
+      "stars": 483,
+      "forks": 131,
       "owner_type": "Organization"
     },
     {
@@ -286,6 +293,13 @@
       "stars": 198,
       "forks": 24,
       "owner_type": "User"
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-arm",
+      "impact": 209,
+      "stars": 167,
+      "forks": 42,
+      "owner_type": "Organization"
     },
     {
       "repo": "sumoprojects/sumokoin",
@@ -331,8 +345,8 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 129,
-      "stars": 81,
+      "impact": 128,
+      "stars": 80,
       "forks": 48,
       "owner_type": "Organization"
     },
@@ -397,20 +411,6 @@
       "impact": 98,
       "stars": 59,
       "forks": 39,
-      "owner_type": "User"
-    },
-    {
-      "repo": "E-F-A/v4",
-      "impact": 95,
-      "stars": 58,
-      "forks": 37,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "noloader/Build-Scripts",
-      "impact": 92,
-      "stars": 70,
-      "forks": 22,
       "owner_type": "User"
     }
   ],
@@ -478,10 +478,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-09_16-40-06",
+      "total": 300,
+      "old_only": 298,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-09T16:40:06.335216+00:00",
-    "snapshot_count": 8
+    "generated_at": "2026-06-10T17:30:53.981645+00:00",
+    "snapshot_count": 9
   }
 }

@@ -1,6 +1,6 @@
 # ICANN Root CA Migration
 
-Generated: 2026-06-09T16:40:06.235664+00:00
+Generated: 2026-06-10T17:30:53.881728+00:00
 
 ## OLD_ONLY (298)
 
@@ -385,7 +385,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/bmwiedemann/openSUSE/blob/4c999545600775679fc8c0d5af9ad384cfe569cf/packages/u/unbound/icannbundle.pem
+- https://github.com/bmwiedemann/openSUSE/blob/04927a44a2422ec167467e4fa9a6e523677b3bc4/packages/u/unbound/icannbundle.pem
 
 ---
 
@@ -699,6 +699,18 @@ Affected files: 1
 Source locations:
 
 - https://github.com/cyxion-project/cyxion/blob/8f3e9995a5445870d6f770c4d2a48d3b102a0ea9/src/common/dns_utils.cpp
+
+---
+
+### DarkGhostHunter/OpenWRT-NSS-Full
+
+Repository: https://github.com/DarkGhostHunter/OpenWRT-NSS-Full
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/DarkGhostHunter/OpenWRT-NSS-Full/blob/76667c52f22bd69deac5269b15021e0e66cd05cb/files/etc/unbound/icannbundle.pem
 
 ---
 
@@ -1106,7 +1118,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/freebsd/freebsd-src/blob/13fb6dbc738f4ba30e78a8fb21efa1382c520d33/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/freebsd/freebsd-src/blob/6365c45d951dd50ca411160b03c3a0427bd54449/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -1142,21 +1154,21 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem
+- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py
 
 ---
 
-### FreshTomato-Project/freshtomato-ax
+### FreshTomato-Project/freshtomato-arm
 
-Repository: https://github.com/FreshTomato-Project/freshtomato-ax
+Repository: https://github.com/FreshTomato-Project/freshtomato-arm
 
 Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-ax/blob/e03835c1b2c7bc8be388d2a5ff3c4325b2c7a29f/release/src/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-arm/blob/247606a5ec5fa820af2a0010d6e64c7a2dfd327b/release/src-rt-6.x.4708/router/getdns/src/context.c
 
 ---
 
@@ -1168,7 +1180,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-mips/blob/4b52f48669bca6abb0b93880d5f3946435d58c54/release/src/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-mips/blob/708fc57ab0ca1eb61ee4eaaca07e955679302c5c/release/src/router/getdns/src/context.c
 
 ---
 
@@ -1181,6 +1193,18 @@ Affected files: 1
 Source locations:
 
 - https://github.com/GeldumProject/geldum/blob/89f4390bbf36e3af77f594c12ef6034382273402/src/common/dns_utils.cpp
+
+---
+
+### getdnsapi/getdns
+
+Repository: https://github.com/getdnsapi/getdns
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/getdnsapi/getdns/blob/f8c95b4f150a7b42153a380fea05ed6ad5ce9826/src/context.c
 
 ---
 
@@ -1385,30 +1409,6 @@ Affected files: 1
 Source locations:
 
 - https://github.com/hdezela/aws-media/blob/c53d5eee40eeb4c1f6219c397092bd989ff5da97/rpmbuild/SOURCES/icannbundle.pem
-
----
-
-### HE7086/asuswrt
-
-Repository: https://github.com/HE7086/asuswrt
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/HE7086/asuswrt/blob/5e99bbb49cc6b07f127a2c403e091a5d930377f4/release/src/router/getdns/src/context.c
-
----
-
-### hertogp/dnscheck
-
-Repository: https://github.com/hertogp/dnscheck
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/hertogp/dnscheck/blob/5f586afb129c49abb40dd2996452a12198b05ff4/priv/icannbundle.pem
 
 ---
 
@@ -1732,7 +1732,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/Judecoin/judecoin/blob/feab82ac555199b2f9dbd5d9fca62d2ad8b7fc70/src/common/dns_utils.cpp
+- https://github.com/Judecoin/judecoin/blob/8a7bd297a9c3a35f890aa5adf0762f1a7dd18149/src/common/dns_utils.cpp
 
 ---
 
@@ -1805,8 +1805,8 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem
 - https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py
+- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem
 - https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 
 ---
@@ -1903,7 +1903,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/libreswan/libreswan/blob/d11cdc64694a137c2ace480e43a9817a1905841f/testing/baseconfigs/all/etc/unbound/icannbundle.pem
+- https://github.com/libreswan/libreswan/blob/3840c6cf328ba053db30925dc3cd804c70da61c0/testing/baseconfigs/all/etc/unbound/icannbundle.pem
 
 ---
 
@@ -2059,7 +2059,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/MidnightBSD/src/blob/7c11ef1a7226d966be826605b24697fe5f1023f6/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/MidnightBSD/src/blob/4e1e4120c3a3e108159c97b1f7dc5fcb690422f4/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2467,7 +2467,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/openbsd/src/blob/6778b3d3b609d81d9dcdac07c96028a281e43b79/usr.sbin/unbound/smallapp/unbound-anchor.c
+- https://github.com/openbsd/src/blob/293caf0d3fbcaa7970dcbd7d26dff73771762c60/usr.sbin/unbound/smallapp/unbound-anchor.c
 
 ---
 
