@@ -70,6 +70,7 @@ def main():
 
     for status in [
         "NOT_CONTACTED",
+        "CONTACTED",
         "ISSUE_OPEN",
         "ISSUE_CLOSED",
         "FIX_MERGED"

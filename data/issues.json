@@ -12,9 +12,9 @@
     "priority": "NORMAL"
   },
   "libreswan/libreswan": {
-    "issue_status": "ISSUE_OPEN",
+    "issue_status": "ISSUE_CLOSED",
     "issue_url": "https://github.com/libreswan/libreswan/issues/2845",
-    "notes": "",
+    "notes": "https://github.com/libreswan/libreswan/commit/7fb219d1d8d86a5d899bbf5b3bec31b140110de7",
     "priority": "NORMAL"
   },
   "iana-org/get-trust-anchor": {

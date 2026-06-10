@@ -304,6 +304,7 @@ th {{
 
 <ul>
 <li>NOT_CONTACTED: {issue_counts.get('NOT_CONTACTED',0)}</li>
+<li>CONTACTED: {issue_counts.get('CONTACTED',0)}</li>
 <li>ISSUE_OPEN: {issue_counts.get('ISSUE_OPEN',0)}</li>
 <li>ISSUE_CLOSED: {issue_counts.get('ISSUE_CLOSED',0)}</li>
 <li>FIX_MERGED: {issue_counts.get('FIX_MERGED',0)}</li>

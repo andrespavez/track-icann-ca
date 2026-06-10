@@ -51,6 +51,7 @@ Each repository also has a campaign status:
 | Status | Description |
 |----------|----------|
 | NOT_CONTACTED | No outreach performed yet. |
+| CONTACTED | Outreach performed by email or Bugzilla. |
 | ISSUE_OPEN | GitHub issue has been opened. |
 | ISSUE_CLOSED | Issue was closed without migration. |
 | FIX_MERGED | Migration completed and fix merged. |
