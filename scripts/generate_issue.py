@@ -65,7 +65,7 @@ def main():
     )
 
     print(
-        "Hello maintainers,\n"
+        "Greetings,\n"
     )
 
     print(
@@ -83,8 +83,8 @@ def main():
     ) 
     
     print(
-        "The bundle currently contains both the existing "
-        "certificate and the replacement certificate. "
+        "This bundle currently contains both the existing "
+        "certificate and its replacement certificate. "
         "Signatures chaining to the new certificate are "
         "expected to be published in 2028, at which point "
         "relying parties will need to validate using the "

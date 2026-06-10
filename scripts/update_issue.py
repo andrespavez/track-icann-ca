@@ -6,6 +6,7 @@ ISSUES_FILE = "data/issues.json"
 
 VALID_STATUSES = {
     "NOT_CONTACTED",
+    "CONTACTED",
     "ISSUE_OPEN",
     "ISSUE_CLOSED",
     "FIX_MERGED"
@@ -36,18 +37,19 @@ def save_issues(data):
 
 def main():
 
-    if len(sys.argv) < 3:
+    if len(sys.argv) < 4:
 
         print(
             "Usage:\n"
             "python scripts/update_issue.py "
-            "<repo> <status> [issue_url]"
+            "<repo> <status> <issue_url> <notes>"
         )
 
         return
 
     repo = sys.argv[1]
     status = sys.argv[2]
+    issue_url = sys.argv[3]
 
     if status not in VALID_STATUSES:
 
@@ -56,11 +58,6 @@ def main():
         )
 
         return
-
-    issue_url = None
-
-    if len(sys.argv) > 3:
-        issue_url = sys.argv[3]
 
     issues = load_issues()
 
@@ -72,10 +69,16 @@ def main():
 
         return
 
-    issues[repo]["issue_status"] = status
+    notes = None
 
-    if issue_url:
-        issues[repo]["issue_url"] = issue_url
+    if len(sys.argv) > 4:
+        notes = sys.argv[4]
+
+    issues[repo]["issue_status"] = status
+    issues[repo]["issue_url"] = issue_url
+
+    if notes:
+        issues[repo]["notes"] = notes
 
     save_issues(issues)
 

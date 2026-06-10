@@ -6,14 +6,14 @@
     "priority": "HIGH"
   },
   "electroneum/electroneum": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/electroneum/electroneum/issues/401",
     "notes": "",
     "priority": "NORMAL"
   },
   "libreswan/libreswan": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/libreswan/libreswan/issues/2845",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -24,20 +24,20 @@
     "priority": "HIGH"
   },
   "gzenux/asuswrt-rtn18u": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/gzenux/asuswrt-rtn18u/issues/67",
     "notes": "",
     "priority": "NORMAL"
   },
   "Judecoin/judecoin": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/Judecoin/judecoin/issues/27",
     "notes": "",
     "priority": "NORMAL"
   },
   "E-F-A/v4": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/E-F-A/v4/issues/383",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -132,14 +132,14 @@
     "priority": "NORMAL"
   },
   "arqma/arqma": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/arqma/arqma/issues/376",
     "notes": "",
     "priority": "NORMAL"
   },
   "scala-network/scala-v7": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/scala-network/scala-v7/issues/79",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -162,8 +162,8 @@
     "priority": "NORMAL"
   },
   "FreshTomato-Project/freshtomato-mips": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/FreshTomato-Project/freshtomato-mips/issues/60",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -270,8 +270,8 @@
     "priority": "NORMAL"
   },
   "steventroughtonsmith/MobileTerminal": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/steventroughtonsmith/MobileTerminal/issues/6",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -414,8 +414,8 @@
     "priority": "NORMAL"
   },
   "graft-project/GraftNetwork": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/graft-project/GraftNetwork/issues/377",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -432,8 +432,8 @@
     "priority": "NORMAL"
   },
   "havenprotocol/haven": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/havenprotocol/haven/issues/50",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -498,8 +498,8 @@
     "priority": "NORMAL"
   },
   "sumoprojects/sumokoin": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/sumoprojects/sumokoin/issues/1231",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -510,8 +510,8 @@
     "priority": "NORMAL"
   },
   "MidnightBSD/src": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/MidnightBSD/src/issues/374",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1008,8 +1008,8 @@
     "priority": "NORMAL"
   },
   "ryo-currency/ryo-currency": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/ryo-currency/ryo-currency/issues/321",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1104,8 +1104,8 @@
     "priority": "NORMAL"
   },
   "ZephyrProtocol/zephyr": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/ZephyrProtocol/zephyr/issues/66",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1428,8 +1428,8 @@
     "priority": "NORMAL"
   },
   "AnthonyTechhh/ZephyrWallet": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/AnthonyTechhh/ZephyrWallet/issues/1",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1518,14 +1518,14 @@
     "priority": "NORMAL"
   },
   "openbsd/src": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
-    "notes": "",
+    "issue_status": "CONTACTED",
+    "issue_url": "email",
+    "notes": "bugs@openbsd.org",
     "priority": "NORMAL"
   },
   "masari-project/masari": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/masari-project/masari/issues/194",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1536,8 +1536,8 @@
     "priority": "NORMAL"
   },
   "lattera/freebsd": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/lattera/freebsd/issues/1",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1572,14 +1572,14 @@
     "priority": "NORMAL"
   },
   "xyzmos/GeekDNS": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/xyzmos/GeekDNS/issues/12",
     "notes": "",
     "priority": "NORMAL"
   },
   "uPlexa/uplexa": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/uPlexa/uplexa/issues/96",
     "notes": "",
     "priority": "NORMAL"
   },
@@ -1692,8 +1692,8 @@
     "priority": "NORMAL"
   },
   "masari-project/masari-webwallet": {
-    "issue_status": "NOT_CONTACTED",
-    "issue_url": null,
+    "issue_status": "ISSUE_OPEN",
+    "issue_url": "https://github.com/masari-project/masari-webwallet/issues/43",
     "notes": "",
     "priority": "NORMAL"
   },
