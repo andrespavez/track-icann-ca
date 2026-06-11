@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 339,
-    "old_only": 337,
+    "total": 337,
+    "old_only": 335,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -10,7 +10,8 @@
     "progress": 0.6,
     "statuses": {
       "NOT_CONTACTED": 277,
-      "ISSUE_OPEN": 24,
+      "ISSUE_OPEN": 23,
+      "ISSUE_CLOSED": 1,
       "CONTACTED": 1
     }
   },
@@ -19,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 134,
+    "Organization": 132,
     "User": 205
   },
   "impact": {
-    "total": 39450,
-    "average": 116.4
+    "total": 38128,
+    "average": 113.1
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9121,
+      "stars": 9125,
       "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12445
+      "impact": 12449
     },
     {
       "repo": "truenas/os",
@@ -140,14 +141,6 @@
       "impact": 43
     },
     {
-      "repo": "FreshTomato-Project/freshtomato-ax",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 25
-    },
-    {
       "repo": "blackfuel/asuswrt-gt-ac5300",
       "priority": "NORMAL",
       "stars": 19,
@@ -164,12 +157,12 @@
       "impact": 24
     },
     {
-      "repo": "BitChute/chutoken",
+      "repo": "FreshTomato-Project/freshtomato-ax",
       "priority": "NORMAL",
-      "stars": 18,
-      "forks": 5,
+      "stars": 19,
+      "forks": 6,
       "owner_type": "Organization",
-      "impact": 23
+      "impact": 25
     },
     {
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
@@ -180,20 +173,20 @@
       "impact": 27
     },
     {
+      "repo": "BitChute/chutoken",
+      "priority": "NORMAL",
+      "stars": 18,
+      "forks": 5,
+      "owner_type": "Organization",
+      "impact": 23
+    },
+    {
       "repo": "ExcitableAardvark/node-cryptonight",
       "priority": "NORMAL",
       "stars": 17,
       "forks": 12,
       "owner_type": "User",
       "impact": 29
-    },
-    {
-      "repo": "pcbsd/NextBSD",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 21
     },
     {
       "repo": "os3sec/Extended-DNSSEC-Validator",
@@ -210,6 +203,14 @@
       "forks": 7,
       "owner_type": "User",
       "impact": 22
+    },
+    {
+      "repo": "pcbsd/NextBSD",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 21
     },
     {
       "repo": "scala-network/Scala",
@@ -232,47 +233,40 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9121,
+      "stars": 9125,
       "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12445
+      "impact": 12449
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12445,
-      "stars": 9121,
+      "impact": 12449,
+      "stars": 9125,
       "forks": 3324,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5634,
-      "stars": 4981,
-      "forks": 653,
+      "impact": 5640,
+      "stars": 4985,
+      "forks": 655,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4726,
-      "stars": 3784,
+      "impact": 4728,
+      "stars": 3786,
       "forks": 942,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2334,
+      "impact": 2332,
       "stars": 2210,
-      "forks": 124,
+      "forks": 122,
       "owner_type": "User"
-    },
-    {
-      "repo": "libreswan/libreswan",
-      "impact": 1215,
-      "stars": 951,
-      "forks": 264,
-      "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
@@ -413,6 +407,13 @@
       "stars": 106,
       "forks": 12,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "lattera/freebsd",
+      "impact": 108,
+      "stars": 69,
+      "forks": 39,
+      "owner_type": "User"
     }
   ],
   "trend": [
@@ -506,7 +507,7 @@
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-10T21:36:39.974055+00:00",
+    "generated_at": "2026-06-11T18:18:37.501248+00:00",
     "snapshot_count": 11
   }
 }
