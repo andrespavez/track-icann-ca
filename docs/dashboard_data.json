@@ -24,17 +24,17 @@
     "User": 205
   },
   "impact": {
-    "total": 38128,
-    "average": 113.1
+    "total": 38142,
+    "average": 113.2
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9125,
-      "forks": 3324,
+      "stars": 9131,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12449
+      "impact": 12454
     },
     {
       "repo": "truenas/os",
@@ -48,9 +48,9 @@
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
       "stars": 211,
-      "forks": 78,
+      "forks": 79,
       "owner_type": "Organization",
-      "impact": 289
+      "impact": 290
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,53 +233,53 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9125,
-      "forks": 3324,
+      "stars": 9131,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12449
+      "impact": 12454
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12449,
-      "stars": 9125,
-      "forks": 3324,
+      "impact": 12454,
+      "stars": 9131,
+      "forks": 3323,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5640,
-      "stars": 4985,
+      "impact": 5639,
+      "stars": 4984,
       "forks": 655,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4728,
-      "stars": 3786,
+      "impact": 4730,
+      "stars": 3788,
       "forks": 942,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2332,
-      "stars": 2210,
-      "forks": 122,
+      "impact": 2334,
+      "stars": 2211,
+      "forks": 123,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 679,
-      "stars": 483,
-      "forks": 196,
+      "impact": 681,
+      "stars": 484,
+      "forks": 197,
       "owner_type": "Organization"
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 614,
+      "impact": 613,
       "stars": 483,
-      "forks": 131,
+      "forks": 130,
       "owner_type": "Organization"
     },
     {
@@ -312,9 +312,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 289,
+      "impact": 290,
       "stars": 211,
-      "forks": 78,
+      "forks": 79,
       "owner_type": "Organization"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 210,
-      "stars": 168,
+      "impact": 211,
+      "stars": 169,
       "forks": 42,
       "owner_type": "Organization"
     },
@@ -504,10 +504,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-11_18-18-37",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-11T18:18:37.501248+00:00",
-    "snapshot_count": 11
+    "generated_at": "2026-06-12T17:20:22.088391+00:00",
+    "snapshot_count": 12
   }
 }
