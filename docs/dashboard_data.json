@@ -24,15 +24,15 @@
     "User": 205
   },
   "impact": {
-    "total": 38152,
-    "average": 113.2
+    "total": 38166,
+    "average": 113.3
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9134,
-      "forks": 3324,
+      "stars": 9133,
+      "forks": 3325,
       "owner_type": "Organization",
       "impact": 12458
     },
@@ -233,8 +233,8 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9134,
-      "forks": 3324,
+      "stars": 9133,
+      "forks": 3325,
       "owner_type": "Organization",
       "impact": 12458
     }
@@ -243,28 +243,28 @@
     {
       "repo": "freebsd/freebsd-src",
       "impact": 12458,
-      "stars": 9134,
-      "forks": 3324,
+      "stars": 9133,
+      "forks": 3325,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5643,
-      "stars": 4988,
-      "forks": 655,
+      "impact": 5649,
+      "stars": 4993,
+      "forks": 656,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4731,
-      "stars": 3789,
+      "impact": 4732,
+      "stars": 3790,
       "forks": 942,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2333,
-      "stars": 2210,
+      "impact": 2335,
+      "stars": 2212,
       "forks": 123,
       "owner_type": "User"
     },
@@ -347,9 +347,9 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 180,
+      "impact": 181,
       "stars": 145,
-      "forks": 35,
+      "forks": 36,
       "owner_type": "Organization"
     },
     {
@@ -520,10 +520,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-13_16-10-28",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-13T16:10:28.927524+00:00",
-    "snapshot_count": 13
+    "generated_at": "2026-06-14T16:12:33.253643+00:00",
+    "snapshot_count": 14
   }
 }
