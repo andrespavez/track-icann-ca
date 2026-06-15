@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 335,
+    "total": 336,
+    "old_only": 334,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -21,20 +21,20 @@
   },
   "owners": {
     "Organization": 132,
-    "User": 205
+    "User": 204
   },
   "impact": {
-    "total": 38166,
-    "average": 113.3
+    "total": 38181,
+    "average": 113.6
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9133,
-      "forks": 3325,
+      "stars": 9136,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12458
+      "impact": 12459
     },
     {
       "repo": "truenas/os",
@@ -80,9 +80,9 @@
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
       "stars": 42,
-      "forks": 3,
+      "forks": 2,
       "owner_type": "User",
-      "impact": 45
+      "impact": 44
     },
     {
       "repo": "salvium/salvium",
@@ -189,14 +189,6 @@
       "impact": 29
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 22
-    },
-    {
       "repo": "minombreesjeff/darwin_env",
       "priority": "NORMAL",
       "stars": 15,
@@ -211,6 +203,14 @@
       "forks": 6,
       "owner_type": "Organization",
       "impact": 21
+    },
+    {
+      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 22
     },
     {
       "repo": "scala-network/Scala",
@@ -233,46 +233,46 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9133,
-      "forks": 3325,
+      "stars": 9136,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12458
+      "impact": 12459
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12458,
-      "stars": 9133,
-      "forks": 3325,
+      "impact": 12459,
+      "stars": 9136,
+      "forks": 3323,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5649,
-      "stars": 4993,
-      "forks": 656,
+      "impact": 5659,
+      "stars": 5001,
+      "forks": 658,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4732,
-      "stars": 3790,
+      "impact": 4734,
+      "stars": 3792,
       "forks": 942,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2335,
-      "stars": 2212,
+      "impact": 2336,
+      "stars": 2213,
       "forks": 123,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
       "impact": 680,
-      "stars": 484,
-      "forks": 196,
+      "stars": 483,
+      "forks": 197,
       "owner_type": "Organization"
     },
     {
@@ -326,8 +326,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 211,
-      "stars": 169,
+      "impact": 212,
+      "stars": 170,
       "forks": 42,
       "owner_type": "Organization"
     },
@@ -528,10 +528,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-14_16-12-33",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-14T16:12:33.253643+00:00",
-    "snapshot_count": 14
+    "generated_at": "2026-06-15T18:55:33.979169+00:00",
+    "snapshot_count": 15
   }
 }
