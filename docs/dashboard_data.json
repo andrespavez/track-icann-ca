@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 38181,
-    "average": 113.6
+    "total": 38204,
+    "average": 113.7
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9136,
-      "forks": 3323,
+      "stars": 9137,
+      "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12459
+      "impact": 12461
     },
     {
       "repo": "truenas/os",
@@ -233,31 +233,31 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9136,
-      "forks": 3323,
+      "stars": 9137,
+      "forks": 3324,
       "owner_type": "Organization",
-      "impact": 12459
+      "impact": 12461
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12459,
-      "stars": 9136,
-      "forks": 3323,
+      "impact": 12461,
+      "stars": 9137,
+      "forks": 3324,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5659,
-      "stars": 5001,
-      "forks": 658,
+      "impact": 5666,
+      "stars": 5005,
+      "forks": 661,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4734,
-      "stars": 3792,
+      "impact": 4736,
+      "stars": 3794,
       "forks": 942,
       "owner_type": "Organization"
     },
@@ -326,8 +326,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 212,
-      "stars": 170,
+      "impact": 213,
+      "stars": 171,
       "forks": 42,
       "owner_type": "Organization"
     },
@@ -340,8 +340,8 @@
     },
     {
       "repo": "xyzmos/GeekDNS",
-      "impact": 182,
-      "stars": 157,
+      "impact": 183,
+      "stars": 158,
       "forks": 25,
       "owner_type": "User"
     },
@@ -536,10 +536,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-15_18-55-34",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-15T18:55:33.979169+00:00",
-    "snapshot_count": 15
+    "generated_at": "2026-06-16T18:51:24.786761+00:00",
+    "snapshot_count": 16
   }
 }
