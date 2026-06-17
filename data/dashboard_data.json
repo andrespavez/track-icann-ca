@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 38204,
+    "total": 38218,
     "average": 113.7
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9137,
-      "forks": 3324,
+      "stars": 9141,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12461
+      "impact": 12464
     },
     {
       "repo": "truenas/os",
@@ -88,9 +88,9 @@
       "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 38,
-      "forks": 18,
+      "forks": 19,
       "owner_type": "Organization",
-      "impact": 56
+      "impact": 57
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -233,32 +233,32 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9137,
-      "forks": 3324,
+      "stars": 9141,
+      "forks": 3323,
       "owner_type": "Organization",
-      "impact": 12461
+      "impact": 12464
     }
   ],
   "high_impact": [
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12461,
-      "stars": 9137,
-      "forks": 3324,
+      "impact": 12464,
+      "stars": 9141,
+      "forks": 3323,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5666,
-      "stars": 5005,
+      "impact": 5671,
+      "stars": 5010,
       "forks": 661,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
       "impact": 4736,
-      "stars": 3794,
-      "forks": 942,
+      "stars": 3795,
+      "forks": 941,
       "owner_type": "Organization"
     },
     {
@@ -291,8 +291,8 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 499,
-      "stars": 165,
+      "impact": 500,
+      "stars": 166,
       "forks": 334,
       "owner_type": "Organization"
     },
@@ -544,10 +544,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-16_18-51-24",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-16T18:51:24.786761+00:00",
-    "snapshot_count": 16
+    "generated_at": "2026-06-17T17:14:24.307207+00:00",
+    "snapshot_count": 17
   }
 }
