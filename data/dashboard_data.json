@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 336,
-    "old_only": 334,
+    "total": 337,
+    "old_only": 335,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 132,
+    "Organization": 133,
     "User": 204
   },
   "impact": {
-    "total": 38266,
-    "average": 113.9
+    "total": 52387,
+    "average": 155.5
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9148,
+      "stars": 9151,
       "forks": 3328,
       "owner_type": "Organization",
-      "impact": 12476
+      "impact": 12479
     },
     {
       "repo": "truenas/os",
@@ -88,9 +88,9 @@
       "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 39,
-      "forks": 19,
+      "forks": 20,
       "owner_type": "Organization",
-      "impact": 58
+      "impact": 59
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -141,20 +141,20 @@
       "impact": 43
     },
     {
-      "repo": "FreshTomato-Project/freshtomato-ax",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 25
-    },
-    {
       "repo": "blackfuel/asuswrt-gt-ac5300",
       "priority": "NORMAL",
       "stars": 19,
       "forks": 10,
       "owner_type": "User",
       "impact": 29
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-ax",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 25
     },
     {
       "repo": "hselasky/usb4",
@@ -189,14 +189,6 @@
       "impact": 29
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 22
-    },
-    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
@@ -210,6 +202,14 @@
       "stars": 15,
       "forks": 7,
       "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
       "impact": 22
     },
     {
@@ -233,17 +233,24 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9148,
+      "stars": 9151,
       "forks": 3328,
       "owner_type": "Organization",
-      "impact": 12476
+      "impact": 12479
     }
   ],
   "high_impact": [
     {
+      "repo": "monero-project/monero",
+      "impact": 14107,
+      "stars": 10636,
+      "forks": 3471,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "freebsd/freebsd-src",
-      "impact": 12476,
-      "stars": 9148,
+      "impact": 12479,
+      "stars": 9151,
       "forks": 3328,
       "owner_type": "Organization"
     },
@@ -263,8 +270,8 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2338,
-      "stars": 2216,
+      "impact": 2340,
+      "stars": 2218,
       "forks": 122,
       "owner_type": "User"
     },
@@ -339,18 +346,18 @@
       "owner_type": "User"
     },
     {
-      "repo": "xyzmos/GeekDNS",
-      "impact": 183,
-      "stars": 158,
-      "forks": 25,
-      "owner_type": "User"
-    },
-    {
       "repo": "ghostbsd/ghostbsd-src",
       "impact": 183,
       "stars": 146,
       "forks": 37,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "xyzmos/GeekDNS",
+      "impact": 183,
+      "stars": 158,
+      "forks": 25,
+      "owner_type": "User"
     },
     {
       "repo": "ZephyrProtocol/zephyr",
@@ -407,13 +414,6 @@
       "stars": 81,
       "forks": 39,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "lattera/freebsd",
-      "impact": 108,
-      "stars": 69,
-      "forks": 39,
-      "owner_type": "User"
     }
   ],
   "trend": [
@@ -576,10 +576,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-20_16-03-43",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-20T16:03:43.069110+00:00",
-    "snapshot_count": 20
+    "generated_at": "2026-06-21T16:23:05.508010+00:00",
+    "snapshot_count": 21
   }
 }
