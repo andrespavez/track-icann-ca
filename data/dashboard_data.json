@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 52387,
+    "total": 52413,
     "average": 155.5
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9151,
-      "forks": 3328,
+      "stars": 9162,
+      "forks": 3329,
       "owner_type": "Organization",
-      "impact": 12479
+      "impact": 12491
     },
     {
       "repo": "truenas/os",
@@ -233,25 +233,25 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9151,
-      "forks": 3328,
+      "stars": 9162,
+      "forks": 3329,
       "owner_type": "Organization",
-      "impact": 12479
+      "impact": 12491
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14107,
-      "stars": 10636,
+      "impact": 14110,
+      "stars": 10639,
       "forks": 3471,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12479,
-      "stars": 9151,
-      "forks": 3328,
+      "impact": 12491,
+      "stars": 9162,
+      "forks": 3329,
       "owner_type": "Organization"
     },
     {
@@ -263,22 +263,22 @@
     },
     {
       "repo": "openbsd/src",
-      "impact": 4745,
-      "stars": 3802,
+      "impact": 4750,
+      "stars": 3807,
       "forks": 943,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2340,
-      "stars": 2218,
+      "impact": 2342,
+      "stars": 2220,
       "forks": 122,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 681,
-      "stars": 484,
+      "impact": 680,
+      "stars": 483,
       "forks": 197,
       "owner_type": "Organization"
     },
@@ -298,9 +298,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 500,
+      "impact": 499,
       "stars": 166,
-      "forks": 334,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 213,
-      "stars": 171,
+      "impact": 214,
+      "stars": 172,
       "forks": 42,
       "owner_type": "Organization"
     },
@@ -584,10 +584,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-21_16-23-05",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-21T16:23:05.508010+00:00",
-    "snapshot_count": 21
+    "generated_at": "2026-06-22T18:31:05.301438+00:00",
+    "snapshot_count": 22
   }
 }
