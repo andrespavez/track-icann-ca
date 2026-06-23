@@ -3,13 +3,13 @@
     "repo": "microsoft/azurelinux",
     "description": "General purpose Linux OS for Azure",
     "html_url": "https://github.com/microsoft/azurelinux",
-    "stars": 5013,
-    "forks": 663,
+    "stars": 5015,
+    "forks": 664,
     "watchers": 141,
     "archived": false,
-    "updated_at": "2026-06-22T06:33:29Z",
-    "pushed_at": "2026-06-22T16:41:23Z",
-    "open_issues": 196,
+    "updated_at": "2026-06-23T11:04:32Z",
+    "pushed_at": "2026-06-23T15:08:46Z",
+    "open_issues": 201,
     "default_branch": "4.0",
     "fork": false,
     "owner_type": "Organization",
@@ -26,11 +26,11 @@
     "files": [
       {
         "path": "specs/d/dns-root-data/icannbundle.pem",
-        "html_url": "https://github.com/microsoft/azurelinux/blob/3b81d32a8ada7c15775d796a71f12d07dd197ce4/specs/d/dns-root-data/icannbundle.pem"
+        "html_url": "https://github.com/microsoft/azurelinux/blob/0f038592fa27679ff0f887421eef024aef8b16ae/specs/d/dns-root-data/icannbundle.pem"
       },
       {
         "path": "specs/u/unbound/icannbundle.pem",
-        "html_url": "https://github.com/microsoft/azurelinux/blob/3b81d32a8ada7c15775d796a71f12d07dd197ce4/specs/u/unbound/icannbundle.pem"
+        "html_url": "https://github.com/microsoft/azurelinux/blob/0f038592fa27679ff0f887421eef024aef8b16ae/specs/u/unbound/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -43,13 +43,13 @@
     "repo": "monero-project/monero",
     "description": "Monero: the secure, private, untraceable cryptocurrency",
     "html_url": "https://github.com/monero-project/monero",
-    "stars": 10639,
-    "forks": 3471,
-    "watchers": 506,
+    "stars": 10642,
+    "forks": 3472,
+    "watchers": 505,
     "archived": false,
-    "updated_at": "2026-06-22T10:08:36Z",
-    "pushed_at": "2026-06-21T21:45:17Z",
-    "open_issues": 730,
+    "updated_at": "2026-06-23T13:17:49Z",
+    "pushed_at": "2026-06-22T22:02:18Z",
+    "open_issues": 732,
     "default_branch": "master",
     "fork": false,
     "owner_type": "Organization",
@@ -62,7 +62,7 @@
     "files": [
       {
         "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/monero-project/monero/blob/2c48374ecd2449c02bb400e5bcf20b7c6f11649b/src/common/dns_utils.cpp"
+        "html_url": "https://github.com/monero-project/monero/blob/49c9cfc31568e6e56238a7f7bc8814a4f0c59b24/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -75,13 +75,13 @@
     "repo": "freebsd/freebsd-src",
     "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
     "html_url": "https://github.com/freebsd/freebsd-src",
-    "stars": 9162,
+    "stars": 9172,
     "forks": 3329,
     "watchers": 453,
     "archived": false,
-    "updated_at": "2026-06-22T17:21:53Z",
-    "pushed_at": "2026-06-22T16:50:08Z",
-    "open_issues": 149,
+    "updated_at": "2026-06-23T14:16:38Z",
+    "pushed_at": "2026-06-23T01:25:09Z",
+    "open_issues": 146,
     "default_branch": "main",
     "fork": false,
     "owner_type": "Organization",
@@ -94,7 +94,7 @@
     "files": [
       {
         "path": "contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/freebsd/freebsd-src/blob/9cd0d6231311bc5609403fb35377a7bb97a3cfaf/contrib/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/freebsd/freebsd-src/blob/cf523f4beb8ff148828694485ab56f2c1f8f0159/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -293,12 +293,12 @@
     ],
     "files": [
       {
-        "path": "get_trust_anchor/get_trust_anchor.py",
-        "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py"
-      },
-      {
         "path": "dnssec_ta_tool/regress/icannbundle.pem",
         "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem"
+      },
+      {
+        "path": "get_trust_anchor/get_trust_anchor.py",
+        "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py"
       },
       {
         "path": "dnssec_ta_tool/dnssec_ta_tool_wrapper.sh",
@@ -383,8 +383,8 @@
     "forks": 0,
     "watchers": 1,
     "archived": false,
-    "updated_at": "2026-06-22T01:43:29Z",
-    "pushed_at": "2026-06-22T01:43:25Z",
+    "updated_at": "2026-06-23T01:26:26Z",
+    "pushed_at": "2026-06-23T01:26:22Z",
     "open_issues": 0,
     "default_branch": "main",
     "fork": false,
@@ -402,7 +402,7 @@
     "files": [
       {
         "path": "data/trust-anchors/icannbundle.pem",
-        "html_url": "https://github.com/takonomura/iana-root-files/blob/6507b63bf87a1077c75411ef56c7d44d8cd92002/data/trust-anchors/icannbundle.pem"
+        "html_url": "https://github.com/takonomura/iana-root-files/blob/daeb98af213ad898ad33b10fdabdcc1c39394bf1/data/trust-anchors/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -477,12 +477,12 @@
         "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh"
       },
       {
-        "path": "dnssec_ta_tool/regress/icannbundle.pem",
-        "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem"
-      },
-      {
         "path": "root.py",
         "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py"
+      },
+      {
+        "path": "dnssec_ta_tool/regress/icannbundle.pem",
+        "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -495,11 +495,11 @@
     "repo": "getdnsapi/getdns",
     "description": "A modern asynchronous DNS API  https://getdnsapi.net/",
     "html_url": "https://github.com/getdnsapi/getdns",
-    "stars": 483,
+    "stars": 484,
     "forks": 130,
     "watchers": 52,
     "archived": false,
-    "updated_at": "2026-05-31T16:09:37Z",
+    "updated_at": "2026-06-23T11:03:24Z",
     "pushed_at": "2023-11-30T09:14:32Z",
     "open_issues": 67,
     "default_branch": "develop",
@@ -677,12 +677,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/x12project/x12-core/blob/f729ae5cea73cd1b75955f2b4eabb10c93e40105/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/x12project/x12-core/blob/f729ae5cea73cd1b75955f2b4eabb10c93e40105/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/x12project/x12-core/blob/f729ae5cea73cd1b75955f2b4eabb10c93e40105/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -701,7 +701,7 @@
     "archived": false,
     "updated_at": "2026-06-22T14:14:37Z",
     "pushed_at": "2026-06-22T11:55:32Z",
-    "open_issues": 78,
+    "open_issues": 79,
     "default_branch": "arm-master",
     "fork": false,
     "owner_type": "Organization",
@@ -1219,8 +1219,8 @@
     "forks": 0,
     "watchers": 0,
     "archived": false,
-    "updated_at": "2026-06-22T11:54:21Z",
-    "pushed_at": "2026-06-22T11:54:21Z",
+    "updated_at": "2026-06-23T16:10:46Z",
+    "pushed_at": "2026-06-23T16:10:44Z",
     "open_issues": 0,
     "default_branch": "main",
     "fork": false,
@@ -1234,7 +1234,7 @@
     "files": [
       {
         "path": "oreon-11-rp1/unbound/icannbundle.pem",
-        "html_url": "https://github.com/oreonhq/rpm-specfiles/blob/5995224438514dd0b5b2023ace375e03b9e923d8/oreon-11-rp1/unbound/icannbundle.pem"
+        "html_url": "https://github.com/oreonhq/rpm-specfiles/blob/abd373eb7b67c28961557b73e92ef221c1f89bf1/oreon-11-rp1/unbound/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -1365,12 +1365,12 @@
     ],
     "files": [
       {
-        "path": "data/icannbundle.pem",
-        "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/data/icannbundle.pem"
-      },
-      {
         "path": "keys/icannbundle.pem",
         "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/keys/icannbundle.pem"
+      },
+      {
+        "path": "data/icannbundle.pem",
+        "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/data/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -1387,8 +1387,8 @@
     "forks": 6,
     "watchers": 5,
     "archived": false,
-    "updated_at": "2026-06-22T17:46:13Z",
-    "pushed_at": "2026-06-22T17:46:08Z",
+    "updated_at": "2026-06-23T15:48:05Z",
+    "pushed_at": "2026-06-23T15:47:46Z",
     "open_issues": 0,
     "default_branch": "master",
     "fork": false,
@@ -1402,7 +1402,7 @@
     "files": [
       {
         "path": "packages/u/unbound/icannbundle.pem",
-        "html_url": "https://github.com/bmwiedemann/openSUSE/blob/6d7247282f4a6b2fb6360d3df196c56a7d3538e2/packages/u/unbound/icannbundle.pem"
+        "html_url": "https://github.com/bmwiedemann/openSUSE/blob/260bfcc865904fb301d7b04dd970f262b7341f8e/packages/u/unbound/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -1549,7 +1549,7 @@
     "archived": false,
     "updated_at": "2026-05-17T10:31:54Z",
     "pushed_at": "2025-12-09T14:54:30Z",
-    "open_issues": 31,
+    "open_issues": 30,
     "default_branch": "master",
     "fork": false,
     "owner_type": "User",
@@ -1861,12 +1861,12 @@
     ],
     "files": [
       {
-        "path": "freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "freebsd-src.git/b/main/contrib/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/main/contrib/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -2071,11 +2071,11 @@
     "repo": "ZephyrProtocol/zephyr",
     "description": "The Untraceable Stablecoin Protocol.",
     "html_url": "https://github.com/ZephyrProtocol/zephyr",
-    "stars": 149,
+    "stars": 148,
     "forks": 23,
     "watchers": 13,
     "archived": false,
-    "updated_at": "2026-06-01T08:56:35Z",
+    "updated_at": "2026-06-23T10:02:30Z",
     "pushed_at": "2025-06-11T03:27:43Z",
     "open_issues": 30,
     "default_branch": "master",
@@ -2181,7 +2181,7 @@
     "archived": false,
     "updated_at": "2025-03-24T18:05:18Z",
     "pushed_at": "2014-05-19T18:03:51Z",
-    "open_issues": 0,
+    "open_issues": 1,
     "default_branch": "master",
     "fork": false,
     "owner_type": "User",
@@ -2261,12 +2261,12 @@
     ],
     "files": [
       {
-        "path": "kickass/src/common/dns_utils.cpp",
-        "html_url": "https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/src/common/dns_utils.cpp"
-      },
-      {
         "path": "kickass/external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "kickass/src/common/dns_utils.cpp",
+        "html_url": "https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -2365,12 +2365,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -2415,12 +2415,12 @@
     "repo": "openbsd/src",
     "description": "Read-only git conversion of OpenBSD's official CVS src repository. Pull requests not accepted - send diffs to the tech@ mailing list.",
     "html_url": "https://github.com/openbsd/src",
-    "stars": 3807,
+    "stars": 3808,
     "forks": 943,
     "watchers": 175,
     "archived": false,
-    "updated_at": "2026-06-22T17:50:24Z",
-    "pushed_at": "2026-06-22T17:50:17Z",
+    "updated_at": "2026-06-23T16:20:26Z",
+    "pushed_at": "2026-06-23T16:20:21Z",
     "open_issues": 1,
     "default_branch": "master",
     "fork": false,
@@ -2434,7 +2434,7 @@
     "files": [
       {
         "path": "usr.sbin/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/openbsd/src/blob/da27c4594d7cb3ba524597f9a5e97c1ba3884d53/usr.sbin/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/openbsd/src/blob/3f3476c3bc8544a36dd2fd5508dd4e314f3a672e/usr.sbin/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -2469,12 +2469,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/citicashio/citicash/blob/0f629362534e96cf498b076e77328120434eb58c/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/citicashio/citicash/blob/0f629362534e96cf498b076e77328120434eb58c/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/citicashio/citicash/blob/0f629362534e96cf498b076e77328120434eb58c/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -3020,7 +3020,7 @@
     "watchers": 1,
     "archived": false,
     "updated_at": "2026-05-30T22:25:46Z",
-    "pushed_at": "2026-06-22T17:42:06Z",
+    "pushed_at": "2026-06-23T16:21:42Z",
     "open_issues": 2,
     "default_branch": "main",
     "fork": false,
@@ -3277,7 +3277,7 @@
     "archived": false,
     "updated_at": "2026-06-19T14:07:56Z",
     "pushed_at": "2026-06-19T14:08:28Z",
-    "open_issues": 40,
+    "open_issues": 55,
     "default_branch": "master",
     "fork": false,
     "owner_type": "Organization",
@@ -4071,11 +4071,11 @@
     "repo": "ghostbsd/ghostbsd-src",
     "description": "GhostBSD Core Operating System Repo ",
     "html_url": "https://github.com/ghostbsd/ghostbsd-src",
-    "stars": 146,
+    "stars": 147,
     "forks": 37,
     "watchers": 6,
     "archived": false,
-    "updated_at": "2026-06-19T01:32:10Z",
+    "updated_at": "2026-06-22T19:10:01Z",
     "pushed_at": "2026-06-17T21:00:06Z",
     "open_issues": 0,
     "default_branch": "stable/15",
@@ -4108,7 +4108,7 @@
     "watchers": 3,
     "archived": false,
     "updated_at": "2026-04-19T13:51:48Z",
-    "pushed_at": "2026-06-19T14:38:33Z",
+    "pushed_at": "2026-06-23T13:21:05Z",
     "open_issues": 2,
     "default_branch": "main",
     "fork": false,
@@ -4556,7 +4556,7 @@
     "watchers": 37,
     "archived": false,
     "updated_at": "2026-06-19T16:06:37Z",
-    "pushed_at": "2026-06-22T15:39:02Z",
+    "pushed_at": "2026-06-23T13:52:10Z",
     "open_issues": 221,
     "default_branch": "main",
     "fork": false,
@@ -5405,12 +5405,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -5637,12 +5637,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -6185,11 +6185,11 @@
     "html_url": "https://github.com/salvium/salvium",
     "stars": 39,
     "forks": 20,
-    "watchers": 7,
+    "watchers": 8,
     "archived": false,
-    "updated_at": "2026-06-21T23:01:35Z",
-    "pushed_at": "2026-06-20T18:41:51Z",
-    "open_issues": 15,
+    "updated_at": "2026-06-22T23:32:08Z",
+    "pushed_at": "2026-06-23T12:44:54Z",
+    "open_issues": 16,
     "default_branch": "main",
     "fork": false,
     "owner_type": "Organization",
@@ -6445,12 +6445,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -7061,12 +7061,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -7101,12 +7101,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -7141,12 +7141,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/devopsralf/aeon-rebase/blob/34ad77e5585ad925cf2bb3c47c1f2f6edbea64e2/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/devopsralf/aeon-rebase/blob/34ad77e5585ad925cf2bb3c47c1f2f6edbea64e2/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/devopsralf/aeon-rebase/blob/34ad77e5585ad925cf2bb3c47c1f2f6edbea64e2/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -7181,12 +7181,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/kchanqvq/MXTC/blob/3a5c9fb1008b632870015a22557dbe07badc8442/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/kchanqvq/MXTC/blob/3a5c9fb1008b632870015a22557dbe07badc8442/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/kchanqvq/MXTC/blob/3a5c9fb1008b632870015a22557dbe07badc8442/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -7199,11 +7199,11 @@
     "repo": "NLnetLabs/unbound",
     "description": "Unbound is a validating, recursive, and caching DNS resolver.",
     "html_url": "https://github.com/NLnetLabs/unbound",
-    "stars": 4651,
+    "stars": 4655,
     "forks": 438,
     "watchers": 66,
     "archived": false,
-    "updated_at": "2026-06-22T18:04:20Z",
+    "updated_at": "2026-06-23T11:03:49Z",
     "pushed_at": "2026-06-19T07:30:51Z",
     "open_issues": 373,
     "default_branch": "master",
@@ -7301,9 +7301,9 @@
     "html_url": "https://github.com/HardenedBSD/hardenedBSD-stable",
     "stars": 134,
     "forks": 32,
-    "watchers": 25,
+    "watchers": 24,
     "archived": false,
-    "updated_at": "2026-06-20T03:50:06Z",
+    "updated_at": "2026-06-23T11:53:40Z",
     "pushed_at": "2021-03-28T13:50:31Z",
     "open_issues": 3,
     "default_branch": "hardened/12-stable/master",
@@ -8377,12 +8377,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/BixBite-project/bixbite/blob/b57ab624ab4747ef9b32da2e7cfe97199f4e65c3/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/BixBite-project/bixbite/blob/b57ab624ab4747ef9b32da2e7cfe97199f4e65c3/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/BixBite-project/bixbite/blob/b57ab624ab4747ef9b32da2e7cfe97199f4e65c3/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -8513,12 +8513,12 @@
     ],
     "files": [
       {
-        "path": "src/contrib/monero-0.10.0/src/common/dns_utils.cpp",
-        "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/src/common/dns_utils.cpp"
-      },
-      {
         "path": "src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/contrib/monero-0.10.0/src/common/dns_utils.cpp",
+        "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,

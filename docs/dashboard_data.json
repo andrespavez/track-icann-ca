@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 52413,
-    "average": 155.5
+    "total": 52436,
+    "average": 155.6
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9162,
+      "stars": 9172,
       "forks": 3329,
       "owner_type": "Organization",
-      "impact": 12491
+      "impact": 12501
     },
     {
       "repo": "truenas/os",
@@ -233,38 +233,38 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9162,
+      "stars": 9172,
       "forks": 3329,
       "owner_type": "Organization",
-      "impact": 12491
+      "impact": 12501
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14110,
-      "stars": 10639,
-      "forks": 3471,
+      "impact": 14114,
+      "stars": 10642,
+      "forks": 3472,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12491,
-      "stars": 9162,
+      "impact": 12501,
+      "stars": 9172,
       "forks": 3329,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5676,
-      "stars": 5013,
-      "forks": 663,
+      "impact": 5679,
+      "stars": 5015,
+      "forks": 664,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4750,
-      "stars": 3807,
+      "impact": 4751,
+      "stars": 3808,
       "forks": 943,
       "owner_type": "Organization"
     },
@@ -284,8 +284,8 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 613,
-      "stars": 483,
+      "impact": 614,
+      "stars": 484,
       "forks": 130,
       "owner_type": "Organization"
     },
@@ -347,8 +347,8 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 183,
-      "stars": 146,
+      "impact": 184,
+      "stars": 147,
       "forks": 37,
       "owner_type": "Organization"
     },
@@ -361,8 +361,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 172,
-      "stars": 149,
+      "impact": 171,
+      "stars": 148,
       "forks": 23,
       "owner_type": "User"
     },
@@ -592,10 +592,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-22_18-31-05",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-22T18:31:05.301438+00:00",
-    "snapshot_count": 22
+    "generated_at": "2026-06-23T16:56:07.890874+00:00",
+    "snapshot_count": 23
   }
 }
