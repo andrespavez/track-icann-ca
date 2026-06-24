@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 52436,
+    "total": 52446,
     "average": 155.6
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9172,
-      "forks": 3329,
+      "stars": 9165,
+      "forks": 3332,
       "owner_type": "Organization",
-      "impact": 12501
+      "impact": 12497
     },
     {
       "repo": "truenas/os",
@@ -63,10 +63,10 @@
     {
       "repo": "bmwiedemann/openSUSE",
       "priority": "NORMAL",
-      "stars": 46,
+      "stars": 47,
       "forks": 6,
       "owner_type": "User",
-      "impact": 52
+      "impact": 53
     },
     {
       "repo": "haven-protocol-org/haven-main",
@@ -233,10 +233,10 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9172,
-      "forks": 3329,
+      "stars": 9165,
+      "forks": 3332,
       "owner_type": "Organization",
-      "impact": 12501
+      "impact": 12497
     }
   ],
   "high_impact": [
@@ -249,23 +249,23 @@
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12501,
-      "stars": 9172,
-      "forks": 3329,
+      "impact": 12497,
+      "stars": 9165,
+      "forks": 3332,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5679,
+      "impact": 5680,
       "stars": 5015,
-      "forks": 664,
+      "forks": 665,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4751,
-      "stars": 3808,
-      "forks": 943,
+      "impact": 4755,
+      "stars": 3810,
+      "forks": 945,
       "owner_type": "Organization"
     },
     {
@@ -333,8 +333,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 214,
-      "stars": 172,
+      "impact": 216,
+      "stars": 174,
       "forks": 42,
       "owner_type": "Organization"
     },
@@ -403,8 +403,8 @@
     },
     {
       "repo": "MidnightBSD/src",
-      "impact": 120,
-      "stars": 108,
+      "impact": 121,
+      "stars": 109,
       "forks": 12,
       "owner_type": "Organization"
     },
@@ -600,10 +600,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-23_16-56-07",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-23T16:56:07.890874+00:00",
-    "snapshot_count": 23
+    "generated_at": "2026-06-24T16:48:40.929869+00:00",
+    "snapshot_count": 24
   }
 }
