@@ -24,17 +24,17 @@
     "User": 203
   },
   "impact": {
-    "total": 52475,
+    "total": 52485,
     "average": 156.2
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9175,
-      "forks": 3336,
+      "stars": 9169,
+      "forks": 3337,
       "owner_type": "Organization",
-      "impact": 12511
+      "impact": 12506
     },
     {
       "repo": "truenas/os",
@@ -233,46 +233,46 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9175,
-      "forks": 3336,
+      "stars": 9169,
+      "forks": 3337,
       "owner_type": "Organization",
-      "impact": 12511
+      "impact": 12506
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14124,
-      "stars": 10653,
-      "forks": 3471,
+      "impact": 14131,
+      "stars": 10657,
+      "forks": 3474,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12511,
-      "stars": 9175,
-      "forks": 3336,
+      "impact": 12506,
+      "stars": 9169,
+      "forks": 3337,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5683,
-      "stars": 5019,
+      "impact": 5685,
+      "stars": 5021,
       "forks": 664,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4759,
-      "stars": 3815,
-      "forks": 944,
+      "impact": 4760,
+      "stars": 3817,
+      "forks": 943,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2344,
+      "impact": 2345,
       "stars": 2222,
-      "forks": 122,
+      "forks": 123,
       "owner_type": "User"
     },
     {
@@ -333,9 +333,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 216,
-      "stars": 174,
-      "forks": 42,
+      "impact": 218,
+      "stars": 175,
+      "forks": 43,
       "owner_type": "Organization"
     },
     {
@@ -624,10 +624,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-26_16-45-22",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-26T16:45:22.004857+00:00",
-    "snapshot_count": 26
+    "generated_at": "2026-06-27T15:52:35.962896+00:00",
+    "snapshot_count": 27
   }
 }
