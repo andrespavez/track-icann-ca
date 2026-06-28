@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 336,
-    "old_only": 334,
+    "total": 337,
+    "old_only": 335,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -21,18 +21,18 @@
   },
   "owners": {
     "Organization": 133,
-    "User": 203
+    "User": 204
   },
   "impact": {
-    "total": 52485,
-    "average": 156.2
+    "total": 52499,
+    "average": 155.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9169,
-      "forks": 3337,
+      "stars": 9170,
+      "forks": 3336,
       "owner_type": "Organization",
       "impact": 12506
     },
@@ -125,20 +125,20 @@
       "impact": 31
     },
     {
-      "repo": "RavenProject/ravenwallet-ios",
-      "priority": "NORMAL",
-      "stars": 25,
-      "forks": 19,
-      "owner_type": "Organization",
-      "impact": 44
-    },
-    {
       "repo": "blackfuel/asuswrt-rt-ac86u",
       "priority": "NORMAL",
       "stars": 25,
       "forks": 18,
       "owner_type": "User",
       "impact": 43
+    },
+    {
+      "repo": "RavenProject/ravenwallet-ios",
+      "priority": "NORMAL",
+      "stars": 25,
+      "forks": 19,
+      "owner_type": "Organization",
+      "impact": 44
     },
     {
       "repo": "hselasky/usb4",
@@ -149,20 +149,20 @@
       "impact": 24
     },
     {
-      "repo": "FreshTomato-Project/freshtomato-ax",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 25
-    },
-    {
       "repo": "blackfuel/asuswrt-gt-ac5300",
       "priority": "NORMAL",
       "stars": 19,
       "forks": 10,
       "owner_type": "User",
       "impact": 29
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-ax",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 25
     },
     {
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
@@ -189,20 +189,20 @@
       "impact": 29
     },
     {
-      "repo": "pcbsd/NextBSD",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 21
-    },
-    {
       "repo": "os3sec/Extended-DNSSEC-Validator",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 7,
       "owner_type": "Organization",
       "impact": 22
+    },
+    {
+      "repo": "pcbsd/NextBSD",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 21
     },
     {
       "repo": "minombreesjeff/darwin_env",
@@ -233,8 +233,8 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9169,
-      "forks": 3337,
+      "stars": 9170,
+      "forks": 3336,
       "owner_type": "Organization",
       "impact": 12506
     }
@@ -242,36 +242,36 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14131,
-      "stars": 10657,
-      "forks": 3474,
+      "impact": 14135,
+      "stars": 10660,
+      "forks": 3475,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
       "impact": 12506,
-      "stars": 9169,
-      "forks": 3337,
+      "stars": 9170,
+      "forks": 3336,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5685,
+      "impact": 5686,
       "stars": 5021,
-      "forks": 664,
+      "forks": 665,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4760,
-      "stars": 3817,
+      "impact": 4764,
+      "stars": 3821,
       "forks": 943,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2345,
-      "stars": 2222,
+      "impact": 2346,
+      "stars": 2223,
       "forks": 123,
       "owner_type": "User"
     },
@@ -298,9 +298,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 501,
+      "impact": 500,
       "stars": 167,
-      "forks": 334,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -632,10 +632,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-27_15-52-35",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-27T15:52:35.962896+00:00",
-    "snapshot_count": 27
+    "generated_at": "2026-06-28T15:55:34.968847+00:00",
+    "snapshot_count": 28
   }
 }
