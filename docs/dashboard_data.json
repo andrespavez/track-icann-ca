@@ -24,8 +24,8 @@
     "User": 204
   },
   "impact": {
-    "total": 52499,
-    "average": 155.8
+    "total": 52528,
+    "average": 155.9
   },
   "top_targets": [
     {
@@ -242,9 +242,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14135,
-      "stars": 10660,
-      "forks": 3475,
+      "impact": 14138,
+      "stars": 10662,
+      "forks": 3476,
       "owner_type": "Organization"
     },
     {
@@ -256,22 +256,22 @@
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5686,
-      "stars": 5021,
+      "impact": 5706,
+      "stars": 5041,
       "forks": 665,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4764,
-      "stars": 3821,
+      "impact": 4765,
+      "stars": 3822,
       "forks": 943,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2346,
-      "stars": 2223,
+      "impact": 2349,
+      "stars": 2226,
       "forks": 123,
       "owner_type": "User"
     },
@@ -291,9 +291,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 579,
+      "impact": 578,
       "stars": 384,
-      "forks": 195,
+      "forks": 194,
       "owner_type": "Organization"
     },
     {
@@ -333,9 +333,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 218,
+      "impact": 219,
       "stars": 175,
-      "forks": 43,
+      "forks": 44,
       "owner_type": "Organization"
     },
     {
@@ -640,10 +640,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-28_15-55-35",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-28T15:55:34.968847+00:00",
-    "snapshot_count": 28
+    "generated_at": "2026-06-29T17:37:13.040344+00:00",
+    "snapshot_count": 29
   }
 }
