@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 52528,
-    "average": 155.9
+    "total": 52564,
+    "average": 156.0
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9170,
-      "forks": 3336,
+      "stars": 9172,
+      "forks": 3337,
       "owner_type": "Organization",
-      "impact": 12506
+      "impact": 12509
     },
     {
       "repo": "truenas/os",
@@ -48,9 +48,9 @@
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
       "stars": 213,
-      "forks": 79,
+      "forks": 80,
       "owner_type": "Organization",
-      "impact": 292
+      "impact": 293
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -88,9 +88,9 @@
       "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 39,
-      "forks": 20,
+      "forks": 21,
       "owner_type": "Organization",
-      "impact": 59
+      "impact": 60
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -101,7 +101,7 @@
       "impact": 45
     },
     {
-      "repo": "monerov/monerov",
+      "repo": "safex/safexcore",
       "priority": "NORMAL",
       "stars": 31,
       "forks": 27,
@@ -109,7 +109,7 @@
       "impact": 58
     },
     {
-      "repo": "safex/safexcore",
+      "repo": "monerov/monerov",
       "priority": "NORMAL",
       "stars": 31,
       "forks": 27,
@@ -141,14 +141,6 @@
       "impact": 44
     },
     {
-      "repo": "hselasky/usb4",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 5,
-      "owner_type": "User",
-      "impact": 24
-    },
-    {
       "repo": "blackfuel/asuswrt-gt-ac5300",
       "priority": "NORMAL",
       "stars": 19,
@@ -165,12 +157,12 @@
       "impact": 25
     },
     {
-      "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
+      "repo": "hselasky/usb4",
       "priority": "NORMAL",
-      "stars": 18,
-      "forks": 9,
-      "owner_type": "Organization",
-      "impact": 27
+      "stars": 19,
+      "forks": 5,
+      "owner_type": "User",
+      "impact": 24
     },
     {
       "repo": "BitChute/chutoken",
@@ -181,6 +173,14 @@
       "impact": 23
     },
     {
+      "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
+      "priority": "NORMAL",
+      "stars": 18,
+      "forks": 9,
+      "owner_type": "Organization",
+      "impact": 27
+    },
+    {
       "repo": "ExcitableAardvark/node-cryptonight",
       "priority": "NORMAL",
       "stars": 17,
@@ -189,11 +189,11 @@
       "impact": 29
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "repo": "minombreesjeff/darwin_env",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 7,
-      "owner_type": "Organization",
+      "owner_type": "User",
       "impact": 22
     },
     {
@@ -205,11 +205,11 @@
       "impact": 21
     },
     {
-      "repo": "minombreesjeff/darwin_env",
+      "repo": "os3sec/Extended-DNSSEC-Validator",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 7,
-      "owner_type": "User",
+      "owner_type": "Organization",
       "impact": 22
     },
     {
@@ -233,53 +233,53 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9170,
-      "forks": 3336,
+      "stars": 9172,
+      "forks": 3337,
       "owner_type": "Organization",
-      "impact": 12506
+      "impact": 12509
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14138,
-      "stars": 10662,
-      "forks": 3476,
+      "impact": 14134,
+      "stars": 10657,
+      "forks": 3477,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12506,
-      "stars": 9170,
-      "forks": 3336,
+      "impact": 12509,
+      "stars": 9172,
+      "forks": 3337,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5706,
-      "stars": 5041,
-      "forks": 665,
+      "impact": 5736,
+      "stars": 5070,
+      "forks": 666,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4765,
-      "stars": 3822,
+      "impact": 4766,
+      "stars": 3823,
       "forks": 943,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2349,
-      "stars": 2226,
+      "impact": 2350,
+      "stars": 2227,
       "forks": 123,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
       "impact": 681,
-      "stars": 483,
-      "forks": 198,
+      "stars": 484,
+      "forks": 197,
       "owner_type": "Organization"
     },
     {
@@ -298,9 +298,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 500,
+      "impact": 499,
       "stars": 167,
-      "forks": 333,
+      "forks": 332,
       "owner_type": "Organization"
     },
     {
@@ -319,9 +319,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 292,
+      "impact": 293,
       "stars": 213,
-      "forks": 79,
+      "forks": 80,
       "owner_type": "Organization"
     },
     {
@@ -362,8 +362,8 @@
     {
       "repo": "ZephyrProtocol/zephyr",
       "impact": 171,
-      "stars": 148,
-      "forks": 23,
+      "stars": 147,
+      "forks": 24,
       "owner_type": "User"
     },
     {
@@ -648,10 +648,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-29_17-37-13",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-29T17:37:13.040344+00:00",
-    "snapshot_count": 29
+    "generated_at": "2026-06-30T16:39:42.078586+00:00",
+    "snapshot_count": 30
   }
 }
