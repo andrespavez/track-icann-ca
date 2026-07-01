@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 52564,
-    "average": 156.0
+    "total": 52593,
+    "average": 156.1
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9172,
-      "forks": 3337,
+      "forks": 3340,
       "owner_type": "Organization",
-      "impact": 12509
+      "impact": 12512
     },
     {
       "repo": "truenas/os",
@@ -234,45 +234,45 @@
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9172,
-      "forks": 3337,
+      "forks": 3340,
       "owner_type": "Organization",
-      "impact": 12509
+      "impact": 12512
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14134,
-      "stars": 10657,
+      "impact": 14135,
+      "stars": 10658,
       "forks": 3477,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12509,
+      "impact": 12512,
       "stars": 9172,
-      "forks": 3337,
+      "forks": 3340,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5736,
-      "stars": 5070,
-      "forks": 666,
+      "impact": 5752,
+      "stars": 5085,
+      "forks": 667,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4766,
-      "stars": 3823,
-      "forks": 943,
+      "impact": 4769,
+      "stars": 3825,
+      "forks": 944,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2350,
-      "stars": 2227,
-      "forks": 123,
+      "impact": 2353,
+      "stars": 2229,
+      "forks": 124,
       "owner_type": "User"
     },
     {
@@ -375,9 +375,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 159,
-      "stars": 109,
-      "forks": 50,
+      "impact": 161,
+      "stars": 110,
+      "forks": 51,
       "owner_type": "Organization"
     },
     {
@@ -656,10 +656,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-06-30_16-39-42",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-06-30T16:39:42.078586+00:00",
-    "snapshot_count": 30
+    "generated_at": "2026-07-01T16:44:41.246183+00:00",
+    "snapshot_count": 31
   }
 }
