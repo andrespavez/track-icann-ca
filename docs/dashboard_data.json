@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 335,
+    "total": 299,
+    "old_only": 297,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.6,
+    "progress": 0.7,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
-    "User": 204
+    "Organization": 119,
+    "User": 180
   },
   "impact": {
-    "total": 52703,
-    "average": 156.4
+    "total": 56946,
+    "average": 190.5
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9174,
-      "forks": 3344,
+      "stars": 9176,
+      "forks": 3346,
       "owner_type": "Organization",
-      "impact": 12518
+      "impact": 12522
     },
     {
       "repo": "truenas/os",
@@ -125,20 +125,20 @@
       "impact": 31
     },
     {
-      "repo": "blackfuel/asuswrt-rt-ac86u",
-      "priority": "NORMAL",
-      "stars": 25,
-      "forks": 18,
-      "owner_type": "User",
-      "impact": 43
-    },
-    {
       "repo": "RavenProject/ravenwallet-ios",
       "priority": "NORMAL",
       "stars": 25,
       "forks": 19,
       "owner_type": "Organization",
       "impact": 44
+    },
+    {
+      "repo": "blackfuel/asuswrt-rt-ac86u",
+      "priority": "NORMAL",
+      "stars": 25,
+      "forks": 18,
+      "owner_type": "User",
+      "impact": 43
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -149,20 +149,20 @@
       "impact": 29
     },
     {
-      "repo": "FreshTomato-Project/freshtomato-ax",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 25
-    },
-    {
       "repo": "hselasky/usb4",
       "priority": "NORMAL",
       "stars": 19,
       "forks": 5,
       "owner_type": "User",
       "impact": 24
+    },
+    {
+      "repo": "FreshTomato-Project/freshtomato-ax",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 25
     },
     {
       "repo": "BitChute/chutoken",
@@ -189,20 +189,20 @@
       "impact": 29
     },
     {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 22
-    },
-    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 6,
       "owner_type": "Organization",
       "impact": 21
+    },
+    {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 22
     },
     {
       "repo": "os3sec/Extended-DNSSEC-Validator",
@@ -221,65 +221,65 @@
       "impact": 21
     },
     {
-      "repo": "HardenedBSD/hardenedBSD-playground",
+      "repo": "cadets/freebsd-old",
       "priority": "NORMAL",
-      "stars": 14,
-      "forks": 4,
+      "stars": 13,
+      "forks": 7,
       "owner_type": "Organization",
-      "impact": 18
+      "impact": 20
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9174,
-      "forks": 3344,
+      "stars": 9176,
+      "forks": 3346,
       "owner_type": "Organization",
-      "impact": 12518
+      "impact": 12522
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14134,
-      "stars": 10659,
-      "forks": 3475,
+      "impact": 14135,
+      "stars": 10661,
+      "forks": 3474,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12518,
-      "stars": 9174,
-      "forks": 3344,
+      "impact": 12522,
+      "stars": 9176,
+      "forks": 3346,
       "owner_type": "Organization"
     },
     {
+      "repo": "RMerl/asuswrt-merlin.ng",
+      "impact": 6825,
+      "stars": 6096,
+      "forks": 729,
+      "owner_type": "User"
+    },
+    {
       "repo": "microsoft/azurelinux",
-      "impact": 5844,
-      "stars": 5173,
+      "impact": 5859,
+      "stars": 5188,
       "forks": 671,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4769,
-      "stars": 3825,
-      "forks": 944,
+      "impact": 4771,
+      "stars": 3826,
+      "forks": 945,
       "owner_type": "Organization"
     },
     {
-      "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2357,
-      "stars": 2231,
-      "forks": 126,
-      "owner_type": "User"
-    },
-    {
       "repo": "opnsense/src",
-      "impact": 683,
+      "impact": 684,
       "stars": 485,
-      "forks": 198,
+      "forks": 199,
       "owner_type": "Organization"
     },
     {
@@ -291,8 +291,8 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 578,
-      "stars": 384,
+      "impact": 579,
+      "stars": 385,
       "forks": 194,
       "owner_type": "Organization"
     },
@@ -333,8 +333,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 219,
-      "stars": 175,
+      "impact": 220,
+      "stars": 176,
       "forks": 44,
       "owner_type": "Organization"
     },
@@ -680,10 +680,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-03_16-03-11",
+      "total": 337,
+      "old_only": 335,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-03T16:03:11.366346+00:00",
-    "snapshot_count": 33
+    "generated_at": "2026-07-04T15:28:10.183186+00:00",
+    "snapshot_count": 34
   }
 }
