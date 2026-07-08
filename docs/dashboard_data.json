@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 285,
-    "old_only": 283,
+    "total": 305,
+    "old_only": 303,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 108,
-    "User": 177
+    "Organization": 115,
+    "User": 190
   },
   "impact": {
-    "total": 51677,
-    "average": 181.3
+    "total": 57496,
+    "average": 188.5
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9183,
-      "forks": 3349,
+      "forks": 3351,
       "owner_type": "Organization",
-      "impact": 12532
+      "impact": 12534
     },
     {
       "repo": "truenas/os",
@@ -61,35 +61,11 @@
       "impact": 166
     },
     {
-      "repo": "bmwiedemann/openSUSE",
-      "priority": "NORMAL",
-      "stars": 47,
-      "forks": 6,
-      "owner_type": "User",
-      "impact": 53
-    },
-    {
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
       "stars": 43,
       "forks": 2,
       "owner_type": "User",
-      "impact": 45
-    },
-    {
-      "repo": "haven-protocol-org/haven-main",
-      "priority": "NORMAL",
-      "stars": 43,
-      "forks": 22,
-      "owner_type": "Organization",
-      "impact": 65
-    },
-    {
-      "repo": "TheSuperiorCoin/TheSuperiorCoin",
-      "priority": "NORMAL",
-      "stars": 33,
-      "forks": 12,
-      "owner_type": "Organization",
       "impact": 45
     },
     {
@@ -109,28 +85,12 @@
       "impact": 58
     },
     {
-      "repo": "Monereum/Monereum",
-      "priority": "NORMAL",
-      "stars": 29,
-      "forks": 2,
-      "owner_type": "User",
-      "impact": 31
-    },
-    {
       "repo": "blackfuel/asuswrt-rt-ac86u",
       "priority": "NORMAL",
       "stars": 25,
       "forks": 18,
       "owner_type": "User",
       "impact": 43
-    },
-    {
-      "repo": "RavenProject/ravenwallet-ios",
-      "priority": "NORMAL",
-      "stars": 25,
-      "forks": 19,
-      "owner_type": "Organization",
-      "impact": 44
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -173,14 +133,6 @@
       "impact": 29
     },
     {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 22
-    },
-    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
@@ -197,20 +149,28 @@
       "impact": 22
     },
     {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "scala-network/Scala",
+      "priority": "NORMAL",
+      "stars": 14,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 21
+    },
+    {
       "repo": "HardenedBSD/hardenedBSD-playground",
       "priority": "NORMAL",
       "stars": 14,
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
-    },
-    {
-      "repo": "cadets/freebsd-old",
-      "priority": "NORMAL",
-      "stars": 13,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 20
     },
     {
       "repo": "lattera/openbsd",
@@ -227,6 +187,46 @@
       "forks": 4,
       "owner_type": "User",
       "impact": 16
+    },
+    {
+      "repo": "APEPEPOW/APEPEPOW",
+      "priority": "NORMAL",
+      "stars": 11,
+      "forks": 4,
+      "owner_type": "User",
+      "impact": 15
+    },
+    {
+      "repo": "edollar-project/edollar",
+      "priority": "NORMAL",
+      "stars": 11,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 18
+    },
+    {
+      "repo": "gkruja/MoneroAndroidwallet",
+      "priority": "NORMAL",
+      "stars": 11,
+      "forks": 11,
+      "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "citicashio/citicash",
+      "priority": "NORMAL",
+      "stars": 10,
+      "forks": 2,
+      "owner_type": "Organization",
+      "impact": 12
+    },
+    {
+      "repo": "NCommander/openbsd-src-with-branches",
+      "priority": "NORMAL",
+      "stars": 10,
+      "forks": 0,
+      "owner_type": "User",
+      "impact": 10
     }
   ],
   "high_priority": [
@@ -234,45 +234,52 @@
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9183,
-      "forks": 3349,
+      "forks": 3351,
       "owner_type": "Organization",
-      "impact": 12532
+      "impact": 12534
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14152,
-      "stars": 10675,
+      "impact": 14154,
+      "stars": 10677,
       "forks": 3477,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12532,
+      "impact": 12534,
       "stars": 9183,
-      "forks": 3349,
+      "forks": 3351,
       "owner_type": "Organization"
     },
     {
+      "repo": "RMerl/asuswrt-merlin.ng",
+      "impact": 6829,
+      "stars": 6100,
+      "forks": 729,
+      "owner_type": "User"
+    },
+    {
       "repo": "microsoft/azurelinux",
-      "impact": 5912,
-      "stars": 5236,
-      "forks": 676,
+      "impact": 5922,
+      "stars": 5245,
+      "forks": 677,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4770,
-      "stars": 3826,
+      "impact": 4771,
+      "stars": 3827,
       "forks": 944,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
       "impact": 2363,
-      "stars": 2236,
-      "forks": 127,
+      "stars": 2237,
+      "forks": 126,
       "owner_type": "User"
     },
     {
@@ -290,13 +297,6 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "electroneum/electroneum",
-      "impact": 579,
-      "stars": 385,
-      "forks": 194,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "pfsense/FreeBSD-src",
       "impact": 499,
       "stars": 167,
@@ -308,13 +308,6 @@
       "impact": 315,
       "stars": 235,
       "forks": 80,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "bitrig/bitrig",
-      "impact": 298,
-      "stars": 256,
-      "forks": 42,
       "owner_type": "Organization"
     },
     {
@@ -330,13 +323,6 @@
       "stars": 198,
       "forks": 24,
       "owner_type": "User"
-    },
-    {
-      "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 220,
-      "stars": 176,
-      "forks": 44,
-      "owner_type": "Organization"
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
@@ -375,9 +361,23 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 128,
-      "stars": 80,
+      "impact": 127,
+      "stars": 79,
       "forks": 48,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "masari-project/masari",
+      "impact": 127,
+      "stars": 71,
+      "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "masari-project/masari-webwallet",
+      "impact": 124,
+      "stars": 16,
+      "forks": 108,
       "owner_type": "Organization"
     },
     {
@@ -386,13 +386,6 @@
       "stars": 108,
       "forks": 12,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "lattera/freebsd",
-      "impact": 108,
-      "stars": 69,
-      "forks": 39,
-      "owner_type": "User"
     },
     {
       "repo": "havenprotocol/haven",
@@ -413,6 +406,13 @@
       "impact": 93,
       "stars": 70,
       "forks": 23,
+      "owner_type": "User"
+    },
+    {
+      "repo": "AnthonyTechhh/ZephyrWallet",
+      "impact": 92,
+      "stars": 47,
+      "forks": 45,
       "owner_type": "User"
     }
   ],
@@ -704,10 +704,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-07_16-56-49",
+      "total": 285,
+      "old_only": 283,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-07T16:56:49.668761+00:00",
-    "snapshot_count": 36
+    "generated_at": "2026-07-08T16:40:37.476995+00:00",
+    "snapshot_count": 37
   }
 }
