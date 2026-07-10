@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 299,
-    "old_only": 297,
+    "total": 303,
+    "old_only": 301,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 114,
-    "User": 185
+    "Organization": 119,
+    "User": 184
   },
   "impact": {
-    "total": 57839,
-    "average": 193.4
+    "total": 59339,
+    "average": 195.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9182,
+      "stars": 9185,
       "forks": 3352,
       "owner_type": "Organization",
-      "impact": 12534
+      "impact": 12537
     },
     {
       "repo": "truenas/os",
@@ -47,10 +47,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 213,
+      "stars": 214,
       "forks": 80,
       "owner_type": "Organization",
-      "impact": 293
+      "impact": 294
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -61,12 +61,36 @@
       "impact": 166
     },
     {
+      "repo": "bmwiedemann/openSUSE",
+      "priority": "NORMAL",
+      "stars": 47,
+      "forks": 6,
+      "owner_type": "User",
+      "impact": 53
+    },
+    {
+      "repo": "haven-protocol-org/haven-main",
+      "priority": "NORMAL",
+      "stars": 43,
+      "forks": 22,
+      "owner_type": "Organization",
+      "impact": 65
+    },
+    {
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
       "stars": 43,
       "forks": 2,
       "owner_type": "User",
       "impact": 45
+    },
+    {
+      "repo": "salvium/salvium",
+      "priority": "NORMAL",
+      "stars": 39,
+      "forks": 21,
+      "owner_type": "Organization",
+      "impact": 60
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -125,6 +149,14 @@
       "impact": 29
     },
     {
+      "repo": "hselasky/usb4",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 5,
+      "owner_type": "User",
+      "impact": 24
+    },
+    {
       "repo": "FreshTomato-Project/freshtomato-ax",
       "priority": "NORMAL",
       "stars": 19,
@@ -133,12 +165,12 @@
       "impact": 25
     },
     {
-      "repo": "hselasky/usb4",
+      "repo": "BitChute/chutoken",
       "priority": "NORMAL",
-      "stars": 19,
+      "stars": 18,
       "forks": 5,
-      "owner_type": "User",
-      "impact": 24
+      "owner_type": "Organization",
+      "impact": 23
     },
     {
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
@@ -155,6 +187,14 @@
       "forks": 12,
       "owner_type": "User",
       "impact": 29
+    },
+    {
+      "repo": "pcbsd/NextBSD",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 21
     },
     {
       "repo": "minombreesjeff/darwin_env",
@@ -187,98 +227,58 @@
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
-    },
-    {
-      "repo": "lattera/openbsd",
-      "priority": "NORMAL",
-      "stars": 13,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 20
-    },
-    {
-      "repo": "cadets/freebsd-old",
-      "priority": "NORMAL",
-      "stars": 13,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 20
-    },
-    {
-      "repo": "coolstar/freebsd-ports-ios",
-      "priority": "NORMAL",
-      "stars": 12,
-      "forks": 4,
-      "owner_type": "User",
-      "impact": 16
-    },
-    {
-      "repo": "edollar-project/edollar",
-      "priority": "NORMAL",
-      "stars": 11,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 18
-    },
-    {
-      "repo": "gkruja/MoneroAndroidwallet",
-      "priority": "NORMAL",
-      "stars": 11,
-      "forks": 11,
-      "owner_type": "User",
-      "impact": 22
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9182,
+      "stars": 9185,
       "forks": 3352,
       "owner_type": "Organization",
-      "impact": 12534
+      "impact": 12537
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
       "impact": 14159,
-      "stars": 10680,
-      "forks": 3479,
+      "stars": 10678,
+      "forks": 3481,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12534,
-      "stars": 9182,
+      "impact": 12537,
+      "stars": 9185,
       "forks": 3352,
       "owner_type": "Organization"
     },
     {
       "repo": "RMerl/asuswrt-merlin.ng",
-      "impact": 6831,
-      "stars": 6102,
+      "impact": 6832,
+      "stars": 6103,
       "forks": 729,
       "owner_type": "User"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5927,
-      "stars": 5250,
-      "forks": 677,
+      "impact": 5941,
+      "stars": 5262,
+      "forks": 679,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4776,
-      "stars": 3831,
+      "impact": 4777,
+      "stars": 3832,
       "forks": 945,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2363,
-      "stars": 2237,
+      "impact": 2364,
+      "stars": 2238,
       "forks": 126,
       "owner_type": "User"
     },
@@ -291,9 +291,16 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 616,
+      "impact": 617,
       "stars": 485,
-      "forks": 131,
+      "forks": 132,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "electroneum/electroneum",
+      "impact": 579,
+      "stars": 385,
+      "forks": 194,
       "owner_type": "Organization"
     },
     {
@@ -311,9 +318,16 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "bitrig/bitrig",
+      "impact": 298,
+      "stars": 256,
+      "forks": 42,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 293,
-      "stars": 213,
+      "impact": 294,
+      "stars": 214,
       "forks": 80,
       "owner_type": "Organization"
     },
@@ -332,11 +346,18 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "ghostbsd/ghostbsd-src",
-      "impact": 185,
-      "stars": 148,
-      "forks": 37,
-      "owner_type": "Organization"
+      "repo": "sumoprojects/sumokoin",
+      "impact": 186,
+      "stars": 128,
+      "forks": 58,
+      "owner_type": "User"
+    },
+    {
+      "repo": "xyzmos/GeekDNS",
+      "impact": 183,
+      "stars": 158,
+      "forks": 25,
+      "owner_type": "User"
     },
     {
       "repo": "ZephyrProtocol/zephyr",
@@ -367,10 +388,24 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "ryo-currency/ryo-currency",
+      "impact": 127,
+      "stars": 79,
+      "forks": 48,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "masari-project/masari-webwallet",
       "impact": 124,
       "stars": 16,
       "forks": 108,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "graft-project/GraftNetwork",
+      "impact": 120,
+      "stars": 81,
+      "forks": 39,
       "owner_type": "Organization"
     },
     {
@@ -379,41 +414,6 @@
       "stars": 108,
       "forks": 12,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "lattera/freebsd",
-      "impact": 108,
-      "stars": 69,
-      "forks": 39,
-      "owner_type": "User"
-    },
-    {
-      "repo": "scala-network/scala-v7",
-      "impact": 106,
-      "stars": 80,
-      "forks": 26,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "havenprotocol/haven",
-      "impact": 97,
-      "stars": 59,
-      "forks": 38,
-      "owner_type": "User"
-    },
-    {
-      "repo": "E-F-A/v4",
-      "impact": 95,
-      "stars": 58,
-      "forks": 37,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "noloader/Build-Scripts",
-      "impact": 93,
-      "stars": 70,
-      "forks": 23,
-      "owner_type": "User"
     }
   ],
   "trend": [
@@ -720,10 +720,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-09_16-53-56",
+      "total": 299,
+      "old_only": 297,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-09T16:53:56.699733+00:00",
-    "snapshot_count": 38
+    "generated_at": "2026-07-10T17:04:33.271298+00:00",
+    "snapshot_count": 39
   }
 }
