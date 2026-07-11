@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 303,
-    "old_only": 301,
+    "total": 295,
+    "old_only": 293,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 119,
-    "User": 184
+    "Organization": 125,
+    "User": 170
   },
   "impact": {
-    "total": 59339,
-    "average": 195.8
+    "total": 59783,
+    "average": 202.7
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9185,
-      "forks": 3352,
+      "stars": 9187,
+      "forks": 3353,
       "owner_type": "Organization",
-      "impact": 12537
+      "impact": 12540
     },
     {
       "repo": "truenas/os",
@@ -197,14 +197,6 @@
       "impact": 21
     },
     {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 22
-    },
-    {
       "repo": "os3sec/Extended-DNSSEC-Validator",
       "priority": "NORMAL",
       "stars": 15,
@@ -227,44 +219,52 @@
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
+    },
+    {
+      "repo": "cadets/freebsd-old",
+      "priority": "NORMAL",
+      "stars": 13,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 20
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9185,
-      "forks": 3352,
+      "stars": 9187,
+      "forks": 3353,
       "owner_type": "Organization",
-      "impact": 12537
+      "impact": 12540
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14159,
-      "stars": 10678,
-      "forks": 3481,
+      "impact": 14161,
+      "stars": 10679,
+      "forks": 3482,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12537,
-      "stars": 9185,
-      "forks": 3352,
+      "impact": 12540,
+      "stars": 9187,
+      "forks": 3353,
       "owner_type": "Organization"
     },
     {
       "repo": "RMerl/asuswrt-merlin.ng",
-      "impact": 6832,
-      "stars": 6103,
+      "impact": 6833,
+      "stars": 6104,
       "forks": 729,
       "owner_type": "User"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5941,
-      "stars": 5262,
+      "impact": 5944,
+      "stars": 5265,
       "forks": 679,
       "owner_type": "Organization"
     },
@@ -277,15 +277,15 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2364,
-      "stars": 2238,
+      "impact": 2369,
+      "stars": 2243,
       "forks": 126,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 686,
-      "stars": 487,
+      "impact": 687,
+      "stars": 488,
       "forks": 199,
       "owner_type": "Organization"
     },
@@ -353,6 +353,13 @@
       "owner_type": "User"
     },
     {
+      "repo": "ghostbsd/ghostbsd-src",
+      "impact": 185,
+      "stars": 148,
+      "forks": 37,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "xyzmos/GeekDNS",
       "impact": 183,
       "stars": 158,
@@ -406,13 +413,6 @@
       "impact": 120,
       "stars": 81,
       "forks": 39,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "MidnightBSD/src",
-      "impact": 120,
-      "stars": 108,
-      "forks": 12,
       "owner_type": "Organization"
     }
   ],
@@ -728,10 +728,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-10_17-04-33",
+      "total": 303,
+      "old_only": 301,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-10T17:04:33.271298+00:00",
-    "snapshot_count": 39
+    "generated_at": "2026-07-11T15:24:46.161727+00:00",
+    "snapshot_count": 40
   }
 }
