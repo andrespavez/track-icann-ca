@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 295,
-    "old_only": 293,
+    "total": 319,
+    "old_only": 317,
     "old_and_new": 2,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.7,
+    "progress": 0.6,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 125,
-    "User": 170
+    "Organization": 134,
+    "User": 185
   },
   "impact": {
-    "total": 59783,
-    "average": 202.7
+    "total": 59843,
+    "average": 187.6
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9187,
-      "forks": 3353,
+      "stars": 9191,
+      "forks": 3354,
       "owner_type": "Organization",
-      "impact": 12540
+      "impact": 12545
     },
     {
       "repo": "truenas/os",
@@ -197,6 +197,14 @@
       "impact": 21
     },
     {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 22
+    },
+    {
       "repo": "os3sec/Extended-DNSSEC-Validator",
       "priority": "NORMAL",
       "stars": 15,
@@ -219,39 +227,31 @@
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
-    },
-    {
-      "repo": "cadets/freebsd-old",
-      "priority": "NORMAL",
-      "stars": 13,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 20
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9187,
-      "forks": 3353,
+      "stars": 9191,
+      "forks": 3354,
       "owner_type": "Organization",
-      "impact": 12540
+      "impact": 12545
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14161,
+      "impact": 14162,
       "stars": 10679,
-      "forks": 3482,
+      "forks": 3483,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12540,
-      "stars": 9187,
-      "forks": 3353,
+      "impact": 12545,
+      "stars": 9191,
+      "forks": 3354,
       "owner_type": "Organization"
     },
     {
@@ -263,22 +263,22 @@
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5944,
-      "stars": 5265,
+      "impact": 5949,
+      "stars": 5270,
       "forks": 679,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4777,
-      "stars": 3832,
+      "impact": 4776,
+      "stars": 3831,
       "forks": 945,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2369,
-      "stars": 2243,
+      "impact": 2370,
+      "stars": 2244,
       "forks": 126,
       "owner_type": "User"
     },
@@ -736,10 +736,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-11_15-24-46",
+      "total": 295,
+      "old_only": 293,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-11T15:24:46.161727+00:00",
-    "snapshot_count": 40
+    "generated_at": "2026-07-12T15:31:17.431239+00:00",
+    "snapshot_count": 41
   }
 }
