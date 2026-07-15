@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 336,
+    "total": 337,
     "old_only": 334,
-    "old_and_new": 2,
+    "old_and_new": 3,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.6,
+    "progress": 0.9,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 134,
+    "Organization": 135,
     "User": 202
   },
   "impact": {
-    "total": 53018,
-    "average": 157.8
+    "total": 53551,
+    "average": 158.9
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9193,
-      "forks": 3355,
+      "stars": 9197,
+      "forks": 3359,
       "owner_type": "Organization",
-      "impact": 12548
+      "impact": 12556
     },
     {
       "repo": "truenas/os",
@@ -48,9 +48,9 @@
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
       "stars": 214,
-      "forks": 80,
+      "forks": 81,
       "owner_type": "Organization",
-      "impact": 294
+      "impact": 295
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -101,7 +101,7 @@
       "impact": 45
     },
     {
-      "repo": "monerov/monerov",
+      "repo": "safex/safexcore",
       "priority": "NORMAL",
       "stars": 31,
       "forks": 27,
@@ -109,7 +109,7 @@
       "impact": 58
     },
     {
-      "repo": "safex/safexcore",
+      "repo": "monerov/monerov",
       "priority": "NORMAL",
       "stars": 31,
       "forks": 27,
@@ -149,6 +149,14 @@
       "impact": 29
     },
     {
+      "repo": "BitChute/chutoken",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 5,
+      "owner_type": "Organization",
+      "impact": 24
+    },
+    {
       "repo": "FreshTomato-Project/freshtomato-ax",
       "priority": "NORMAL",
       "stars": 19,
@@ -163,14 +171,6 @@
       "forks": 5,
       "owner_type": "User",
       "impact": 24
-    },
-    {
-      "repo": "BitChute/chutoken",
-      "priority": "NORMAL",
-      "stars": 18,
-      "forks": 5,
-      "owner_type": "Organization",
-      "impact": 23
     },
     {
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
@@ -189,20 +189,20 @@
       "impact": 29
     },
     {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 22
-    },
-    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 6,
       "owner_type": "Organization",
       "impact": 21
+    },
+    {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 22
     },
     {
       "repo": "os3sec/Extended-DNSSEC-Validator",
@@ -233,46 +233,46 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9193,
-      "forks": 3355,
+      "stars": 9197,
+      "forks": 3359,
       "owner_type": "Organization",
-      "impact": 12548
+      "impact": 12556
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14170,
-      "stars": 10683,
+      "impact": 14171,
+      "stars": 10684,
       "forks": 3487,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12548,
-      "stars": 9193,
-      "forks": 3355,
+      "impact": 12556,
+      "stars": 9197,
+      "forks": 3359,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5960,
-      "stars": 5279,
+      "impact": 5957,
+      "stars": 5276,
       "forks": 681,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4776,
-      "stars": 3832,
-      "forks": 944,
+      "impact": 4778,
+      "stars": 3833,
+      "forks": 945,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
       "impact": 2370,
-      "stars": 2244,
-      "forks": 126,
+      "stars": 2245,
+      "forks": 125,
       "owner_type": "User"
     },
     {
@@ -319,9 +319,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 294,
+      "impact": 295,
       "stars": 214,
-      "forks": 80,
+      "forks": 81,
       "owner_type": "Organization"
     },
     {
@@ -375,9 +375,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 161,
-      "stars": 110,
-      "forks": 51,
+      "impact": 163,
+      "stars": 111,
+      "forks": 52,
       "owner_type": "Organization"
     },
     {
@@ -760,10 +760,18 @@
       "old_and_new": 2,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-14_16-28-42",
+      "total": 336,
+      "old_only": 334,
+      "old_and_new": 2,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-14T16:28:42.603090+00:00",
-    "snapshot_count": 43
+    "generated_at": "2026-07-15T16:23:21.925960+00:00",
+    "snapshot_count": 44
   }
 }
