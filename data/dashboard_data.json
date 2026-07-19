@@ -24,7 +24,7 @@
     "User": 202
   },
   "impact": {
-    "total": 53612,
+    "total": 53624,
     "average": 159.1
   },
   "top_targets": [
@@ -32,9 +32,9 @@
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9207,
-      "forks": 3372,
+      "forks": 3373,
       "owner_type": "Organization",
-      "impact": 12579
+      "impact": 12580
     },
     {
       "repo": "truenas/os",
@@ -234,31 +234,31 @@
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
       "stars": 9207,
-      "forks": 3372,
+      "forks": 3373,
       "owner_type": "Organization",
-      "impact": 12579
+      "impact": 12580
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14181,
-      "stars": 10693,
+      "impact": 14184,
+      "stars": 10696,
       "forks": 3488,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12579,
+      "impact": 12580,
       "stars": 9207,
-      "forks": 3372,
+      "forks": 3373,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5968,
-      "stars": 5287,
-      "forks": 681,
+      "impact": 5970,
+      "stars": 5288,
+      "forks": 682,
       "owner_type": "Organization"
     },
     {
@@ -270,8 +270,8 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2372,
-      "stars": 2247,
+      "impact": 2374,
+      "stars": 2249,
       "forks": 125,
       "owner_type": "User"
     },
@@ -333,9 +333,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 220,
+      "impact": 221,
       "stars": 177,
-      "forks": 43,
+      "forks": 44,
       "owner_type": "Organization"
     },
     {
@@ -381,17 +381,17 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "ryo-currency/ryo-currency",
+      "impact": 128,
+      "stars": 79,
+      "forks": 49,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "masari-project/masari",
       "impact": 127,
       "stars": 71,
       "forks": 56,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "ryo-currency/ryo-currency",
-      "impact": 127,
-      "stars": 79,
-      "forks": 48,
       "owner_type": "Organization"
     },
     {
@@ -792,10 +792,18 @@
       "old_and_new": 3,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-18_15-23-10",
+      "total": 337,
+      "old_only": 334,
+      "old_and_new": 3,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-18T15:23:10.069198+00:00",
-    "snapshot_count": 47
+    "generated_at": "2026-07-19T15:27:27.257691+00:00",
+    "snapshot_count": 48
   }
 }
