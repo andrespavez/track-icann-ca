@@ -24,17 +24,17 @@
     "User": 202
   },
   "impact": {
-    "total": 53632,
-    "average": 159.1
+    "total": 53646,
+    "average": 159.2
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9208,
-      "forks": 3373,
+      "stars": 9210,
+      "forks": 3375,
       "owner_type": "Organization",
-      "impact": 12581
+      "impact": 12585
     },
     {
       "repo": "truenas/os",
@@ -233,45 +233,45 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9208,
-      "forks": 3373,
+      "stars": 9210,
+      "forks": 3375,
       "owner_type": "Organization",
-      "impact": 12581
+      "impact": 12585
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14188,
-      "stars": 10701,
-      "forks": 3487,
+      "impact": 14194,
+      "stars": 10705,
+      "forks": 3489,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12581,
-      "stars": 9208,
-      "forks": 3373,
+      "impact": 12585,
+      "stars": 9210,
+      "forks": 3375,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5970,
-      "stars": 5288,
+      "impact": 5969,
+      "stars": 5287,
       "forks": 682,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4779,
-      "stars": 3835,
-      "forks": 944,
+      "impact": 4781,
+      "stars": 3836,
+      "forks": 945,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2375,
-      "stars": 2250,
+      "impact": 2374,
+      "stars": 2249,
       "forks": 125,
       "owner_type": "User"
     },
@@ -325,18 +325,18 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "FreshTomato-Project/freshtomato-arm",
+      "impact": 222,
+      "stars": 177,
+      "forks": 45,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "steventroughtonsmith/MobileTerminal",
       "impact": 222,
       "stars": 198,
       "forks": 24,
       "owner_type": "User"
-    },
-    {
-      "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 221,
-      "stars": 177,
-      "forks": 44,
-      "owner_type": "Organization"
     },
     {
       "repo": "sumoprojects/sumokoin",
@@ -361,8 +361,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 171,
-      "stars": 147,
+      "impact": 172,
+      "stars": 148,
       "forks": 24,
       "owner_type": "User"
     },
@@ -375,9 +375,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 163,
+      "impact": 162,
       "stars": 111,
-      "forks": 52,
+      "forks": 51,
       "owner_type": "Organization"
     },
     {
@@ -808,10 +808,18 @@
       "old_and_new": 3,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-20_16-09-03",
+      "total": 337,
+      "old_only": 334,
+      "old_and_new": 3,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-20T16:09:03.021313+00:00",
-    "snapshot_count": 49
+    "generated_at": "2026-07-21T16:09:04.204005+00:00",
+    "snapshot_count": 50
   }
 }
