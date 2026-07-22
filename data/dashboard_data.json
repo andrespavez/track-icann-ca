@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 334,
+    "total": 304,
+    "old_only": 301,
     "old_and_new": 3,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 0.9,
+    "progress": 1.0,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 135,
-    "User": 202
+    "Organization": 116,
+    "User": 188
   },
   "impact": {
-    "total": 53646,
-    "average": 159.2
+    "total": 52247,
+    "average": 171.9
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9210,
-      "forks": 3375,
+      "stars": 9215,
+      "forks": 3379,
       "owner_type": "Organization",
-      "impact": 12585
+      "impact": 12594
     },
     {
       "repo": "truenas/os",
@@ -51,14 +51,6 @@
       "forks": 81,
       "owner_type": "Organization",
       "impact": 295
-    },
-    {
-      "repo": "HardenedBSD/hardenedBSD-stable",
-      "priority": "NORMAL",
-      "stars": 134,
-      "forks": 32,
-      "owner_type": "Organization",
-      "impact": 166
     },
     {
       "repo": "bmwiedemann/openSUSE",
@@ -93,22 +85,6 @@
       "impact": 60
     },
     {
-      "repo": "TheSuperiorCoin/TheSuperiorCoin",
-      "priority": "NORMAL",
-      "stars": 33,
-      "forks": 12,
-      "owner_type": "Organization",
-      "impact": 45
-    },
-    {
-      "repo": "safex/safexcore",
-      "priority": "NORMAL",
-      "stars": 31,
-      "forks": 27,
-      "owner_type": "Organization",
-      "impact": 58
-    },
-    {
       "repo": "monerov/monerov",
       "priority": "NORMAL",
       "stars": 31,
@@ -117,12 +93,12 @@
       "impact": 58
     },
     {
-      "repo": "Monereum/Monereum",
+      "repo": "RavenProject/ravenwallet-ios",
       "priority": "NORMAL",
-      "stars": 29,
-      "forks": 2,
-      "owner_type": "User",
-      "impact": 31
+      "stars": 25,
+      "forks": 19,
+      "owner_type": "Organization",
+      "impact": 44
     },
     {
       "repo": "blackfuel/asuswrt-rt-ac86u",
@@ -131,14 +107,6 @@
       "forks": 18,
       "owner_type": "User",
       "impact": 43
-    },
-    {
-      "repo": "RavenProject/ravenwallet-ios",
-      "priority": "NORMAL",
-      "stars": 25,
-      "forks": 19,
-      "owner_type": "Organization",
-      "impact": 44
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -154,22 +122,6 @@
       "stars": 19,
       "forks": 5,
       "owner_type": "Organization",
-      "impact": 24
-    },
-    {
-      "repo": "FreshTomato-Project/freshtomato-ax",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 25
-    },
-    {
-      "repo": "hselasky/usb4",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 5,
-      "owner_type": "User",
       "impact": 24
     },
     {
@@ -189,14 +141,6 @@
       "impact": 29
     },
     {
-      "repo": "pcbsd/NextBSD",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 6,
-      "owner_type": "Organization",
-      "impact": 21
-    },
-    {
       "repo": "minombreesjeff/darwin_env",
       "priority": "NORMAL",
       "stars": 15,
@@ -213,6 +157,14 @@
       "impact": 22
     },
     {
+      "repo": "pcbsd/NextBSD",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 6,
+      "owner_type": "Organization",
+      "impact": 21
+    },
+    {
       "repo": "scala-network/Scala",
       "priority": "NORMAL",
       "stars": 14,
@@ -227,52 +179,100 @@
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
+    },
+    {
+      "repo": "cadets/freebsd-old",
+      "priority": "NORMAL",
+      "stars": 13,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 20
+    },
+    {
+      "repo": "lattera/openbsd",
+      "priority": "NORMAL",
+      "stars": 13,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 20
+    },
+    {
+      "repo": "coolstar/freebsd-ports-ios",
+      "priority": "NORMAL",
+      "stars": 12,
+      "forks": 4,
+      "owner_type": "User",
+      "impact": 16
+    },
+    {
+      "repo": "APEPEPOW/APEPEPOW",
+      "priority": "NORMAL",
+      "stars": 11,
+      "forks": 4,
+      "owner_type": "User",
+      "impact": 15
+    },
+    {
+      "repo": "gkruja/MoneroAndroidwallet",
+      "priority": "NORMAL",
+      "stars": 11,
+      "forks": 11,
+      "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "zfsrogue/freebsd-crypto",
+      "priority": "NORMAL",
+      "stars": 10,
+      "forks": 5,
+      "owner_type": "User",
+      "impact": 15
     }
   ],
   "high_priority": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9210,
-      "forks": 3375,
+      "stars": 9215,
+      "forks": 3379,
       "owner_type": "Organization",
-      "impact": 12585
+      "impact": 12594
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14194,
-      "stars": 10705,
+      "impact": 14195,
+      "stars": 10706,
       "forks": 3489,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12585,
-      "stars": 9210,
-      "forks": 3375,
+      "impact": 12594,
+      "stars": 9215,
+      "forks": 3379,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5969,
-      "stars": 5287,
-      "forks": 682,
+      "impact": 5971,
+      "stars": 5288,
+      "forks": 683,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4781,
-      "stars": 3836,
+      "impact": 4783,
+      "stars": 3838,
       "forks": 945,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2374,
-      "stars": 2249,
-      "forks": 125,
+      "impact": 2377,
+      "stars": 2251,
+      "forks": 126,
       "owner_type": "User"
     },
     {
@@ -297,13 +297,6 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "pfsense/FreeBSD-src",
-      "impact": 499,
-      "stars": 167,
-      "forks": 332,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "truenas/os",
       "impact": 318,
       "stars": 237,
@@ -325,13 +318,6 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 222,
-      "stars": 177,
-      "forks": 45,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "steventroughtonsmith/MobileTerminal",
       "impact": 222,
       "stars": 198,
@@ -339,18 +325,18 @@
       "owner_type": "User"
     },
     {
+      "repo": "FreshTomato-Project/freshtomato-arm",
+      "impact": 221,
+      "stars": 176,
+      "forks": 45,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "sumoprojects/sumokoin",
       "impact": 186,
       "stars": 128,
       "forks": 58,
       "owner_type": "User"
-    },
-    {
-      "repo": "ghostbsd/ghostbsd-src",
-      "impact": 185,
-      "stars": 148,
-      "forks": 37,
-      "owner_type": "Organization"
     },
     {
       "repo": "xyzmos/GeekDNS",
@@ -367,13 +353,6 @@
       "owner_type": "User"
     },
     {
-      "repo": "HardenedBSD/hardenedBSD-stable",
-      "impact": 166,
-      "stars": 134,
-      "forks": 32,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "iana-org/get-trust-anchor",
       "impact": 162,
       "stars": 111,
@@ -385,13 +364,6 @@
       "impact": 128,
       "stars": 79,
       "forks": 49,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "masari-project/masari",
-      "impact": 127,
-      "stars": 71,
-      "forks": 56,
       "owner_type": "Organization"
     },
     {
@@ -414,6 +386,34 @@
       "stars": 81,
       "forks": 39,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "lattera/freebsd",
+      "impact": 108,
+      "stars": 69,
+      "forks": 39,
+      "owner_type": "User"
+    },
+    {
+      "repo": "scala-network/scala-v7",
+      "impact": 106,
+      "stars": 80,
+      "forks": 26,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "arqma/arqma",
+      "impact": 105,
+      "stars": 49,
+      "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "havenprotocol/haven",
+      "impact": 97,
+      "stars": 59,
+      "forks": 38,
+      "owner_type": "User"
     }
   ],
   "trend": [
@@ -816,10 +816,18 @@
       "old_and_new": 3,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-21_16-09-04",
+      "total": 337,
+      "old_only": 334,
+      "old_and_new": 3,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-21T16:09:04.204005+00:00",
-    "snapshot_count": 50
+    "generated_at": "2026-07-22T15:51:17.027376+00:00",
+    "snapshot_count": 51
   }
 }
