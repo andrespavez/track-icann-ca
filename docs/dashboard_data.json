@@ -24,25 +24,25 @@
     "User": 204
   },
   "impact": {
-    "total": 53663,
+    "total": 53688,
     "average": 158.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9220,
-      "forks": 3380,
+      "stars": 9219,
+      "forks": 3381,
       "owner_type": "Organization",
       "impact": 12600
     },
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 237,
+      "stars": 236,
       "forks": 81,
       "owner_type": "Organization",
-      "impact": 318
+      "impact": 317
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -189,19 +189,19 @@
       "impact": 21
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 22
-    },
-    {
       "repo": "minombreesjeff/darwin_env",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 7,
       "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
       "impact": 22
     },
     {
@@ -233,8 +233,8 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9220,
-      "forks": 3380,
+      "stars": 9219,
+      "forks": 3381,
       "owner_type": "Organization",
       "impact": 12600
     }
@@ -242,30 +242,30 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14199,
-      "stars": 10710,
-      "forks": 3489,
+      "impact": 14210,
+      "stars": 10719,
+      "forks": 3491,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
       "impact": 12600,
-      "stars": 9220,
-      "forks": 3380,
+      "stars": 9219,
+      "forks": 3381,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5971,
-      "stars": 5288,
-      "forks": 683,
+      "impact": 5976,
+      "stars": 5290,
+      "forks": 686,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4786,
-      "stars": 3841,
-      "forks": 945,
+      "impact": 4789,
+      "stars": 3843,
+      "forks": 946,
       "owner_type": "Organization"
     },
     {
@@ -277,9 +277,9 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 688,
+      "impact": 689,
       "stars": 490,
-      "forks": 198,
+      "forks": 199,
       "owner_type": "Organization"
     },
     {
@@ -305,8 +305,8 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 318,
-      "stars": 237,
+      "impact": 317,
+      "stars": 236,
       "forks": 81,
       "owner_type": "Organization"
     },
@@ -347,8 +347,8 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 185,
-      "stars": 148,
+      "impact": 186,
+      "stars": 149,
       "forks": 37,
       "owner_type": "Organization"
     },
@@ -832,10 +832,18 @@
       "old_and_new": 3,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-23_16-06-58",
+      "total": 338,
+      "old_only": 334,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-23T16:06:58.755368+00:00",
-    "snapshot_count": 52
+    "generated_at": "2026-07-24T15:38:21.242317+00:00",
+    "snapshot_count": 53
   }
 }
