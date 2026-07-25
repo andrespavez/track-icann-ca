@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 53688,
-    "average": 158.8
+    "total": 53712,
+    "average": 158.9
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9219,
-      "forks": 3381,
+      "stars": 9226,
+      "forks": 3382,
       "owner_type": "Organization",
-      "impact": 12600
+      "impact": 12608
     },
     {
       "repo": "truenas/os",
@@ -125,20 +125,20 @@
       "impact": 31
     },
     {
-      "repo": "RavenProject/ravenwallet-ios",
-      "priority": "NORMAL",
-      "stars": 25,
-      "forks": 19,
-      "owner_type": "Organization",
-      "impact": 44
-    },
-    {
       "repo": "blackfuel/asuswrt-rt-ac86u",
       "priority": "NORMAL",
       "stars": 25,
       "forks": 18,
       "owner_type": "User",
       "impact": 43
+    },
+    {
+      "repo": "RavenProject/ravenwallet-ios",
+      "priority": "NORMAL",
+      "stars": 25,
+      "forks": 19,
+      "owner_type": "Organization",
+      "impact": 44
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -181,6 +181,14 @@
       "impact": 29
     },
     {
+      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 22
+    },
+    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
@@ -197,12 +205,12 @@
       "impact": 22
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "repo": "scala-network/Scala",
       "priority": "NORMAL",
-      "stars": 15,
+      "stars": 14,
       "forks": 7,
       "owner_type": "Organization",
-      "impact": 22
+      "impact": 21
     },
     {
       "repo": "HardenedBSD/hardenedBSD-playground",
@@ -211,14 +219,6 @@
       "forks": 4,
       "owner_type": "Organization",
       "impact": 18
-    },
-    {
-      "repo": "scala-network/Scala",
-      "priority": "NORMAL",
-      "stars": 14,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 21
     },
     {
       "repo": "cadets/freebsd-old",
@@ -233,39 +233,39 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9219,
-      "forks": 3381,
+      "stars": 9226,
+      "forks": 3382,
       "owner_type": "Organization",
-      "impact": 12600
+      "impact": 12608
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14210,
-      "stars": 10719,
+      "impact": 14214,
+      "stars": 10723,
       "forks": 3491,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12600,
-      "stars": 9219,
-      "forks": 3381,
+      "impact": 12608,
+      "stars": 9226,
+      "forks": 3382,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5976,
-      "stars": 5290,
+      "impact": 5975,
+      "stars": 5289,
       "forks": 686,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4789,
+      "impact": 4790,
       "stars": 3843,
-      "forks": 946,
+      "forks": 947,
       "owner_type": "Organization"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 689,
-      "stars": 490,
+      "impact": 690,
+      "stars": 491,
       "forks": 199,
       "owner_type": "Organization"
     },
@@ -291,16 +291,16 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 579,
-      "stars": 385,
-      "forks": 194,
+      "impact": 581,
+      "stars": 386,
+      "forks": 195,
       "owner_type": "Organization"
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 499,
+      "impact": 500,
       "stars": 167,
-      "forks": 332,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -347,8 +347,8 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 186,
-      "stars": 149,
+      "impact": 185,
+      "stars": 148,
       "forks": 37,
       "owner_type": "Organization"
     },
@@ -840,10 +840,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-24_15-38-21",
+      "total": 338,
+      "old_only": 334,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-24T15:38:21.242317+00:00",
-    "snapshot_count": 53
+    "generated_at": "2026-07-25T15:15:26.971485+00:00",
+    "snapshot_count": 54
   }
 }
