@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 53712,
-    "average": 158.9
+    "total": 53727,
+    "average": 159.0
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9226,
-      "forks": 3382,
+      "stars": 9229,
+      "forks": 3383,
       "owner_type": "Organization",
-      "impact": 12608
+      "impact": 12612
     },
     {
       "repo": "truenas/os",
@@ -127,10 +127,10 @@
     {
       "repo": "blackfuel/asuswrt-rt-ac86u",
       "priority": "NORMAL",
-      "stars": 25,
+      "stars": 26,
       "forks": 18,
       "owner_type": "User",
-      "impact": 43
+      "impact": 44
     },
     {
       "repo": "RavenProject/ravenwallet-ios",
@@ -233,32 +233,32 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9226,
-      "forks": 3382,
+      "stars": 9229,
+      "forks": 3383,
       "owner_type": "Organization",
-      "impact": 12608
+      "impact": 12612
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14214,
-      "stars": 10723,
+      "impact": 14217,
+      "stars": 10726,
       "forks": 3491,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12608,
-      "stars": 9226,
-      "forks": 3382,
+      "impact": 12612,
+      "stars": 9229,
+      "forks": 3383,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5975,
-      "stars": 5289,
-      "forks": 686,
+      "impact": 5977,
+      "stars": 5290,
+      "forks": 687,
       "owner_type": "Organization"
     },
     {
@@ -270,9 +270,9 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2377,
-      "stars": 2251,
-      "forks": 126,
+      "impact": 2380,
+      "stars": 2253,
+      "forks": 127,
       "owner_type": "User"
     },
     {
@@ -291,9 +291,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 581,
+      "impact": 580,
       "stars": 386,
-      "forks": 195,
+      "forks": 194,
       "owner_type": "Organization"
     },
     {
@@ -848,10 +848,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-25_15-15-27",
+      "total": 338,
+      "old_only": 334,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-25T15:15:26.971485+00:00",
-    "snapshot_count": 54
+    "generated_at": "2026-07-26T15:17:27.779568+00:00",
+    "snapshot_count": 55
   }
 }
