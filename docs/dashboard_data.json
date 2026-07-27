@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 338,
-    "old_only": 334,
+    "total": 339,
+    "old_only": 335,
     "old_and_new": 4,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 134,
+    "Organization": 135,
     "User": 204
   },
   "impact": {
-    "total": 53727,
-    "average": 159.0
+    "total": 53824,
+    "average": 158.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9229,
-      "forks": 3383,
+      "stars": 9233,
+      "forks": 3385,
       "owner_type": "Organization",
-      "impact": 12612
+      "impact": 12618
     },
     {
       "repo": "truenas/os",
@@ -69,20 +69,20 @@
       "impact": 53
     },
     {
+      "repo": "mr-foxxo/vibe-os",
+      "priority": "NORMAL",
+      "stars": 44,
+      "forks": 2,
+      "owner_type": "User",
+      "impact": 46
+    },
+    {
       "repo": "haven-protocol-org/haven-main",
       "priority": "NORMAL",
       "stars": 43,
       "forks": 22,
       "owner_type": "Organization",
       "impact": 65
-    },
-    {
-      "repo": "mr-foxxo/vibe-os",
-      "priority": "NORMAL",
-      "stars": 43,
-      "forks": 2,
-      "owner_type": "User",
-      "impact": 45
     },
     {
       "repo": "salvium/salvium",
@@ -141,20 +141,20 @@
       "impact": 44
     },
     {
-      "repo": "blackfuel/asuswrt-gt-ac5300",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 10,
-      "owner_type": "User",
-      "impact": 29
-    },
-    {
       "repo": "BitChute/chutoken",
       "priority": "NORMAL",
       "stars": 19,
       "forks": 5,
       "owner_type": "Organization",
       "impact": 24
+    },
+    {
+      "repo": "blackfuel/asuswrt-gt-ac5300",
+      "priority": "NORMAL",
+      "stars": 19,
+      "forks": 10,
+      "owner_type": "User",
+      "impact": 29
     },
     {
       "repo": "hselasky/usb4",
@@ -181,14 +181,6 @@
       "impact": 29
     },
     {
-      "repo": "os3sec/Extended-DNSSEC-Validator",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "Organization",
-      "impact": 22
-    },
-    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
@@ -202,6 +194,14 @@
       "stars": 15,
       "forks": 7,
       "owner_type": "User",
+      "impact": 22
+    },
+    {
+      "repo": "os3sec/Extended-DNSSEC-Validator",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
       "impact": 22
     },
     {
@@ -221,11 +221,11 @@
       "impact": 18
     },
     {
-      "repo": "cadets/freebsd-old",
+      "repo": "lattera/openbsd",
       "priority": "NORMAL",
       "stars": 13,
       "forks": 7,
-      "owner_type": "Organization",
+      "owner_type": "User",
       "impact": 20
     }
   ],
@@ -233,10 +233,10 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9229,
-      "forks": 3383,
+      "stars": 9233,
+      "forks": 3385,
       "owner_type": "Organization",
-      "impact": 12612
+      "impact": 12618
     }
   ],
   "high_impact": [
@@ -249,29 +249,29 @@
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12612,
-      "stars": 9229,
-      "forks": 3383,
+      "impact": 12618,
+      "stars": 9233,
+      "forks": 3385,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5977,
-      "stars": 5290,
-      "forks": 687,
+      "impact": 5981,
+      "stars": 5293,
+      "forks": 688,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4790,
-      "stars": 3843,
-      "forks": 947,
+      "impact": 4793,
+      "stars": 3845,
+      "forks": 948,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2380,
-      "stars": 2253,
+      "impact": 2382,
+      "stars": 2255,
       "forks": 127,
       "owner_type": "User"
     },
@@ -856,10 +856,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-26_15-17-27",
+      "total": 338,
+      "old_only": 334,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-26T15:17:27.779568+00:00",
-    "snapshot_count": 55
+    "generated_at": "2026-07-27T16:33:13.514564+00:00",
+    "snapshot_count": 56
   }
 }
