@@ -24,17 +24,17 @@
     "User": 204
   },
   "impact": {
-    "total": 53824,
+    "total": 53834,
     "average": 158.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9233,
-      "forks": 3385,
+      "stars": 9235,
+      "forks": 3386,
       "owner_type": "Organization",
-      "impact": 12618
+      "impact": 12621
     },
     {
       "repo": "truenas/os",
@@ -189,19 +189,19 @@
       "impact": 21
     },
     {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 7,
-      "owner_type": "User",
-      "impact": 22
-    },
-    {
       "repo": "os3sec/Extended-DNSSEC-Validator",
       "priority": "NORMAL",
       "stars": 15,
       "forks": 7,
       "owner_type": "Organization",
+      "impact": 22
+    },
+    {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "User",
       "impact": 22
     },
     {
@@ -221,11 +221,11 @@
       "impact": 18
     },
     {
-      "repo": "lattera/openbsd",
+      "repo": "cadets/freebsd-old",
       "priority": "NORMAL",
       "stars": 13,
       "forks": 7,
-      "owner_type": "User",
+      "owner_type": "Organization",
       "impact": 20
     }
   ],
@@ -233,32 +233,32 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9233,
-      "forks": 3385,
+      "stars": 9235,
+      "forks": 3386,
       "owner_type": "Organization",
-      "impact": 12618
+      "impact": 12621
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14217,
-      "stars": 10726,
-      "forks": 3491,
+      "impact": 14221,
+      "stars": 10729,
+      "forks": 3492,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12618,
-      "stars": 9233,
-      "forks": 3385,
+      "impact": 12621,
+      "stars": 9235,
+      "forks": 3386,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5981,
+      "impact": 5982,
       "stars": 5293,
-      "forks": 688,
+      "forks": 689,
       "owner_type": "Organization"
     },
     {
@@ -375,9 +375,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 162,
+      "impact": 163,
       "stars": 111,
-      "forks": 51,
+      "forks": 52,
       "owner_type": "Organization"
     },
     {
@@ -402,17 +402,17 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "MidnightBSD/src",
-      "impact": 121,
-      "stars": 109,
-      "forks": 12,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "graft-project/GraftNetwork",
       "impact": 120,
       "stars": 81,
       "forks": 39,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "MidnightBSD/src",
+      "impact": 120,
+      "stars": 108,
+      "forks": 12,
       "owner_type": "Organization"
     }
   ],
@@ -864,10 +864,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-27_16-33-13",
+      "total": 339,
+      "old_only": 335,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-27T16:33:13.514564+00:00",
-    "snapshot_count": 56
+    "generated_at": "2026-07-28T16:15:01.958743+00:00",
+    "snapshot_count": 57
   }
 }
