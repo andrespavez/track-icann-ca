@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 339,
-    "old_only": 335,
+    "total": 338,
+    "old_only": 334,
     "old_and_new": 4,
     "new_only": 0,
     "unknown": 0
@@ -20,29 +20,29 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 135,
+    "Organization": 134,
     "User": 204
   },
   "impact": {
-    "total": 53834,
-    "average": 158.8
+    "total": 53161,
+    "average": 157.3
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9235,
+      "stars": 9237,
       "forks": 3386,
       "owner_type": "Organization",
-      "impact": 12621
+      "impact": 12623
     },
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 236,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization",
-      "impact": 317
+      "impact": 315
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -72,9 +72,9 @@
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
       "stars": 44,
-      "forks": 2,
+      "forks": 3,
       "owner_type": "User",
-      "impact": 46
+      "impact": 47
     },
     {
       "repo": "haven-protocol-org/haven-main",
@@ -233,54 +233,47 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9235,
+      "stars": 9237,
       "forks": 3386,
       "owner_type": "Organization",
-      "impact": 12621
+      "impact": 12623
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14221,
-      "stars": 10729,
-      "forks": 3492,
+      "impact": 14229,
+      "stars": 10735,
+      "forks": 3494,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12621,
-      "stars": 9235,
+      "impact": 12623,
+      "stars": 9237,
       "forks": 3386,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5982,
-      "stars": 5293,
+      "impact": 5986,
+      "stars": 5297,
       "forks": 689,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4793,
-      "stars": 3845,
+      "impact": 4794,
+      "stars": 3846,
       "forks": 948,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2382,
-      "stars": 2255,
+      "impact": 2383,
+      "stars": 2256,
       "forks": 127,
       "owner_type": "User"
-    },
-    {
-      "repo": "opnsense/src",
-      "impact": 690,
-      "stars": 491,
-      "forks": 199,
-      "owner_type": "Organization"
     },
     {
       "repo": "getdnsapi/getdns",
@@ -305,8 +298,8 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 317,
-      "stars": 236,
+      "impact": 315,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization"
     },
@@ -414,6 +407,13 @@
       "stars": 108,
       "forks": 12,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "lattera/freebsd",
+      "impact": 108,
+      "stars": 69,
+      "forks": 39,
+      "owner_type": "User"
     }
   ],
   "trend": [
@@ -872,10 +872,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-28_16-15-01",
+      "total": 339,
+      "old_only": 335,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-28T16:15:01.958743+00:00",
-    "snapshot_count": 57
+    "generated_at": "2026-07-29T15:58:57.589450+00:00",
+    "snapshot_count": 58
   }
 }
