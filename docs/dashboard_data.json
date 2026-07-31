@@ -24,17 +24,17 @@
     "User": 201
   },
   "impact": {
-    "total": 53176,
-    "average": 158.7
+    "total": 53183,
+    "average": 158.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9238,
-      "forks": 3388,
+      "stars": 9237,
+      "forks": 3387,
       "owner_type": "Organization",
-      "impact": 12626
+      "impact": 12624
     },
     {
       "repo": "truenas/os",
@@ -233,32 +233,32 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9238,
-      "forks": 3388,
+      "stars": 9237,
+      "forks": 3387,
       "owner_type": "Organization",
-      "impact": 12626
+      "impact": 12624
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14231,
-      "stars": 10735,
-      "forks": 3496,
+      "impact": 14233,
+      "stars": 10736,
+      "forks": 3497,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12626,
-      "stars": 9238,
-      "forks": 3388,
+      "impact": 12624,
+      "stars": 9237,
+      "forks": 3387,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
       "impact": 5990,
-      "stars": 5301,
-      "forks": 689,
+      "stars": 5302,
+      "forks": 688,
       "owner_type": "Organization"
     },
     {
@@ -318,18 +318,18 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "FreshTomato-Project/freshtomato-arm",
+      "impact": 222,
+      "stars": 177,
+      "forks": 45,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "steventroughtonsmith/MobileTerminal",
       "impact": 222,
       "stars": 198,
       "forks": 24,
       "owner_type": "User"
-    },
-    {
-      "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 221,
-      "stars": 176,
-      "forks": 45,
-      "owner_type": "Organization"
     },
     {
       "repo": "sumoprojects/sumokoin",
@@ -888,10 +888,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-07-30_16-01-48",
+      "total": 335,
+      "old_only": 331,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-07-30T16:01:48.894095+00:00",
-    "snapshot_count": 59
+    "generated_at": "2026-07-31T16:10:29.951362+00:00",
+    "snapshot_count": 60
   }
 }
