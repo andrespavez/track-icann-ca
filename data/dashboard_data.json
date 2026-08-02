@@ -24,17 +24,17 @@
     "User": 201
   },
   "impact": {
-    "total": 53197,
+    "total": 53207,
     "average": 158.8
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9240,
-      "forks": 3386,
+      "stars": 9241,
+      "forks": 3387,
       "owner_type": "Organization",
-      "impact": 12626
+      "impact": 12628
     },
     {
       "repo": "truenas/os",
@@ -233,25 +233,25 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9240,
-      "forks": 3386,
+      "stars": 9241,
+      "forks": 3387,
       "owner_type": "Organization",
-      "impact": 12626
+      "impact": 12628
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14235,
-      "stars": 10738,
+      "impact": 14237,
+      "stars": 10740,
       "forks": 3497,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12626,
-      "stars": 9240,
-      "forks": 3386,
+      "impact": 12628,
+      "stars": 9241,
+      "forks": 3387,
       "owner_type": "Organization"
     },
     {
@@ -263,16 +263,16 @@
     },
     {
       "repo": "openbsd/src",
-      "impact": 4797,
-      "stars": 3849,
-      "forks": 948,
+      "impact": 4798,
+      "stars": 3848,
+      "forks": 950,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2387,
-      "stars": 2260,
-      "forks": 127,
+      "impact": 2390,
+      "stars": 2262,
+      "forks": 128,
       "owner_type": "User"
     },
     {
@@ -904,10 +904,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-01_15-11-56",
+      "total": 335,
+      "old_only": 331,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-01T15:11:56.366340+00:00",
-    "snapshot_count": 61
+    "generated_at": "2026-08-02T15:13:01.689053+00:00",
+    "snapshot_count": 62
   }
 }
