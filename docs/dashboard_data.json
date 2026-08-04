@@ -24,17 +24,17 @@
     "User": 200
   },
   "impact": {
-    "total": 53221,
-    "average": 159.3
+    "total": 53229,
+    "average": 159.4
   },
   "top_targets": [
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9244,
-      "forks": 3388,
+      "stars": 9246,
+      "forks": 3389,
       "owner_type": "Organization",
-      "impact": 12632
+      "impact": 12635
     },
     {
       "repo": "truenas/os",
@@ -233,46 +233,46 @@
     {
       "repo": "freebsd/freebsd-src",
       "priority": "HIGH",
-      "stars": 9244,
-      "forks": 3388,
+      "stars": 9246,
+      "forks": 3389,
       "owner_type": "Organization",
-      "impact": 12632
+      "impact": 12635
     }
   ],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14243,
+      "impact": 14242,
       "stars": 10746,
-      "forks": 3497,
+      "forks": 3496,
       "owner_type": "Organization"
     },
     {
       "repo": "freebsd/freebsd-src",
-      "impact": 12632,
-      "stars": 9244,
-      "forks": 3388,
+      "impact": 12635,
+      "stars": 9246,
+      "forks": 3389,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5993,
-      "stars": 5304,
-      "forks": 689,
+      "impact": 5995,
+      "stars": 5305,
+      "forks": 690,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4799,
+      "impact": 4797,
       "stars": 3849,
-      "forks": 950,
+      "forks": 948,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2392,
+      "impact": 2393,
       "stars": 2264,
-      "forks": 128,
+      "forks": 129,
       "owner_type": "User"
     },
     {
@@ -319,8 +319,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 222,
-      "stars": 177,
+      "impact": 223,
+      "stars": 178,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -920,10 +920,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-03_16-38-46",
+      "total": 334,
+      "old_only": 330,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-03T16:38:46.297728+00:00",
-    "snapshot_count": 63
+    "generated_at": "2026-08-04T16:56:47.167329+00:00",
+    "snapshot_count": 64
   }
 }
