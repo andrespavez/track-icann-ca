@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 334,
+    "total": 335,
     "old_only": 330,
-    "old_and_new": 4,
+    "old_and_new": 5,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 1.2,
+    "progress": 1.5,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,22 +20,14 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 134,
+    "Organization": 135,
     "User": 200
   },
   "impact": {
-    "total": 53229,
-    "average": 159.4
+    "total": 53930,
+    "average": 161.0
   },
   "top_targets": [
-    {
-      "repo": "freebsd/freebsd-src",
-      "priority": "HIGH",
-      "stars": 9246,
-      "forks": 3389,
-      "owner_type": "Organization",
-      "impact": 12635
-    },
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
@@ -227,18 +219,17 @@
       "forks": 7,
       "owner_type": "Organization",
       "impact": 20
-    }
-  ],
-  "high_priority": [
+    },
     {
-      "repo": "freebsd/freebsd-src",
-      "priority": "HIGH",
-      "stars": 9246,
-      "forks": 3389,
-      "owner_type": "Organization",
-      "impact": 12635
+      "repo": "lattera/openbsd",
+      "priority": "NORMAL",
+      "stars": 13,
+      "forks": 7,
+      "owner_type": "User",
+      "impact": 20
     }
   ],
+  "high_priority": [],
   "high_impact": [
     {
       "repo": "monero-project/monero",
@@ -248,32 +239,32 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "freebsd/freebsd-src",
-      "impact": 12635,
-      "stars": 9246,
-      "forks": 3389,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "microsoft/azurelinux",
-      "impact": 5995,
+      "impact": 5996,
       "stars": 5305,
-      "forks": 690,
+      "forks": 691,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4797,
-      "stars": 3849,
+      "impact": 4799,
+      "stars": 3851,
       "forks": 948,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
       "impact": 2393,
-      "stars": 2264,
-      "forks": 129,
+      "stars": 2265,
+      "forks": 128,
       "owner_type": "User"
+    },
+    {
+      "repo": "opnsense/src",
+      "impact": 693,
+      "stars": 493,
+      "forks": 200,
+      "owner_type": "Organization"
     },
     {
       "repo": "getdnsapi/getdns",
@@ -284,8 +275,8 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 581,
-      "stars": 387,
+      "impact": 580,
+      "stars": 386,
       "forks": 194,
       "owner_type": "Organization"
     },
@@ -928,10 +919,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-04_16-56-47",
+      "total": 334,
+      "old_only": 330,
+      "old_and_new": 4,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-04T16:56:47.167329+00:00",
-    "snapshot_count": 64
+    "generated_at": "2026-08-05T16:13:56.391136+00:00",
+    "snapshot_count": 65
   }
 }

@@ -1,6 +1,6 @@
 # ICANN Root CA Migration
 
-Generated: 2026-08-04T16:56:46.967166+00:00
+Generated: 2026-08-05T16:13:56.233022+00:00
 
 ## OLD_ONLY (330)
 
@@ -325,8 +325,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/src/common/dns_utils.cpp
 - https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/src/common/dns_utils.cpp
 
 ---
 
@@ -338,8 +338,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/src/common/dns_utils.cpp
 - https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/Bitlitas/bitlitas/blob/9cfc72cbcbbd9f45d663ee36c8cfb7f157feaf89/src/common/dns_utils.cpp
 
 ---
 
@@ -436,7 +436,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/bmwiedemann/openSUSE/blob/b0234b8c7ea7284017a096e6ebcceca12ea6d09b/packages/u/unbound/icannbundle.pem
+- https://github.com/bmwiedemann/openSUSE/blob/0762d14a754487d42b25de4197a1803d5099ffe2/packages/u/unbound/icannbundle.pem
 
 ---
 
@@ -823,8 +823,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/src/common/dns_utils.cpp
+- https://github.com/dcycoin/xdc/blob/710e6f67d8398c85ba50eda9a9c1fc91f0e851f5/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -1215,18 +1215,6 @@ Source locations:
 
 ---
 
-### freebsd/freebsd-src
-
-Repository: https://github.com/freebsd/freebsd-src
-
-Affected files: 1
-
-Source locations:
-
-- https://github.com/freebsd/freebsd-src/blob/8f20299b473af6132e0f146d7f634640993aeb81/contrib/unbound/smallapp/unbound-anchor.c
-
----
-
 ### freebsd/wireless
 
 Repository: https://github.com/freebsd/wireless
@@ -1259,8 +1247,8 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py
+- https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem
 - https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 
 ---
@@ -1273,7 +1261,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-arm/blob/7f1f77117eafdbbf36a7fcb06eb88b80280b921c/release/src-rt-6.x.4708/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-arm/blob/e46c3ef7b0f3e2e3a1e9cf91b39845a92d9f8097/release/src-rt-6.x.4708/router/getdns/src/context.c
 
 ---
 
@@ -1285,7 +1273,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-mips/blob/b5a281440ee87c5aaced6e7d1c0d4c6cf759d225/release/src/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-mips/blob/98c2688b48b0971ba99a4d89eedd54aa1ac828e0/release/src/router/getdns/src/context.c
 
 ---
 
@@ -1333,8 +1321,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/src/common/dns_utils.cpp
+- https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -1838,8 +1826,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/src/common/dns_utils.cpp
 - https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/jedigras/noodledoodle_xmr_trezor/blob/a0cc0e7c6dc721b64d07f17a4f59f28655b20385/src/common/dns_utils.cpp
 
 ---
 
@@ -2019,8 +2007,8 @@ Affected files: 3
 
 Source locations:
 
-- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 - https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem
+- https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh
 - https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py
 
 ---
@@ -2261,8 +2249,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/microsoft/azurelinux/blob/fa509839f233bfeff1976577a0bd780cb5cb2e57/specs/u/unbound/icannbundle.pem
-- https://github.com/microsoft/azurelinux/blob/fa509839f233bfeff1976577a0bd780cb5cb2e57/specs/d/dns-root-data/icannbundle.pem
+- https://github.com/microsoft/azurelinux/blob/2fb9620c9f036d194cd77b66306e78b1650c8d74/specs/d/dns-root-data/icannbundle.pem
+- https://github.com/microsoft/azurelinux/blob/2fb9620c9f036d194cd77b66306e78b1650c8d74/specs/u/unbound/icannbundle.pem
 
 ---
 
@@ -2358,7 +2346,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/monero-project/monero/blob/4605a02bcfdaa037c13c2d226422464f67f504c4/src/common/dns_utils.cpp
+- https://github.com/monero-project/monero/blob/1bf1dff4be4b2a604fd761b532e1c5aff4cc0bad/src/common/dns_utils.cpp
 
 ---
 
@@ -2730,7 +2718,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/openbsd/src/blob/f3cfab9997db093267566089e51cf0adc3301976/usr.sbin/unbound/smallapp/unbound-anchor.c
+- https://github.com/openbsd/src/blob/c3f483ed536a22f09f565b066c5ad2eeed279383/usr.sbin/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2807,6 +2795,18 @@ Source locations:
 
 ---
 
+### opnsense/src
+
+Repository: https://github.com/opnsense/src
+
+Affected files: 1
+
+Source locations:
+
+- https://github.com/opnsense/src/blob/73299f6e15df60e220fa48eee931e562aad5e55b/contrib/unbound/smallapp/unbound-anchor.c
+
+---
+
 ### oreonhq/rpm-specfiles
 
 Repository: https://github.com/oreonhq/rpm-specfiles
@@ -2851,8 +2851,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/dns-root-data/icannbundle.pem
 - https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/unbound/icannbundle.pem
+- https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/dns-root-data/icannbundle.pem
 
 ---
 
@@ -2864,8 +2864,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/main/contrib/unbound/smallapp/unbound-anchor.c
 - https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/stable/14/contrib/unbound/smallapp/unbound-anchor.c
+- https://github.com/patmaddox/test-subtree/blob/a8da52322e11213c38a37bfa659c9c6b3943873f/freebsd-src.git/b/main/contrib/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2973,8 +2973,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/src/common/dns_utils.cpp
 - https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/projekgallus/galluscoin/blob/84c33ab8cf2d187d514957110060114bc66cb944/src/common/dns_utils.cpp
 
 ---
 
@@ -3239,8 +3239,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/src/common/dns_utils.cpp
+- https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -3964,8 +3964,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/src/common/dns_utils.cpp
+- https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
