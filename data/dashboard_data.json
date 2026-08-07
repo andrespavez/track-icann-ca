@@ -24,8 +24,8 @@
     "User": 200
   },
   "impact": {
-    "total": 53930,
-    "average": 161.0
+    "total": 53957,
+    "average": 161.1
   },
   "top_targets": [
     {
@@ -79,10 +79,10 @@
     {
       "repo": "salvium/salvium",
       "priority": "NORMAL",
-      "stars": 39,
+      "stars": 40,
       "forks": 21,
       "owner_type": "Organization",
-      "impact": 60
+      "impact": 61
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14242,
-      "stars": 10746,
+      "impact": 14244,
+      "stars": 10748,
       "forks": 3496,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 5996,
-      "stars": 5305,
+      "impact": 6000,
+      "stars": 5309,
       "forks": 691,
       "owner_type": "Organization"
     },
@@ -254,8 +254,8 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2393,
-      "stars": 2265,
+      "impact": 2395,
+      "stars": 2267,
       "forks": 128,
       "owner_type": "User"
     },
@@ -310,9 +310,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 223,
+      "impact": 224,
       "stars": 178,
-      "forks": 45,
+      "forks": 46,
       "owner_type": "Organization"
     },
     {
@@ -323,18 +323,18 @@
       "owner_type": "User"
     },
     {
+      "repo": "ghostbsd/ghostbsd-src",
+      "impact": 188,
+      "stars": 151,
+      "forks": 37,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "sumoprojects/sumokoin",
       "impact": 186,
       "stars": 128,
       "forks": 58,
       "owner_type": "User"
-    },
-    {
-      "repo": "ghostbsd/ghostbsd-src",
-      "impact": 186,
-      "stars": 149,
-      "forks": 37,
-      "owner_type": "Organization"
     },
     {
       "repo": "xyzmos/GeekDNS",
@@ -387,8 +387,8 @@
     },
     {
       "repo": "MidnightBSD/src",
-      "impact": 122,
-      "stars": 109,
+      "impact": 123,
+      "stars": 110,
       "forks": 13,
       "owner_type": "Organization"
     },
@@ -927,10 +927,18 @@
       "old_and_new": 4,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-05_16-13-56",
+      "total": 335,
+      "old_only": 330,
+      "old_and_new": 5,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-05T16:13:56.391136+00:00",
-    "snapshot_count": 65
+    "generated_at": "2026-08-07T15:21:07.981433+00:00",
+    "snapshot_count": 66
   }
 }
