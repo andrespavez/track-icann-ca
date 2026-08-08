@@ -20,11 +20,11 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 135,
-    "User": 200
+    "Organization": 134,
+    "User": 201
   },
   "impact": {
-    "total": 53957,
+    "total": 53971,
     "average": 161.1
   },
   "top_targets": [
@@ -192,9 +192,9 @@
       "repo": "minombreesjeff/darwin_env",
       "priority": "NORMAL",
       "stars": 15,
-      "forks": 7,
+      "forks": 6,
       "owner_type": "User",
-      "impact": 22
+      "impact": 21
     },
     {
       "repo": "scala-network/Scala",
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14244,
-      "stars": 10748,
-      "forks": 3496,
+      "impact": 14247,
+      "stars": 10752,
+      "forks": 3495,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6000,
-      "stars": 5309,
-      "forks": 691,
+      "impact": 6002,
+      "stars": 5310,
+      "forks": 692,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4799,
-      "stars": 3851,
-      "forks": 948,
+      "impact": 4801,
+      "stars": 3852,
+      "forks": 949,
       "owner_type": "Organization"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 172,
-      "stars": 148,
+      "impact": 173,
+      "stars": 149,
       "forks": 24,
       "owner_type": "User"
     },
@@ -359,8 +359,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 163,
-      "stars": 111,
+      "impact": 164,
+      "stars": 112,
       "forks": 52,
       "owner_type": "Organization"
     },
@@ -935,10 +935,18 @@
       "old_and_new": 5,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-07_15-21-08",
+      "total": 335,
+      "old_only": 330,
+      "old_and_new": 5,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-07T15:21:07.981433+00:00",
-    "snapshot_count": 66
+    "generated_at": "2026-08-08T14:42:31.469618+00:00",
+    "snapshot_count": 67
   }
 }
