@@ -24,8 +24,8 @@
     "User": 200
   },
   "impact": {
-    "total": 53989,
-    "average": 161.6
+    "total": 53993,
+    "average": 161.7
   },
   "top_targets": [
     {
@@ -95,10 +95,10 @@
     {
       "repo": "safex/safexcore",
       "priority": "NORMAL",
-      "stars": 32,
+      "stars": 31,
       "forks": 27,
       "owner_type": "Organization",
-      "impact": 59
+      "impact": 58
     },
     {
       "repo": "monerov/monerov",
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14250,
-      "stars": 10755,
+      "impact": 14255,
+      "stars": 10760,
       "forks": 3495,
       "owner_type": "Organization"
     },
@@ -248,8 +248,8 @@
     {
       "repo": "openbsd/src",
       "impact": 4801,
-      "stars": 3852,
-      "forks": 949,
+      "stars": 3851,
+      "forks": 950,
       "owner_type": "Organization"
     },
     {
@@ -366,9 +366,9 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 128,
+      "impact": 129,
       "stars": 79,
-      "forks": 49,
+      "forks": 50,
       "owner_type": "Organization"
     },
     {
@@ -951,10 +951,18 @@
       "old_and_new": 5,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-09_14-46-14",
+      "total": 334,
+      "old_only": 329,
+      "old_and_new": 5,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-09T14:46:14.672396+00:00",
-    "snapshot_count": 68
+    "generated_at": "2026-08-10T15:42:28.140942+00:00",
+    "snapshot_count": 69
   }
 }
