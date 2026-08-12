@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
-    "User": 201
+    "Organization": 134,
+    "User": 200
   },
   "impact": {
-    "total": 53962,
-    "average": 161.6
+    "total": 54022,
+    "average": 161.7
   },
   "top_targets": [
     {
@@ -59,6 +59,14 @@
       "forks": 6,
       "owner_type": "User",
       "impact": 53
+    },
+    {
+      "repo": "mr-foxxo/vibe-os",
+      "priority": "NORMAL",
+      "stars": 44,
+      "forks": 3,
+      "owner_type": "User",
+      "impact": 47
     },
     {
       "repo": "haven-protocol-org/haven-main",
@@ -219,29 +227,21 @@
       "forks": 7,
       "owner_type": "User",
       "impact": 20
-    },
-    {
-      "repo": "coolstar/freebsd-ports-ios",
-      "priority": "NORMAL",
-      "stars": 12,
-      "forks": 4,
-      "owner_type": "User",
-      "impact": 16
     }
   ],
   "high_priority": [],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14257,
-      "stars": 10761,
-      "forks": 3496,
+      "impact": 14264,
+      "stars": 10766,
+      "forks": 3498,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6006,
-      "stars": 5314,
+      "impact": 6007,
+      "stars": 5315,
       "forks": 692,
       "owner_type": "Organization"
     },
@@ -310,8 +310,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 223,
-      "stars": 178,
+      "impact": 224,
+      "stars": 179,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -967,10 +967,18 @@
       "old_and_new": 5,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-11_15-22-00",
+      "total": 334,
+      "old_only": 329,
+      "old_and_new": 5,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-11T15:21:59.994369+00:00",
-    "snapshot_count": 70
+    "generated_at": "2026-08-12T15:22:17.723117+00:00",
+    "snapshot_count": 71
   }
 }
