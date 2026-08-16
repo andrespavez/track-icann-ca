@@ -24,17 +24,17 @@
     "User": 201
   },
   "impact": {
-    "total": 54095,
+    "total": 54104,
     "average": 161.5
   },
   "top_targets": [
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 234,
+      "stars": 235,
       "forks": 82,
       "owner_type": "Organization",
-      "impact": 316
+      "impact": 317
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14276,
-      "stars": 10777,
-      "forks": 3499,
+      "impact": 14277,
+      "stars": 10779,
+      "forks": 3498,
       "owner_type": "Organization"
     },
     {
@@ -254,8 +254,8 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2403,
-      "stars": 2273,
+      "impact": 2404,
+      "stars": 2274,
       "forks": 130,
       "owner_type": "User"
     },
@@ -289,8 +289,8 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 316,
-      "stars": 234,
+      "impact": 317,
+      "stars": 235,
       "forks": 82,
       "owner_type": "Organization"
     },
@@ -999,10 +999,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-15_14-35-46",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-15T14:35:46.793073+00:00",
-    "snapshot_count": 74
+    "generated_at": "2026-08-16T14:42:25.797685+00:00",
+    "snapshot_count": 75
   }
 }
