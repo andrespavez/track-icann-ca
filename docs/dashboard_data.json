@@ -1,10 +1,10 @@
 {
   "summary": {
     "total": 335,
-    "old_only": 328,
+    "old_only": 327,
     "old_and_new": 7,
     "new_only": 0,
-    "unknown": 0
+    "unknown": 1
   },
   "campaign": {
     "progress": 2.1,
@@ -24,8 +24,8 @@
     "User": 201
   },
   "impact": {
-    "total": 54104,
-    "average": 161.5
+    "total": 54123,
+    "average": 161.6
   },
   "top_targets": [
     {
@@ -233,37 +233,37 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14277,
-      "stars": 10779,
+      "impact": 14278,
+      "stars": 10780,
       "forks": 3498,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6009,
-      "stars": 5316,
+      "impact": 6012,
+      "stars": 5319,
       "forks": 693,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4809,
-      "stars": 3860,
-      "forks": 949,
+      "impact": 4810,
+      "stars": 3859,
+      "forks": 951,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2404,
-      "stars": 2274,
+      "impact": 2406,
+      "stars": 2276,
       "forks": 130,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 696,
+      "impact": 695,
       "stars": 495,
-      "forks": 201,
+      "forks": 200,
       "owner_type": "Organization"
     },
     {
@@ -282,9 +282,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 500,
+      "impact": 499,
       "stars": 167,
-      "forks": 333,
+      "forks": 332,
       "owner_type": "Organization"
     },
     {
@@ -1007,10 +1007,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-16_14-42-25",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-16T14:42:25.797685+00:00",
-    "snapshot_count": 75
+    "generated_at": "2026-08-18T14:45:54.207054+00:00",
+    "snapshot_count": 76
   }
 }
