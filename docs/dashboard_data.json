@@ -24,8 +24,8 @@
     "User": 201
   },
   "impact": {
-    "total": 54184,
-    "average": 161.7
+    "total": 54203,
+    "average": 161.8
   },
   "top_targets": [
     {
@@ -47,10 +47,10 @@
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
       "priority": "NORMAL",
-      "stars": 134,
+      "stars": 135,
       "forks": 32,
       "owner_type": "Organization",
-      "impact": 166
+      "impact": 167
     },
     {
       "repo": "bmwiedemann/openSUSE",
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14288,
-      "stars": 10787,
+      "impact": 14290,
+      "stars": 10789,
       "forks": 3501,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6020,
-      "stars": 5325,
+      "impact": 6021,
+      "stars": 5326,
       "forks": 695,
       "owner_type": "Organization"
     },
@@ -254,8 +254,8 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2410,
-      "stars": 2281,
+      "impact": 2414,
+      "stars": 2285,
       "forks": 129,
       "owner_type": "User"
     },
@@ -352,8 +352,8 @@
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
-      "impact": 166,
-      "stars": 134,
+      "impact": 167,
+      "stars": 135,
       "forks": 32,
       "owner_type": "Organization"
     },
@@ -387,8 +387,8 @@
     },
     {
       "repo": "MidnightBSD/src",
-      "impact": 123,
-      "stars": 110,
+      "impact": 124,
+      "stars": 111,
       "forks": 13,
       "owner_type": "Organization"
     },
@@ -1047,10 +1047,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-22_14-32-47",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-22T14:32:47.450049+00:00",
-    "snapshot_count": 80
+    "generated_at": "2026-08-23T14:34:18.969920+00:00",
+    "snapshot_count": 81
   }
 }
