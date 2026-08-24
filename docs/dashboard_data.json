@@ -24,7 +24,7 @@
     "User": 201
   },
   "impact": {
-    "total": 54203,
+    "total": 54206,
     "average": 161.8
   },
   "top_targets": [
@@ -32,9 +32,9 @@
       "repo": "truenas/os",
       "priority": "NORMAL",
       "stars": 235,
-      "forks": 82,
+      "forks": 81,
       "owner_type": "Organization",
-      "impact": 317
+      "impact": 316
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14290,
-      "stars": 10789,
-      "forks": 3501,
+      "impact": 14291,
+      "stars": 10791,
+      "forks": 3500,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6021,
-      "stars": 5326,
+      "impact": 6022,
+      "stars": 5327,
       "forks": 695,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4816,
-      "stars": 3865,
+      "impact": 4815,
+      "stars": 3864,
       "forks": 951,
       "owner_type": "Organization"
     },
@@ -289,9 +289,9 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 317,
+      "impact": 316,
       "stars": 235,
-      "forks": 82,
+      "forks": 81,
       "owner_type": "Organization"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 226,
-      "stars": 181,
+      "impact": 227,
+      "stars": 182,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -1055,10 +1055,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-23_14-34-19",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-23T14:34:18.969920+00:00",
-    "snapshot_count": 81
+    "generated_at": "2026-08-24T14:55:03.353555+00:00",
+    "snapshot_count": 82
   }
 }
