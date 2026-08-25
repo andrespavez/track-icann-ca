@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 335,
-    "old_only": 328,
+    "total": 328,
+    "old_only": 321,
     "old_and_new": 7,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 134,
-    "User": 201
+    "Organization": 131,
+    "User": 197
   },
   "impact": {
-    "total": 54206,
-    "average": 161.8
+    "total": 54084,
+    "average": 164.9
   },
   "top_targets": [
     {
@@ -63,10 +63,10 @@
     {
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
-      "stars": 44,
+      "stars": 45,
       "forks": 3,
       "owner_type": "User",
-      "impact": 47
+      "impact": 48
     },
     {
       "repo": "haven-protocol-org/haven-main",
@@ -131,14 +131,6 @@
       "forks": 19,
       "owner_type": "Organization",
       "impact": 44
-    },
-    {
-      "repo": "BitChute/chutoken",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 5,
-      "owner_type": "Organization",
-      "impact": 24
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -227,42 +219,50 @@
       "forks": 7,
       "owner_type": "User",
       "impact": 20
+    },
+    {
+      "repo": "coolstar/freebsd-ports-ios",
+      "priority": "NORMAL",
+      "stars": 12,
+      "forks": 4,
+      "owner_type": "User",
+      "impact": 16
     }
   ],
   "high_priority": [],
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14291,
-      "stars": 10791,
-      "forks": 3500,
+      "impact": 14299,
+      "stars": 10797,
+      "forks": 3502,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6022,
-      "stars": 5327,
+      "impact": 6024,
+      "stars": 5329,
       "forks": 695,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4815,
+      "impact": 4813,
       "stars": 3864,
-      "forks": 951,
+      "forks": 949,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2414,
-      "stars": 2285,
-      "forks": 129,
+      "impact": 2416,
+      "stars": 2288,
+      "forks": 128,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 697,
-      "stars": 496,
+      "impact": 698,
+      "stars": 497,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -275,9 +275,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 580,
+      "impact": 581,
       "stars": 386,
-      "forks": 194,
+      "forks": 195,
       "owner_type": "Organization"
     },
     {
@@ -310,9 +310,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 227,
+      "impact": 226,
       "stars": 182,
-      "forks": 45,
+      "forks": 44,
       "owner_type": "Organization"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 173,
-      "stars": 149,
+      "impact": 174,
+      "stars": 150,
       "forks": 24,
       "owner_type": "User"
     },
@@ -1063,10 +1063,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-24_14-55-03",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-24T14:55:03.353555+00:00",
-    "snapshot_count": 82
+    "generated_at": "2026-08-25T14:58:54.634479+00:00",
+    "snapshot_count": 83
   }
 }
