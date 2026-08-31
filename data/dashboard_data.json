@@ -24,17 +24,17 @@
     "User": 201
   },
   "impact": {
-    "total": 54264,
-    "average": 162.0
+    "total": 54316,
+    "average": 162.1
   },
   "top_targets": [
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 235,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization",
-      "impact": 316
+      "impact": 315
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -63,8 +63,8 @@
     {
       "repo": "mr-foxxo/vibe-os",
       "priority": "NORMAL",
-      "stars": 45,
-      "forks": 3,
+      "stars": 46,
+      "forks": 2,
       "owner_type": "User",
       "impact": 48
     },
@@ -80,9 +80,9 @@
       "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 40,
-      "forks": 21,
+      "forks": 20,
       "owner_type": "Organization",
-      "impact": 61
+      "impact": 60
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -233,36 +233,36 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14306,
-      "stars": 10804,
-      "forks": 3502,
+      "impact": 14319,
+      "stars": 10813,
+      "forks": 3506,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6027,
-      "stars": 5331,
-      "forks": 696,
+      "impact": 6032,
+      "stars": 5335,
+      "forks": 697,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4814,
-      "stars": 3864,
+      "impact": 4816,
+      "stars": 3866,
       "forks": 950,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2419,
-      "stars": 2290,
-      "forks": 129,
+      "impact": 2428,
+      "stars": 2298,
+      "forks": 130,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 699,
-      "stars": 498,
+      "impact": 700,
+      "stars": 499,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -275,9 +275,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 581,
+      "impact": 582,
       "stars": 386,
-      "forks": 195,
+      "forks": 196,
       "owner_type": "Organization"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 316,
-      "stars": 235,
+      "impact": 315,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization"
     },
@@ -324,8 +324,8 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 188,
-      "stars": 151,
+      "impact": 189,
+      "stars": 152,
       "forks": 37,
       "owner_type": "Organization"
     },
@@ -345,8 +345,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 174,
-      "stars": 150,
+      "impact": 176,
+      "stars": 152,
       "forks": 24,
       "owner_type": "User"
     },
@@ -359,8 +359,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 164,
-      "stars": 113,
+      "impact": 165,
+      "stars": 114,
       "forks": 51,
       "owner_type": "Organization"
     },
@@ -1087,10 +1087,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-08-27_23-49-07",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-08-27T23:49:07.706846+00:00",
-    "snapshot_count": 85
+    "generated_at": "2026-08-31T20:00:30.546272+00:00",
+    "snapshot_count": 86
   }
 }
