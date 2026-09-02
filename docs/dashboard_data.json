@@ -24,8 +24,8 @@
     "User": 201
   },
   "impact": {
-    "total": 54335,
-    "average": 162.2
+    "total": 54354,
+    "average": 162.3
   },
   "top_targets": [
     {
@@ -71,10 +71,10 @@
     {
       "repo": "haven-protocol-org/haven-main",
       "priority": "NORMAL",
-      "stars": 43,
+      "stars": 42,
       "forks": 22,
       "owner_type": "Organization",
-      "impact": 65
+      "impact": 64
     },
     {
       "repo": "salvium/salvium",
@@ -233,36 +233,36 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14324,
-      "stars": 10817,
+      "impact": 14328,
+      "stars": 10821,
       "forks": 3507,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6034,
-      "stars": 5336,
-      "forks": 698,
+      "impact": 6037,
+      "stars": 5338,
+      "forks": 699,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4817,
-      "stars": 3867,
+      "impact": 4818,
+      "stars": 3868,
       "forks": 950,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2429,
-      "stars": 2299,
+      "impact": 2434,
+      "stars": 2304,
       "forks": 130,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 702,
-      "stars": 501,
+      "impact": 703,
+      "stars": 502,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -1103,10 +1103,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-01_17-50-32",
+      "total": 335,
+      "old_only": 328,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-01T17:50:32.641488+00:00",
-    "snapshot_count": 87
+    "generated_at": "2026-09-02T17:52:31.776154+00:00",
+    "snapshot_count": 88
   }
 }
