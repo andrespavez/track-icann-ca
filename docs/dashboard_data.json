@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 334,
-    "old_only": 327,
+    "total": 333,
+    "old_only": 326,
     "old_and_new": 7,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 135,
+    "Organization": 134,
     "User": 199
   },
   "impact": {
-    "total": 54387,
-    "average": 162.8
+    "total": 54413,
+    "average": 163.4
   },
   "top_targets": [
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 234,
+      "stars": 235,
       "forks": 81,
       "owner_type": "Organization",
-      "impact": 315
+      "impact": 316
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -96,9 +96,9 @@
       "repo": "safex/safexcore",
       "priority": "NORMAL",
       "stars": 31,
-      "forks": 27,
+      "forks": 26,
       "owner_type": "Organization",
-      "impact": 58
+      "impact": 57
     },
     {
       "repo": "monerov/monerov",
@@ -233,36 +233,36 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14327,
-      "stars": 10819,
-      "forks": 3508,
+      "impact": 14335,
+      "stars": 10825,
+      "forks": 3510,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6038,
+      "impact": 6037,
       "stars": 5339,
-      "forks": 699,
+      "forks": 698,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4819,
-      "stars": 3869,
+      "impact": 4820,
+      "stars": 3870,
       "forks": 950,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2435,
-      "stars": 2305,
-      "forks": 130,
+      "impact": 2439,
+      "stars": 2308,
+      "forks": 131,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 703,
-      "stars": 502,
+      "impact": 704,
+      "stars": 503,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -289,8 +289,8 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 315,
-      "stars": 234,
+      "impact": 316,
+      "stars": 235,
       "forks": 81,
       "owner_type": "Organization"
     },
@@ -310,8 +310,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 228,
-      "stars": 183,
+      "impact": 229,
+      "stars": 184,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -1119,10 +1119,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-03_18-00-16",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-03T18:00:16.595118+00:00",
-    "snapshot_count": 89
+    "generated_at": "2026-09-04T18:26:18.996166+00:00",
+    "snapshot_count": 90
   }
 }
