@@ -24,7 +24,7 @@
     "User": 199
   },
   "impact": {
-    "total": 54494,
+    "total": 54510,
     "average": 163.2
   },
   "top_targets": [
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14340,
-      "stars": 10829,
+      "impact": 14348,
+      "stars": 10837,
       "forks": 3511,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6038,
-      "stars": 5339,
-      "forks": 699,
+      "impact": 6041,
+      "stars": 5341,
+      "forks": 700,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4823,
+      "impact": 4824,
       "stars": 3872,
-      "forks": 951,
+      "forks": 952,
       "owner_type": "Organization"
     },
     {
@@ -268,9 +268,9 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 618,
+      "impact": 619,
       "stars": 485,
-      "forks": 133,
+      "forks": 134,
       "owner_type": "Organization"
     },
     {
@@ -324,8 +324,8 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 189,
-      "stars": 152,
+      "impact": 190,
+      "stars": 153,
       "forks": 37,
       "owner_type": "Organization"
     },
@@ -1135,10 +1135,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-05_16-46-43",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-05T16:46:43.122737+00:00",
-    "snapshot_count": 91
+    "generated_at": "2026-09-06T17:19:20.979185+00:00",
+    "snapshot_count": 92
   }
 }
