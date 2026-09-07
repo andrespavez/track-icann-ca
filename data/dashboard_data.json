@@ -24,8 +24,8 @@
     "User": 199
   },
   "impact": {
-    "total": 54510,
-    "average": 163.2
+    "total": 54530,
+    "average": 163.3
   },
   "top_targets": [
     {
@@ -173,6 +173,14 @@
       "impact": 29
     },
     {
+      "repo": "scala-network/Scala",
+      "priority": "NORMAL",
+      "stars": 15,
+      "forks": 7,
+      "owner_type": "Organization",
+      "impact": 22
+    },
+    {
       "repo": "pcbsd/NextBSD",
       "priority": "NORMAL",
       "stars": 15,
@@ -194,14 +202,6 @@
       "stars": 15,
       "forks": 6,
       "owner_type": "User",
-      "impact": 21
-    },
-    {
-      "repo": "scala-network/Scala",
-      "priority": "NORMAL",
-      "stars": 14,
-      "forks": 7,
-      "owner_type": "Organization",
       "impact": 21
     },
     {
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14348,
-      "stars": 10837,
-      "forks": 3511,
+      "impact": 14353,
+      "stars": 10840,
+      "forks": 3513,
       "owner_type": "Organization"
     },
     {
@@ -247,15 +247,15 @@
     },
     {
       "repo": "openbsd/src",
-      "impact": 4824,
-      "stars": 3872,
-      "forks": 952,
+      "impact": 4828,
+      "stars": 3875,
+      "forks": 953,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2441,
-      "stars": 2309,
+      "impact": 2443,
+      "stars": 2311,
       "forks": 132,
       "owner_type": "User"
     },
@@ -400,11 +400,11 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "lattera/freebsd",
+      "repo": "scala-network/scala-v7",
       "impact": 108,
-      "stars": 69,
-      "forks": 39,
-      "owner_type": "User"
+      "stars": 81,
+      "forks": 27,
+      "owner_type": "Organization"
     }
   ],
   "trend": [
@@ -1143,10 +1143,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-06_17-19-21",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-06T17:19:20.979185+00:00",
-    "snapshot_count": 92
+    "generated_at": "2026-09-07T18:47:09.145972+00:00",
+    "snapshot_count": 93
   }
 }
