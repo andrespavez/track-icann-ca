@@ -24,17 +24,17 @@
     "User": 199
   },
   "impact": {
-    "total": 54530,
+    "total": 54534,
     "average": 163.3
   },
   "top_targets": [
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
-      "stars": 235,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization",
-      "impact": 316
+      "impact": 315
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -47,10 +47,10 @@
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
       "priority": "NORMAL",
-      "stars": 135,
+      "stars": 136,
       "forks": 32,
       "owner_type": "Organization",
-      "impact": 167
+      "impact": 168
     },
     {
       "repo": "bmwiedemann/openSUSE",
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14353,
-      "stars": 10840,
-      "forks": 3513,
+      "impact": 14355,
+      "stars": 10841,
+      "forks": 3514,
       "owner_type": "Organization"
     },
     {
@@ -261,8 +261,8 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 704,
-      "stars": 503,
+      "impact": 705,
+      "stars": 504,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -282,15 +282,15 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 501,
-      "stars": 168,
+      "impact": 502,
+      "stars": 169,
       "forks": 333,
       "owner_type": "Organization"
     },
     {
       "repo": "truenas/os",
-      "impact": 316,
-      "stars": 235,
+      "impact": 315,
+      "stars": 234,
       "forks": 81,
       "owner_type": "Organization"
     },
@@ -303,15 +303,15 @@
     },
     {
       "repo": "bitrig/bitrig",
-      "impact": 298,
-      "stars": 256,
+      "impact": 297,
+      "stars": 255,
       "forks": 42,
       "owner_type": "Organization"
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 229,
-      "stars": 184,
+      "impact": 230,
+      "stars": 185,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -324,9 +324,9 @@
     },
     {
       "repo": "ghostbsd/ghostbsd-src",
-      "impact": 190,
-      "stars": 153,
-      "forks": 37,
+      "impact": 192,
+      "stars": 154,
+      "forks": 38,
       "owner_type": "Organization"
     },
     {
@@ -352,8 +352,8 @@
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
-      "impact": 167,
-      "stars": 135,
+      "impact": 168,
+      "stars": 136,
       "forks": 32,
       "owner_type": "Organization"
     },
@@ -379,24 +379,24 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "masari-project/masari-webwallet",
-      "impact": 124,
-      "stars": 16,
-      "forks": 108,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "MidnightBSD/src",
-      "impact": 124,
-      "stars": 111,
+      "impact": 125,
+      "stars": 112,
       "forks": 13,
       "owner_type": "Organization"
     },
     {
+      "repo": "masari-project/masari-webwallet",
+      "impact": 123,
+      "stars": 16,
+      "forks": 107,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "graft-project/GraftNetwork",
-      "impact": 120,
+      "impact": 119,
       "stars": 81,
-      "forks": 39,
+      "forks": 38,
       "owner_type": "Organization"
     },
     {
@@ -1151,10 +1151,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-07_18-47-09",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-07T18:47:09.145972+00:00",
-    "snapshot_count": 93
+    "generated_at": "2026-09-08T18:45:31.916925+00:00",
+    "snapshot_count": 94
   }
 }
