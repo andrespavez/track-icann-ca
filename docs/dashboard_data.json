@@ -24,7 +24,7 @@
     "User": 199
   },
   "impact": {
-    "total": 54534,
+    "total": 54555,
     "average": 163.3
   },
   "top_targets": [
@@ -133,6 +133,14 @@
       "impact": 44
     },
     {
+      "repo": "hselasky/usb4",
+      "priority": "NORMAL",
+      "stars": 20,
+      "forks": 5,
+      "owner_type": "User",
+      "impact": 25
+    },
+    {
       "repo": "BitChute/chutoken",
       "priority": "NORMAL",
       "stars": 19,
@@ -147,14 +155,6 @@
       "forks": 10,
       "owner_type": "User",
       "impact": 29
-    },
-    {
-      "repo": "hselasky/usb4",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 5,
-      "owner_type": "User",
-      "impact": 24
     },
     {
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14355,
-      "stars": 10841,
-      "forks": 3514,
+      "impact": 14358,
+      "stars": 10842,
+      "forks": 3516,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6041,
-      "stars": 5341,
+      "impact": 6040,
+      "stars": 5340,
       "forks": 700,
       "owner_type": "Organization"
     },
@@ -254,15 +254,15 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2443,
-      "stars": 2311,
-      "forks": 132,
+      "impact": 2445,
+      "stars": 2312,
+      "forks": 133,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 705,
-      "stars": 504,
+      "impact": 706,
+      "stars": 505,
       "forks": 201,
       "owner_type": "Organization"
     },
@@ -359,8 +359,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 165,
-      "stars": 114,
+      "impact": 164,
+      "stars": 113,
       "forks": 51,
       "owner_type": "Organization"
     },
@@ -1159,10 +1159,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-08_18-45-31",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-08T18:45:31.916925+00:00",
-    "snapshot_count": 94
+    "generated_at": "2026-09-09T17:50:46.874169+00:00",
+    "snapshot_count": 95
   }
 }
