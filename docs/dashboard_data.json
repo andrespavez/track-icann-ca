@@ -24,8 +24,8 @@
     "User": 199
   },
   "impact": {
-    "total": 54555,
-    "average": 163.3
+    "total": 54571,
+    "average": 163.4
   },
   "top_targets": [
     {
@@ -160,9 +160,9 @@
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
       "priority": "NORMAL",
       "stars": 18,
-      "forks": 9,
+      "forks": 8,
       "owner_type": "Organization",
-      "impact": 27
+      "impact": 26
     },
     {
       "repo": "ExcitableAardvark/node-cryptonight",
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14358,
-      "stars": 10842,
+      "impact": 14359,
+      "stars": 10843,
       "forks": 3516,
       "owner_type": "Organization"
     },
@@ -247,16 +247,16 @@
     },
     {
       "repo": "openbsd/src",
-      "impact": 4828,
-      "stars": 3875,
+      "impact": 4830,
+      "stars": 3877,
       "forks": 953,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2445,
-      "stars": 2312,
-      "forks": 133,
+      "impact": 2447,
+      "stars": 2313,
+      "forks": 134,
       "owner_type": "User"
     },
     {
@@ -1167,10 +1167,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-09_17-50-46",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-09T17:50:46.874169+00:00",
-    "snapshot_count": 95
+    "generated_at": "2026-09-10T17:56:03.473391+00:00",
+    "snapshot_count": 96
   }
 }
