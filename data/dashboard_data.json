@@ -24,7 +24,7 @@
     "User": 199
   },
   "impact": {
-    "total": 54571,
+    "total": 54591,
     "average": 163.4
   },
   "top_targets": [
@@ -233,29 +233,29 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14359,
-      "stars": 10843,
-      "forks": 3516,
+      "impact": 14363,
+      "stars": 10844,
+      "forks": 3519,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6040,
+      "impact": 6042,
       "stars": 5340,
-      "forks": 700,
+      "forks": 702,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4830,
-      "stars": 3877,
-      "forks": 953,
+      "impact": 4828,
+      "stars": 3876,
+      "forks": 952,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2447,
-      "stars": 2313,
+      "impact": 2448,
+      "stars": 2314,
       "forks": 134,
       "owner_type": "User"
     },
@@ -317,8 +317,8 @@
     },
     {
       "repo": "steventroughtonsmith/MobileTerminal",
-      "impact": 222,
-      "stars": 198,
+      "impact": 223,
+      "stars": 199,
       "forks": 24,
       "owner_type": "User"
     },
@@ -1175,10 +1175,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-10_17-56-03",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-10T17:56:03.473391+00:00",
-    "snapshot_count": 96
+    "generated_at": "2026-09-11T17:46:45.100827+00:00",
+    "snapshot_count": 97
   }
 }
