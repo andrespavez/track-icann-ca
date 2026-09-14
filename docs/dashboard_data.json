@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 334,
+    "total": 335,
     "old_only": 327,
-    "old_and_new": 7,
+    "old_and_new": 8,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 2.1,
+    "progress": 2.4,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 199
+    "User": 200
   },
   "impact": {
-    "total": 54628,
-    "average": 163.6
+    "total": 54633,
+    "average": 163.1
   },
   "top_targets": [
     {
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14370,
-      "stars": 10848,
+      "impact": 14371,
+      "stars": 10849,
       "forks": 3522,
       "owner_type": "Organization"
     },
@@ -275,8 +275,8 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 582,
-      "stars": 386,
+      "impact": 581,
+      "stars": 385,
       "forks": 196,
       "owner_type": "Organization"
     },
@@ -310,8 +310,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 229,
-      "stars": 184,
+      "impact": 230,
+      "stars": 185,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -1199,10 +1199,18 @@
       "old_and_new": 7,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-13_17-28-45",
+      "total": 334,
+      "old_only": 327,
+      "old_and_new": 7,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-13T17:28:45.484622+00:00",
-    "snapshot_count": 99
+    "generated_at": "2026-09-14T19:14:19.385591+00:00",
+    "snapshot_count": 100
   }
 }
