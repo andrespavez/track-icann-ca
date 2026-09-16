@@ -24,8 +24,8 @@
     "User": 200
   },
   "impact": {
-    "total": 54646,
-    "average": 163.1
+    "total": 54667,
+    "average": 163.2
   },
   "top_targets": [
     {
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 219,
-      "forks": 81,
+      "stars": 220,
+      "forks": 82,
       "owner_type": "Organization",
-      "impact": 300
+      "impact": 302
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -240,22 +240,22 @@
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6048,
-      "stars": 5343,
-      "forks": 705,
+      "impact": 6050,
+      "stars": 5344,
+      "forks": 706,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4827,
+      "impact": 4828,
       "stars": 3874,
-      "forks": 953,
+      "forks": 954,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2454,
-      "stars": 2318,
+      "impact": 2455,
+      "stars": 2319,
       "forks": 136,
       "owner_type": "User"
     },
@@ -296,9 +296,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 300,
-      "stars": 219,
-      "forks": 81,
+      "impact": 302,
+      "stars": 220,
+      "forks": 82,
       "owner_type": "Organization"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 231,
-      "stars": 186,
+      "impact": 232,
+      "stars": 187,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -366,9 +366,9 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 129,
+      "impact": 128,
       "stars": 79,
-      "forks": 50,
+      "forks": 49,
       "owner_type": "Organization"
     },
     {
@@ -1215,10 +1215,18 @@
       "old_and_new": 8,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-15_18-16-22",
+      "total": 335,
+      "old_only": 327,
+      "old_and_new": 8,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-15T18:16:22.409167+00:00",
-    "snapshot_count": 101
+    "generated_at": "2026-09-16T18:10:47.360168+00:00",
+    "snapshot_count": 102
   }
 }
