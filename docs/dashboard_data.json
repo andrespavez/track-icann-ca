@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 335,
-    "old_only": 327,
+    "total": 334,
+    "old_only": 326,
     "old_and_new": 8,
     "new_only": 0,
     "unknown": 0
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 134,
-    "User": 201
+    "User": 200
   },
   "impact": {
-    "total": 54713,
-    "average": 163.3
+    "total": 54740,
+    "average": 163.9
   },
   "top_targets": [
     {
@@ -40,9 +40,9 @@
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
       "stars": 220,
-      "forks": 82,
+      "forks": 83,
       "owner_type": "Organization",
-      "impact": 302
+      "impact": 303
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,37 +233,37 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14380,
-      "stars": 10858,
-      "forks": 3522,
+      "impact": 14385,
+      "stars": 10862,
+      "forks": 3523,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6051,
-      "stars": 5344,
+      "impact": 6050,
+      "stars": 5343,
       "forks": 707,
       "owner_type": "Organization"
     },
     {
       "repo": "openbsd/src",
-      "impact": 4830,
+      "impact": 4832,
       "stars": 3877,
-      "forks": 953,
+      "forks": 955,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2461,
-      "stars": 2324,
+      "impact": 2464,
+      "stars": 2327,
       "forks": 137,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 707,
+      "impact": 708,
       "stars": 505,
-      "forks": 202,
+      "forks": 203,
       "owner_type": "Organization"
     },
     {
@@ -282,9 +282,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 502,
+      "impact": 503,
       "stars": 169,
-      "forks": 333,
+      "forks": 334,
       "owner_type": "Organization"
     },
     {
@@ -296,9 +296,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 302,
+      "impact": 303,
       "stars": 220,
-      "forks": 82,
+      "forks": 83,
       "owner_type": "Organization"
     },
     {
@@ -366,8 +366,8 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 128,
-      "stars": 79,
+      "impact": 129,
+      "stars": 80,
       "forks": 49,
       "owner_type": "Organization"
     },
@@ -380,9 +380,9 @@
     },
     {
       "repo": "MidnightBSD/src",
-      "impact": 125,
+      "impact": 126,
       "stars": 112,
-      "forks": 13,
+      "forks": 14,
       "owner_type": "Organization"
     },
     {
@@ -1247,10 +1247,18 @@
       "old_and_new": 8,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-19_17-12-19",
+      "total": 335,
+      "old_only": 327,
+      "old_and_new": 8,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-19T17:12:18.998703+00:00",
-    "snapshot_count": 105
+    "generated_at": "2026-09-20T17:29:10.904159+00:00",
+    "snapshot_count": 106
   }
 }
