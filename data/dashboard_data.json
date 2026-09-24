@@ -24,7 +24,7 @@
     "User": 201
   },
   "impact": {
-    "total": 54791,
+    "total": 54805,
     "average": 163.1
   },
   "top_targets": [
@@ -133,20 +133,20 @@
       "impact": 44
     },
     {
+      "repo": "BitChute/chutoken",
+      "priority": "NORMAL",
+      "stars": 20,
+      "forks": 5,
+      "owner_type": "Organization",
+      "impact": 25
+    },
+    {
       "repo": "hselasky/usb4",
       "priority": "NORMAL",
       "stars": 20,
       "forks": 5,
       "owner_type": "User",
       "impact": 25
-    },
-    {
-      "repo": "BitChute/chutoken",
-      "priority": "NORMAL",
-      "stars": 19,
-      "forks": 5,
-      "owner_type": "Organization",
-      "impact": 24
     },
     {
       "repo": "blackfuel/asuswrt-gt-ac5300",
@@ -233,16 +233,16 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14394,
-      "stars": 10868,
+      "impact": 14397,
+      "stars": 10871,
       "forks": 3526,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6051,
-      "stars": 5344,
-      "forks": 707,
+      "impact": 6048,
+      "stars": 5342,
+      "forks": 706,
       "owner_type": "Organization"
     },
     {
@@ -1279,10 +1279,18 @@
       "old_and_new": 9,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-23_18-58-22",
+      "total": 336,
+      "old_only": 326,
+      "old_and_new": 10,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-23T18:58:22.862081+00:00",
-    "snapshot_count": 109
+    "generated_at": "2026-09-24T19:59:09.778520+00:00",
+    "snapshot_count": 110
   }
 }
