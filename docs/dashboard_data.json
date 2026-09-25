@@ -24,7 +24,7 @@
     "User": 201
   },
   "impact": {
-    "total": 54805,
+    "total": 54816,
     "average": 163.1
   },
   "top_targets": [
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 221,
+      "stars": 222,
       "forks": 83,
       "owner_type": "Organization",
-      "impact": 304
+      "impact": 305
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -160,9 +160,9 @@
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
       "priority": "NORMAL",
       "stars": 18,
-      "forks": 8,
+      "forks": 9,
       "owner_type": "Organization",
-      "impact": 26
+      "impact": 27
     },
     {
       "repo": "ExcitableAardvark/node-cryptonight",
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14397,
-      "stars": 10871,
-      "forks": 3526,
+      "impact": 14401,
+      "stars": 10873,
+      "forks": 3528,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6048,
+      "impact": 6049,
       "stars": 5342,
-      "forks": 706,
+      "forks": 707,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2469,
+      "impact": 2470,
       "stars": 2332,
-      "forks": 137,
+      "forks": 138,
       "owner_type": "User"
     },
     {
@@ -289,8 +289,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 304,
-      "stars": 221,
+      "impact": 305,
+      "stars": 222,
       "forks": 83,
       "owner_type": "Organization"
     },
@@ -352,9 +352,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 164,
+      "impact": 163,
       "stars": 113,
-      "forks": 51,
+      "forks": 50,
       "owner_type": "Organization"
     },
     {
@@ -1287,10 +1287,18 @@
       "old_and_new": 10,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-24_19-59-09",
+      "total": 336,
+      "old_only": 326,
+      "old_and_new": 10,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-24T19:59:09.778520+00:00",
-    "snapshot_count": 110
+    "generated_at": "2026-09-25T18:55:58.523804+00:00",
+    "snapshot_count": 111
   }
 }
