@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 336,
+    "total": 337,
     "old_only": 326,
-    "old_and_new": 10,
+    "old_and_new": 11,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 3.0,
+    "progress": 3.3,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 201
+    "User": 202
   },
   "impact": {
-    "total": 54845,
-    "average": 163.2
+    "total": 54876,
+    "average": 162.8
   },
   "top_targets": [
     {
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14410,
-      "stars": 10880,
-      "forks": 3530,
+      "impact": 14415,
+      "stars": 10884,
+      "forks": 3531,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6051,
-      "stars": 5344,
+      "impact": 6050,
+      "stars": 5343,
       "forks": 707,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2471,
-      "stars": 2334,
+      "impact": 2472,
+      "stars": 2335,
       "forks": 137,
       "owner_type": "User"
     },
@@ -1311,10 +1311,18 @@
       "old_and_new": 10,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-27_18-34-06",
+      "total": 336,
+      "old_only": 326,
+      "old_and_new": 10,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-27T18:34:06.103270+00:00",
-    "snapshot_count": 113
+    "generated_at": "2026-09-28T20:55:37.241452+00:00",
+    "snapshot_count": 114
   }
 }
