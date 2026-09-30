@@ -24,8 +24,8 @@
     "User": 202
   },
   "impact": {
-    "total": 54894,
-    "average": 162.9
+    "total": 54918,
+    "average": 163.0
   },
   "top_targets": [
     {
@@ -47,10 +47,10 @@
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
       "priority": "NORMAL",
-      "stars": 136,
+      "stars": 137,
       "forks": 32,
       "owner_type": "Organization",
-      "impact": 168
+      "impact": 169
     },
     {
       "repo": "bmwiedemann/openSUSE",
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14421,
-      "stars": 10890,
+      "impact": 14424,
+      "stars": 10893,
       "forks": 3531,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6050,
-      "stars": 5343,
+      "impact": 6051,
+      "stars": 5344,
       "forks": 707,
       "owner_type": "Organization"
     },
@@ -254,8 +254,8 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 711,
-      "stars": 508,
+      "impact": 712,
+      "stars": 509,
       "forks": 203,
       "owner_type": "Organization"
     },
@@ -275,8 +275,8 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 504,
-      "stars": 170,
+      "impact": 505,
+      "stars": 171,
       "forks": 334,
       "owner_type": "Organization"
     },
@@ -345,8 +345,8 @@
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
-      "impact": 168,
-      "stars": 136,
+      "impact": 169,
+      "stars": 137,
       "forks": 32,
       "owner_type": "Organization"
     },
@@ -1327,10 +1327,18 @@
       "old_and_new": 11,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-29_19-21-57",
+      "total": 337,
+      "old_only": 326,
+      "old_and_new": 11,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-29T19:21:57.860464+00:00",
-    "snapshot_count": 115
+    "generated_at": "2026-09-30T19:30:12.124803+00:00",
+    "snapshot_count": 116
   }
 }
