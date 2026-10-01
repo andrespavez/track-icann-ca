@@ -1,13 +1,13 @@
 {
   "summary": {
     "total": 337,
-    "old_only": 326,
-    "old_and_new": 11,
+    "old_only": 325,
+    "old_and_new": 12,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 3.3,
+    "progress": 3.6,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -24,7 +24,7 @@
     "User": 202
   },
   "impact": {
-    "total": 54918,
+    "total": 54926,
     "average": 163.0
   },
   "top_targets": [
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14424,
-      "stars": 10893,
+      "impact": 14427,
+      "stars": 10896,
       "forks": 3531,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6051,
-      "stars": 5344,
+      "impact": 6052,
+      "stars": 5345,
       "forks": 707,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2473,
-      "stars": 2336,
+      "impact": 2474,
+      "stars": 2337,
       "forks": 137,
       "owner_type": "User"
     },
@@ -268,9 +268,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 581,
+      "impact": 580,
       "stars": 385,
-      "forks": 196,
+      "forks": 195,
       "owner_type": "Organization"
     },
     {
@@ -314,13 +314,6 @@
       "stars": 199,
       "forks": 24,
       "owner_type": "User"
-    },
-    {
-      "repo": "ghostbsd/ghostbsd-src",
-      "impact": 192,
-      "stars": 154,
-      "forks": 38,
-      "owner_type": "Organization"
     },
     {
       "repo": "sumoprojects/sumokoin",
@@ -405,6 +398,13 @@
       "stars": 69,
       "forks": 39,
       "owner_type": "User"
+    },
+    {
+      "repo": "arqma/arqma",
+      "impact": 105,
+      "stars": 49,
+      "forks": 56,
+      "owner_type": "Organization"
     }
   ],
   "trend": [
@@ -1335,10 +1335,18 @@
       "old_and_new": 11,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-09-30_19-30-12",
+      "total": 337,
+      "old_only": 326,
+      "old_and_new": 11,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-09-30T19:30:12.124803+00:00",
-    "snapshot_count": 116
+    "generated_at": "2026-10-01T19:56:02.808570+00:00",
+    "snapshot_count": 117
   }
 }
