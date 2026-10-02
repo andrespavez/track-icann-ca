@@ -24,7 +24,7 @@
     "User": 202
   },
   "impact": {
-    "total": 54926,
+    "total": 54939,
     "average": 163.0
   },
   "top_targets": [
@@ -233,30 +233,30 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14427,
-      "stars": 10896,
-      "forks": 3531,
+      "impact": 14430,
+      "stars": 10898,
+      "forks": 3532,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6052,
-      "stars": 5345,
-      "forks": 707,
+      "impact": 6054,
+      "stars": 5346,
+      "forks": 708,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2474,
-      "stars": 2337,
+      "impact": 2475,
+      "stars": 2338,
       "forks": 137,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
       "impact": 712,
-      "stars": 509,
-      "forks": 203,
+      "stars": 510,
+      "forks": 202,
       "owner_type": "Organization"
     },
     {
@@ -303,9 +303,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 235,
+      "impact": 234,
       "stars": 189,
-      "forks": 46,
+      "forks": 45,
       "owner_type": "Organization"
     },
     {
@@ -358,17 +358,17 @@
       "owner_type": "Organization"
     },
     {
+      "repo": "MidnightBSD/src",
+      "impact": 128,
+      "stars": 114,
+      "forks": 14,
+      "owner_type": "Organization"
+    },
+    {
       "repo": "masari-project/masari",
       "impact": 127,
       "stars": 71,
       "forks": 56,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "MidnightBSD/src",
-      "impact": 127,
-      "stars": 113,
-      "forks": 14,
       "owner_type": "Organization"
     },
     {
@@ -1343,10 +1343,18 @@
       "old_and_new": 11,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-01_19-56-02",
+      "total": 337,
+      "old_only": 325,
+      "old_and_new": 12,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-01T19:56:02.808570+00:00",
-    "snapshot_count": 117
+    "generated_at": "2026-10-02T19:26:47.890113+00:00",
+    "snapshot_count": 118
   }
 }
