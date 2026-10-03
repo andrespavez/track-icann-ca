@@ -24,7 +24,7 @@
     "User": 202
   },
   "impact": {
-    "total": 54939,
+    "total": 54947,
     "average": 163.0
   },
   "top_targets": [
@@ -233,30 +233,30 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14430,
+      "impact": 14429,
       "stars": 10898,
-      "forks": 3532,
+      "forks": 3531,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6054,
-      "stars": 5346,
+      "impact": 6053,
+      "stars": 5345,
       "forks": 708,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2475,
-      "stars": 2338,
+      "impact": 2474,
+      "stars": 2337,
       "forks": 137,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 712,
-      "stars": 510,
-      "forks": 202,
+      "impact": 714,
+      "stars": 511,
+      "forks": 203,
       "owner_type": "Organization"
     },
     {
@@ -345,8 +345,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 163,
-      "stars": 113,
+      "impact": 162,
+      "stars": 112,
       "forks": 50,
       "owner_type": "Organization"
     },
@@ -1351,10 +1351,18 @@
       "old_and_new": 12,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-02_19-26-47",
+      "total": 337,
+      "old_only": 325,
+      "old_and_new": 12,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-02T19:26:47.890113+00:00",
-    "snapshot_count": 118
+    "generated_at": "2026-10-03T17:59:36.448138+00:00",
+    "snapshot_count": 119
   }
 }
