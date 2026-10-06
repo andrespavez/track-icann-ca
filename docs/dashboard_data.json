@@ -24,8 +24,8 @@
     "User": 203
   },
   "impact": {
-    "total": 54966,
-    "average": 162.6
+    "total": 54979,
+    "average": 162.7
   },
   "top_targets": [
     {
@@ -120,9 +120,9 @@
       "repo": "blackfuel/asuswrt-rt-ac86u",
       "priority": "NORMAL",
       "stars": 26,
-      "forks": 18,
+      "forks": 17,
       "owner_type": "User",
-      "impact": 44
+      "impact": 43
     },
     {
       "repo": "RavenProject/ravenwallet-ios",
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14432,
-      "stars": 10899,
+      "impact": 14434,
+      "stars": 10901,
       "forks": 3533,
       "owner_type": "Organization"
     },
@@ -247,15 +247,15 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2474,
+      "impact": 2475,
       "stars": 2337,
-      "forks": 137,
+      "forks": 138,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 714,
-      "stars": 511,
+      "impact": 715,
+      "stars": 512,
       "forks": 203,
       "owner_type": "Organization"
     },
@@ -303,8 +303,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 235,
-      "stars": 190,
+      "impact": 237,
+      "stars": 192,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -331,8 +331,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 176,
-      "stars": 152,
+      "impact": 177,
+      "stars": 153,
       "forks": 24,
       "owner_type": "User"
     },
@@ -1375,10 +1375,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-05_21-32-58",
+      "total": 338,
+      "old_only": 325,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-05T21:32:58.033481+00:00",
-    "snapshot_count": 121
+    "generated_at": "2026-10-06T19:29:01.614028+00:00",
+    "snapshot_count": 122
   }
 }
