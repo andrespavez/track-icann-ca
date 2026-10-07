@@ -24,7 +24,7 @@
     "User": 203
   },
   "impact": {
-    "total": 54979,
+    "total": 54992,
     "average": 162.7
   },
   "top_targets": [
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14434,
-      "stars": 10901,
-      "forks": 3533,
+      "impact": 14438,
+      "stars": 10904,
+      "forks": 3534,
       "owner_type": "Organization"
     },
     {
@@ -247,9 +247,9 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2475,
-      "stars": 2337,
-      "forks": 138,
+      "impact": 2479,
+      "stars": 2340,
+      "forks": 139,
       "owner_type": "User"
     },
     {
@@ -261,9 +261,9 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 619,
+      "impact": 620,
       "stars": 485,
-      "forks": 134,
+      "forks": 135,
       "owner_type": "Organization"
     },
     {
@@ -303,8 +303,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 237,
-      "stars": 192,
+      "impact": 239,
+      "stars": 194,
       "forks": 45,
       "owner_type": "Organization"
     },
@@ -373,9 +373,9 @@
     },
     {
       "repo": "masari-project/masari-webwallet",
-      "impact": 123,
+      "impact": 122,
       "stars": 16,
-      "forks": 107,
+      "forks": 106,
       "owner_type": "Organization"
     },
     {
@@ -1383,10 +1383,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-06_19-29-01",
+      "total": 338,
+      "old_only": 325,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-06T19:29:01.614028+00:00",
-    "snapshot_count": 122
+    "generated_at": "2026-10-07T20:06:30.227998+00:00",
+    "snapshot_count": 123
   }
 }
