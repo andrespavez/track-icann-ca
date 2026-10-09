@@ -24,7 +24,7 @@
     "User": 203
   },
   "impact": {
-    "total": 54999,
+    "total": 55006,
     "average": 162.7
   },
   "top_targets": [
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14441,
-      "stars": 10905,
-      "forks": 3536,
+      "impact": 14440,
+      "stars": 10907,
+      "forks": 3533,
       "owner_type": "Organization"
     },
     {
@@ -248,8 +248,8 @@
     {
       "repo": "gnuton/asuswrt-merlin.ng",
       "impact": 2479,
-      "stars": 2340,
-      "forks": 139,
+      "stars": 2341,
+      "forks": 138,
       "owner_type": "User"
     },
     {
@@ -358,17 +358,17 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "MidnightBSD/src",
-      "impact": 128,
-      "stars": 114,
-      "forks": 14,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "masari-project/masari",
       "impact": 127,
       "stars": 71,
       "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "MidnightBSD/src",
+      "impact": 127,
+      "stars": 114,
+      "forks": 13,
       "owner_type": "Organization"
     },
     {
@@ -1399,10 +1399,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-08_20-04-11",
+      "total": 338,
+      "old_only": 325,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-08T20:04:11.921497+00:00",
-    "snapshot_count": 124
+    "generated_at": "2026-10-09T19:45:14.539378+00:00",
+    "snapshot_count": 125
   }
 }
