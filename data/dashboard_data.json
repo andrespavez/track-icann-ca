@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 338,
-    "old_only": 325,
+    "total": 336,
+    "old_only": 323,
     "old_and_new": 13,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 3.8,
+    "progress": 3.9,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 135,
+    "Organization": 133,
     "User": 203
   },
   "impact": {
-    "total": 55006,
-    "average": 162.7
+    "total": 54781,
+    "average": 163.0
   },
   "top_targets": [
     {
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14440,
-      "stars": 10907,
-      "forks": 3533,
+      "impact": 14446,
+      "stars": 10914,
+      "forks": 3532,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6056,
-      "stars": 5348,
+      "impact": 6058,
+      "stars": 5350,
       "forks": 708,
       "owner_type": "Organization"
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2479,
-      "stars": 2341,
+      "impact": 2484,
+      "stars": 2346,
       "forks": 138,
       "owner_type": "User"
     },
@@ -345,9 +345,9 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 162,
-      "stars": 112,
-      "forks": 50,
+      "impact": 164,
+      "stars": 113,
+      "forks": 51,
       "owner_type": "Organization"
     },
     {
@@ -358,24 +358,10 @@
       "owner_type": "Organization"
     },
     {
-      "repo": "masari-project/masari",
-      "impact": 127,
-      "stars": 71,
-      "forks": 56,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "MidnightBSD/src",
-      "impact": 127,
-      "stars": 114,
+      "impact": 128,
+      "stars": 115,
       "forks": 13,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "masari-project/masari-webwallet",
-      "impact": 122,
-      "stars": 16,
-      "forks": 106,
       "owner_type": "Organization"
     },
     {
@@ -404,6 +390,20 @@
       "impact": 105,
       "stars": 49,
       "forks": 56,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "havenprotocol/haven",
+      "impact": 97,
+      "stars": 59,
+      "forks": 38,
+      "owner_type": "User"
+    },
+    {
+      "repo": "E-F-A/v4",
+      "impact": 95,
+      "stars": 58,
+      "forks": 37,
       "owner_type": "Organization"
     }
   ],
@@ -1407,10 +1407,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-09_19-45-14",
+      "total": 338,
+      "old_only": 325,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-09T19:45:14.539378+00:00",
-    "snapshot_count": 125
+    "generated_at": "2026-10-10T18:27:06.467440+00:00",
+    "snapshot_count": 126
   }
 }
