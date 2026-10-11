@@ -24,8 +24,8 @@
     "User": 203
   },
   "impact": {
-    "total": 54781,
-    "average": 163.0
+    "total": 54796,
+    "average": 163.1
   },
   "top_targets": [
     {
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14446,
-      "stars": 10914,
-      "forks": 3532,
+      "impact": 14452,
+      "stars": 10918,
+      "forks": 3534,
       "owner_type": "Organization"
     },
     {
@@ -247,15 +247,15 @@
     },
     {
       "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2484,
-      "stars": 2346,
+      "impact": 2485,
+      "stars": 2347,
       "forks": 138,
       "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
-      "impact": 716,
-      "stars": 513,
+      "impact": 717,
+      "stars": 514,
       "forks": 203,
       "owner_type": "Organization"
     },
@@ -275,9 +275,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 505,
+      "impact": 504,
       "stars": 171,
-      "forks": 334,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -310,8 +310,8 @@
     },
     {
       "repo": "steventroughtonsmith/MobileTerminal",
-      "impact": 223,
-      "stars": 199,
+      "impact": 224,
+      "stars": 200,
       "forks": 24,
       "owner_type": "User"
     },
@@ -1415,10 +1415,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-10_18-27-06",
+      "total": 336,
+      "old_only": 323,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-10T18:27:06.467440+00:00",
-    "snapshot_count": 126
+    "generated_at": "2026-10-11T19:33:38.731186+00:00",
+    "snapshot_count": 127
   }
 }
