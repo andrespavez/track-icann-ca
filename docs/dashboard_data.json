@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 336,
-    "old_only": 323,
+    "total": 335,
+    "old_only": 322,
     "old_and_new": 13,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
-    "User": 203
+    "Organization": 131,
+    "User": 204
   },
   "impact": {
-    "total": 54838,
-    "average": 163.2
+    "total": 52333,
+    "average": 156.2
   },
   "top_targets": [
     {
@@ -40,9 +40,9 @@
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
       "stars": 222,
-      "forks": 83,
+      "forks": 84,
       "owner_type": "Organization",
-      "impact": 305
+      "impact": 306
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,29 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14461,
-      "stars": 10923,
+      "impact": 14465,
+      "stars": 10927,
       "forks": 3538,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6061,
-      "stars": 5351,
+      "impact": 6063,
+      "stars": 5353,
       "forks": 710,
       "owner_type": "Organization"
     },
     {
-      "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2496,
-      "stars": 2356,
-      "forks": 140,
-      "owner_type": "User"
-    },
-    {
       "repo": "opnsense/src",
-      "impact": 721,
-      "stars": 517,
+      "impact": 722,
+      "stars": 518,
       "forks": 204,
       "owner_type": "Organization"
     },
@@ -289,9 +282,9 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 305,
+      "impact": 306,
       "stars": 222,
-      "forks": 83,
+      "forks": 84,
       "owner_type": "Organization"
     },
     {
@@ -303,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 237,
-      "stars": 194,
+      "impact": 238,
+      "stars": 195,
       "forks": 43,
       "owner_type": "Organization"
     },
@@ -405,6 +398,13 @@
       "stars": 58,
       "forks": 37,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "noloader/Build-Scripts",
+      "impact": 93,
+      "stars": 71,
+      "forks": 22,
+      "owner_type": "User"
     }
   ],
   "trend": [
@@ -1439,10 +1439,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-13_20-15-55",
+      "total": 336,
+      "old_only": 323,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-13T20:15:55.222056+00:00",
-    "snapshot_count": 129
+    "generated_at": "2026-10-14T18:36:27.459194+00:00",
+    "snapshot_count": 130
   }
 }
