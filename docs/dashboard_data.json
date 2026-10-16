@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 335,
-    "old_only": 322,
+    "total": 336,
+    "old_only": 323,
     "old_and_new": 13,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 131,
-    "User": 204
+    "Organization": 133,
+    "User": 203
   },
   "impact": {
-    "total": 52348,
-    "average": 156.3
+    "total": 54877,
+    "average": 163.3
   },
   "top_targets": [
     {
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 222,
+      "stars": 223,
       "forks": 84,
       "owner_type": "Organization",
-      "impact": 306
+      "impact": 307
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,17 +233,24 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14467,
-      "stars": 10928,
-      "forks": 3539,
+      "impact": 14469,
+      "stars": 10929,
+      "forks": 3540,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6063,
-      "stars": 5353,
+      "impact": 6064,
+      "stars": 5354,
       "forks": 710,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "gnuton/asuswrt-merlin.ng",
+      "impact": 2494,
+      "stars": 2355,
+      "forks": 139,
+      "owner_type": "User"
     },
     {
       "repo": "opnsense/src",
@@ -268,9 +275,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 504,
+      "impact": 505,
       "stars": 171,
-      "forks": 333,
+      "forks": 334,
       "owner_type": "Organization"
     },
     {
@@ -282,8 +289,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 306,
-      "stars": 222,
+      "impact": 307,
+      "stars": 223,
       "forks": 84,
       "owner_type": "Organization"
     },
@@ -398,13 +405,6 @@
       "stars": 58,
       "forks": 37,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "noloader/Build-Scripts",
-      "impact": 93,
-      "stars": 71,
-      "forks": 22,
-      "owner_type": "User"
     }
   ],
   "trend": [
@@ -1455,10 +1455,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-15_18-55-11",
+      "total": 335,
+      "old_only": 322,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-15T18:55:11.554801+00:00",
-    "snapshot_count": 131
+    "generated_at": "2026-10-16T18:08:45.442962+00:00",
+    "snapshot_count": 132
   }
 }
