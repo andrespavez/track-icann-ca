@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 336,
-    "old_only": 323,
+    "total": 337,
+    "old_only": 324,
     "old_and_new": 13,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
-    "User": 203
+    "Organization": 131,
+    "User": 206
   },
   "impact": {
-    "total": 54877,
-    "average": 163.3
+    "total": 52375,
+    "average": 155.4
   },
   "top_targets": [
     {
@@ -127,10 +127,10 @@
     {
       "repo": "RavenProject/ravenwallet-ios",
       "priority": "NORMAL",
-      "stars": 25,
+      "stars": 24,
       "forks": 19,
       "owner_type": "Organization",
-      "impact": 44
+      "impact": 43
     },
     {
       "repo": "BitChute/chutoken",
@@ -234,28 +234,21 @@
     {
       "repo": "monero-project/monero",
       "impact": 14469,
-      "stars": 10929,
-      "forks": 3540,
+      "stars": 10930,
+      "forks": 3539,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6064,
-      "stars": 5354,
+      "impact": 6065,
+      "stars": 5355,
       "forks": 710,
       "owner_type": "Organization"
     },
     {
-      "repo": "gnuton/asuswrt-merlin.ng",
-      "impact": 2494,
-      "stars": 2355,
-      "forks": 139,
-      "owner_type": "User"
-    },
-    {
       "repo": "opnsense/src",
-      "impact": 723,
-      "stars": 519,
+      "impact": 724,
+      "stars": 520,
       "forks": 204,
       "owner_type": "Organization"
     },
@@ -405,6 +398,13 @@
       "stars": 58,
       "forks": 37,
       "owner_type": "Organization"
+    },
+    {
+      "repo": "noloader/Build-Scripts",
+      "impact": 93,
+      "stars": 71,
+      "forks": 22,
+      "owner_type": "User"
     }
   ],
   "trend": [
@@ -1463,10 +1463,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-16_18-08-45",
+      "total": 336,
+      "old_only": 323,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-16T18:08:45.442962+00:00",
-    "snapshot_count": 132
+    "generated_at": "2026-10-17T17:04:13.923353+00:00",
+    "snapshot_count": 133
   }
 }
