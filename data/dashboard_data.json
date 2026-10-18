@@ -24,8 +24,8 @@
     "User": 206
   },
   "impact": {
-    "total": 52375,
-    "average": 155.4
+    "total": 52389,
+    "average": 155.5
   },
   "top_targets": [
     {
@@ -160,9 +160,9 @@
       "repo": "lekswrt/padavan-ng-rt-n56u-xiaomi-prometheus-openwrt",
       "priority": "NORMAL",
       "stars": 18,
-      "forks": 9,
+      "forks": 8,
       "owner_type": "Organization",
-      "impact": 27
+      "impact": 26
     },
     {
       "repo": "ExcitableAardvark/node-cryptonight",
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14469,
-      "stars": 10930,
+      "impact": 14472,
+      "stars": 10933,
       "forks": 3539,
       "owner_type": "Organization"
     },
@@ -1471,10 +1471,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-17_17-04-13",
+      "total": 337,
+      "old_only": 324,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-17T17:04:13.923353+00:00",
-    "snapshot_count": 133
+    "generated_at": "2026-10-18T17:18:12.064012+00:00",
+    "snapshot_count": 134
   }
 }
