@@ -1,13 +1,13 @@
 {
   "summary": {
     "total": 337,
-    "old_only": 324,
-    "old_and_new": 13,
+    "old_only": 323,
+    "old_and_new": 14,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 3.9,
+    "progress": 4.2,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -24,7 +24,7 @@
     "User": 206
   },
   "impact": {
-    "total": 52389,
+    "total": 52406,
     "average": 155.5
   },
   "top_targets": [
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 223,
+      "stars": 224,
       "forks": 84,
       "owner_type": "Organization",
-      "impact": 307
+      "impact": 308
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,16 +233,16 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14472,
-      "stars": 10933,
+      "impact": 14474,
+      "stars": 10935,
       "forks": 3539,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6065,
+      "impact": 6064,
       "stars": 5355,
-      "forks": 710,
+      "forks": 709,
       "owner_type": "Organization"
     },
     {
@@ -254,16 +254,16 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 620,
-      "stars": 485,
+      "impact": 621,
+      "stars": 486,
       "forks": 135,
       "owner_type": "Organization"
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 580,
+      "impact": 581,
       "stars": 385,
-      "forks": 195,
+      "forks": 196,
       "owner_type": "Organization"
     },
     {
@@ -282,8 +282,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 307,
-      "stars": 223,
+      "impact": 308,
+      "stars": 224,
       "forks": 84,
       "owner_type": "Organization"
     },
@@ -296,9 +296,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 238,
-      "stars": 195,
-      "forks": 43,
+      "impact": 240,
+      "stars": 196,
+      "forks": 44,
       "owner_type": "Organization"
     },
     {
@@ -1479,10 +1479,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-18_17-18-12",
+      "total": 337,
+      "old_only": 324,
+      "old_and_new": 13,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-18T17:18:12.064012+00:00",
-    "snapshot_count": 134
+    "generated_at": "2026-10-19T20:04:52.337956+00:00",
+    "snapshot_count": 135
   }
 }
