@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 323,
+    "total": 336,
+    "old_only": 322,
     "old_and_new": 14,
     "new_only": 0,
     "unknown": 0
@@ -20,21 +20,21 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 131,
+    "Organization": 130,
     "User": 206
   },
   "impact": {
-    "total": 52406,
-    "average": 155.5
+    "total": 52410,
+    "average": 156.0
   },
   "top_targets": [
     {
       "repo": "truenas/os",
       "priority": "NORMAL",
       "stars": 234,
-      "forks": 82,
+      "forks": 81,
       "owner_type": "Organization",
-      "impact": 316
+      "impact": 315
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14474,
-      "stars": 10935,
+      "impact": 14479,
+      "stars": 10940,
       "forks": 3539,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6064,
+      "impact": 6065,
       "stars": 5355,
-      "forks": 709,
+      "forks": 710,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 724,
+      "impact": 725,
       "stars": 520,
-      "forks": 204,
+      "forks": 205,
       "owner_type": "Organization"
     },
     {
@@ -275,9 +275,9 @@
     },
     {
       "repo": "truenas/os",
-      "impact": 316,
+      "impact": 315,
       "stars": 234,
-      "forks": 82,
+      "forks": 81,
       "owner_type": "Organization"
     },
     {
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 240,
-      "stars": 196,
+      "impact": 241,
+      "stars": 197,
       "forks": 44,
       "owner_type": "Organization"
     },
@@ -338,8 +338,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 164,
-      "stars": 113,
+      "impact": 165,
+      "stars": 114,
       "forks": 51,
       "owner_type": "Organization"
     },
@@ -359,8 +359,8 @@
     },
     {
       "repo": "graft-project/GraftNetwork",
-      "impact": 118,
-      "stars": 80,
+      "impact": 117,
+      "stars": 79,
       "forks": 38,
       "owner_type": "Organization"
     },
@@ -1487,10 +1487,18 @@
       "old_and_new": 13,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-19_20-04-52",
+      "total": 337,
+      "old_only": 323,
+      "old_and_new": 14,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-19T20:04:52.337956+00:00",
-    "snapshot_count": 135
+    "generated_at": "2026-10-20T18:44:06.040244+00:00",
+    "snapshot_count": 136
   }
 }
