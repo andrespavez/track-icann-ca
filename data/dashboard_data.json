@@ -24,7 +24,7 @@
     "User": 206
   },
   "impact": {
-    "total": 52436,
+    "total": 52451,
     "average": 155.6
   },
   "top_targets": [
@@ -80,9 +80,9 @@
       "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 40,
-      "forks": 20,
+      "forks": 21,
       "owner_type": "Organization",
-      "impact": 60
+      "impact": 61
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14484,
-      "stars": 10944,
+      "impact": 14488,
+      "stars": 10948,
       "forks": 3540,
       "owner_type": "Organization"
     },
@@ -247,8 +247,8 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 726,
-      "stars": 521,
+      "impact": 727,
+      "stars": 522,
       "forks": 205,
       "owner_type": "Organization"
     },
@@ -1511,10 +1511,18 @@
       "old_and_new": 14,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-22_18-33-27",
+      "total": 337,
+      "old_only": 323,
+      "old_and_new": 14,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-22T18:33:27.497779+00:00",
-    "snapshot_count": 138
+    "generated_at": "2026-10-23T18:31:22.571285+00:00",
+    "snapshot_count": 139
   }
 }
