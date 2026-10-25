@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 337,
+    "total": 338,
     "old_only": 323,
-    "old_and_new": 14,
+    "old_and_new": 15,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 4.2,
+    "progress": 4.4,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 131,
-    "User": 206
+    "User": 207
   },
   "impact": {
-    "total": 52462,
-    "average": 155.7
+    "total": 52472,
+    "average": 155.2
   },
   "top_targets": [
     {
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 225,
+      "stars": 226,
       "forks": 84,
       "owner_type": "Organization",
-      "impact": 309
+      "impact": 310
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,29 +233,29 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14488,
-      "stars": 10948,
+      "impact": 14489,
+      "stars": 10949,
       "forks": 3540,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6068,
-      "stars": 5357,
+      "impact": 6069,
+      "stars": 5358,
       "forks": 711,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 727,
+      "impact": 726,
       "stars": 522,
-      "forks": 205,
+      "forks": 204,
       "owner_type": "Organization"
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 620,
-      "stars": 485,
+      "impact": 621,
+      "stars": 486,
       "forks": 135,
       "owner_type": "Organization"
     },
@@ -282,8 +282,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 309,
-      "stars": 225,
+      "impact": 310,
+      "stars": 226,
       "forks": 84,
       "owner_type": "Organization"
     },
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 241,
-      "stars": 197,
+      "impact": 242,
+      "stars": 198,
       "forks": 44,
       "owner_type": "Organization"
     },
@@ -338,8 +338,8 @@
     },
     {
       "repo": "iana-org/get-trust-anchor",
-      "impact": 165,
-      "stars": 114,
+      "impact": 166,
+      "stars": 115,
       "forks": 51,
       "owner_type": "Organization"
     },
@@ -1527,10 +1527,18 @@
       "old_and_new": 14,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-24_17-24-24",
+      "total": 337,
+      "old_only": 323,
+      "old_and_new": 14,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-24T17:24:23.978820+00:00",
-    "snapshot_count": 140
+    "generated_at": "2026-10-25T17:43:33.638117+00:00",
+    "snapshot_count": 141
   }
 }
