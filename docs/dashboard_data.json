@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 338,
-    "old_only": 323,
+    "total": 337,
+    "old_only": 322,
     "old_and_new": 15,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 4.4,
+    "progress": 4.5,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 131,
-    "User": 207
+    "User": 206
   },
   "impact": {
-    "total": 52472,
-    "average": 155.2
+    "total": 52477,
+    "average": 155.7
   },
   "top_targets": [
     {
@@ -173,6 +173,14 @@
       "impact": 29
     },
     {
+      "repo": "minombreesjeff/darwin_env",
+      "priority": "NORMAL",
+      "stars": 16,
+      "forks": 6,
+      "owner_type": "User",
+      "impact": 22
+    },
+    {
       "repo": "scala-network/Scala",
       "priority": "NORMAL",
       "stars": 15,
@@ -195,14 +203,6 @@
       "forks": 7,
       "owner_type": "Organization",
       "impact": 22
-    },
-    {
-      "repo": "minombreesjeff/darwin_env",
-      "priority": "NORMAL",
-      "stars": 15,
-      "forks": 6,
-      "owner_type": "User",
-      "impact": 21
     },
     {
       "repo": "HardenedBSD/hardenedBSD-playground",
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14489,
-      "stars": 10949,
-      "forks": 3540,
+      "impact": 14491,
+      "stars": 10950,
+      "forks": 3541,
       "owner_type": "Organization"
     },
     {
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 242,
-      "stars": 198,
+      "impact": 243,
+      "stars": 199,
       "forks": 44,
       "owner_type": "Organization"
     },
@@ -334,13 +334,6 @@
       "impact": 169,
       "stars": 137,
       "forks": 32,
-      "owner_type": "Organization"
-    },
-    {
-      "repo": "iana-org/get-trust-anchor",
-      "impact": 166,
-      "stars": 115,
-      "forks": 51,
       "owner_type": "Organization"
     },
     {
@@ -404,6 +397,13 @@
       "impact": 93,
       "stars": 71,
       "forks": 22,
+      "owner_type": "User"
+    },
+    {
+      "repo": "AnthonyTechhh/ZephyrWallet",
+      "impact": 91,
+      "stars": 47,
+      "forks": 44,
       "owner_type": "User"
     }
   ],
@@ -1535,10 +1535,18 @@
       "old_and_new": 14,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-25_17-43-33",
+      "total": 338,
+      "old_only": 323,
+      "old_and_new": 15,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-25T17:43:33.638117+00:00",
-    "snapshot_count": 141
+    "generated_at": "2026-10-26T19:55:56.283403+00:00",
+    "snapshot_count": 142
   }
 }
