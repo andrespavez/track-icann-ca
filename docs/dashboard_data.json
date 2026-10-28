@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 322,
+    "total": 338,
+    "old_only": 323,
     "old_and_new": 15,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 4.5,
+    "progress": 4.4,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 131,
-    "User": 206
+    "Organization": 133,
+    "User": 205
   },
   "impact": {
-    "total": 52497,
-    "average": 155.8
+    "total": 52512,
+    "average": 155.4
   },
   "top_targets": [
     {
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14492,
-      "stars": 10953,
-      "forks": 3539,
+      "impact": 14500,
+      "stars": 10960,
+      "forks": 3540,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6071,
+      "impact": 6072,
       "stars": 5360,
-      "forks": 711,
+      "forks": 712,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 727,
-      "stars": 523,
-      "forks": 204,
+      "impact": 729,
+      "stars": 524,
+      "forks": 205,
       "owner_type": "Organization"
     },
     {
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 243,
-      "stars": 199,
+      "impact": 244,
+      "stars": 200,
       "forks": 44,
       "owner_type": "Organization"
     },
@@ -1551,10 +1551,18 @@
       "old_and_new": 15,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-27_19-27-05",
+      "total": 337,
+      "old_only": 322,
+      "old_and_new": 15,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-27T19:27:05.108903+00:00",
-    "snapshot_count": 143
+    "generated_at": "2026-10-28T20:20:17.496008+00:00",
+    "snapshot_count": 144
   }
 }
