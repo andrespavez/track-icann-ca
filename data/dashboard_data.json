@@ -24,7 +24,7 @@
     "User": 205
   },
   "impact": {
-    "total": 52551,
+    "total": 52565,
     "average": 155.5
   },
   "top_targets": [
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14508,
-      "stars": 10966,
+      "impact": 14511,
+      "stars": 10969,
       "forks": 3542,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6074,
-      "stars": 5360,
+      "impact": 6075,
+      "stars": 5361,
       "forks": 714,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 729,
+      "impact": 730,
       "stars": 523,
-      "forks": 206,
+      "forks": 207,
       "owner_type": "Organization"
     },
     {
@@ -268,9 +268,9 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 505,
+      "impact": 504,
       "stars": 171,
-      "forks": 334,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -303,8 +303,8 @@
     },
     {
       "repo": "steventroughtonsmith/MobileTerminal",
-      "impact": 224,
-      "stars": 200,
+      "impact": 225,
+      "stars": 201,
       "forks": 24,
       "owner_type": "User"
     },
@@ -1575,10 +1575,18 @@
       "old_and_new": 15,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-30_19-13-08",
+      "total": 338,
+      "old_only": 323,
+      "old_and_new": 15,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-30T19:13:08.124739+00:00",
-    "snapshot_count": 146
+    "generated_at": "2026-10-31T18:30:31.760480+00:00",
+    "snapshot_count": 147
   }
 }
