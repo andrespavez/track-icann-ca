@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 338,
-    "old_only": 323,
+    "total": 337,
+    "old_only": 322,
     "old_and_new": 15,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 4.4,
+    "progress": 4.5,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
+    "Organization": 132,
     "User": 205
   },
   "impact": {
-    "total": 52565,
-    "average": 155.5
+    "total": 52577,
+    "average": 156.0
   },
   "top_targets": [
     {
@@ -69,7 +69,7 @@
       "impact": 53
     },
     {
-      "repo": "haven-protocol-org/haven-main",
+      "repo": "salvium/salvium",
       "priority": "NORMAL",
       "stars": 41,
       "forks": 21,
@@ -77,12 +77,12 @@
       "impact": 62
     },
     {
-      "repo": "salvium/salvium",
+      "repo": "haven-protocol-org/haven-main",
       "priority": "NORMAL",
-      "stars": 40,
+      "stars": 41,
       "forks": 21,
       "owner_type": "Organization",
-      "impact": 61
+      "impact": 62
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -324,8 +324,8 @@
     },
     {
       "repo": "ZephyrProtocol/zephyr",
-      "impact": 178,
-      "stars": 154,
+      "impact": 179,
+      "stars": 155,
       "forks": 24,
       "owner_type": "User"
     },
@@ -400,11 +400,11 @@
       "owner_type": "User"
     },
     {
-      "repo": "AnthonyTechhh/ZephyrWallet",
+      "repo": "wownero/wownero",
       "impact": 91,
-      "stars": 47,
-      "forks": 44,
-      "owner_type": "User"
+      "stars": 58,
+      "forks": 33,
+      "owner_type": "Organization"
     }
   ],
   "trend": [
@@ -1583,10 +1583,18 @@
       "old_and_new": 15,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-10-31_18-30-31",
+      "total": 338,
+      "old_only": 323,
+      "old_and_new": 15,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-10-31T18:30:31.760480+00:00",
-    "snapshot_count": 147
+    "generated_at": "2026-11-01T18:57:30.606648+00:00",
+    "snapshot_count": 148
   }
 }
