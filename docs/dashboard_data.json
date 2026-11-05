@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 337,
-    "old_only": 321,
-    "old_and_new": 15,
+    "total": 338,
+    "old_only": 322,
+    "old_and_new": 16,
     "new_only": 0,
-    "unknown": 1
+    "unknown": 0
   },
   "campaign": {
-    "progress": 4.5,
+    "progress": 4.7,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 132,
+    "Organization": 133,
     "User": 205
   },
   "impact": {
-    "total": 52617,
-    "average": 156.1
+    "total": 52636,
+    "average": 155.7
   },
   "top_targets": [
     {
@@ -234,8 +234,8 @@
     {
       "repo": "monero-project/monero",
       "impact": 14520,
-      "stars": 10975,
-      "forks": 3545,
+      "stars": 10976,
+      "forks": 3544,
       "owner_type": "Organization"
     },
     {
@@ -247,9 +247,16 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 729,
-      "stars": 523,
+      "impact": 728,
+      "stars": 522,
       "forks": 206,
+      "owner_type": "Organization"
+    },
+    {
+      "repo": "getdnsapi/getdns",
+      "impact": 620,
+      "stars": 485,
+      "forks": 135,
       "owner_type": "Organization"
     },
     {
@@ -289,9 +296,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 247,
+      "impact": 248,
       "stars": 203,
-      "forks": 44,
+      "forks": 45,
       "owner_type": "Organization"
     },
     {
@@ -310,8 +317,8 @@
     },
     {
       "repo": "xyzmos/GeekDNS",
-      "impact": 182,
-      "stars": 157,
+      "impact": 181,
+      "stars": 156,
       "forks": 25,
       "owner_type": "User"
     },
@@ -398,13 +405,6 @@
       "stars": 59,
       "forks": 33,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "AnthonyTechhh/ZephyrWallet",
-      "impact": 91,
-      "stars": 47,
-      "forks": 44,
-      "owner_type": "User"
     }
   ],
   "trend": [
@@ -1615,10 +1615,18 @@
       "old_and_new": 15,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-04_20-51-54",
+      "total": 337,
+      "old_only": 321,
+      "old_and_new": 15,
+      "new_only": 0,
+      "unknown": 1
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-04T20:51:54.945856+00:00",
-    "snapshot_count": 151
+    "generated_at": "2026-11-05T22:53:22.123880+00:00",
+    "snapshot_count": 152
   }
 }
