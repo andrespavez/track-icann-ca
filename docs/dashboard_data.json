@@ -24,7 +24,7 @@
     "User": 205
   },
   "impact": {
-    "total": 52647,
+    "total": 52663,
     "average": 155.8
   },
   "top_targets": [
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14524,
-      "stars": 10979,
-      "forks": 3545,
+      "impact": 14530,
+      "stars": 10984,
+      "forks": 3546,
       "owner_type": "Organization"
     },
     {
@@ -261,9 +261,9 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 582,
+      "impact": 583,
       "stars": 385,
-      "forks": 197,
+      "forks": 198,
       "owner_type": "Organization"
     },
     {
@@ -296,9 +296,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 249,
+      "impact": 250,
       "stars": 204,
-      "forks": 45,
+      "forks": 46,
       "owner_type": "Organization"
     },
     {
@@ -366,9 +366,9 @@
     },
     {
       "repo": "arqma/arqma",
-      "impact": 105,
+      "impact": 104,
       "stars": 49,
-      "forks": 56,
+      "forks": 55,
       "owner_type": "Organization"
     },
     {
@@ -1631,10 +1631,18 @@
       "old_and_new": 16,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-06_20-51-42",
+      "total": 338,
+      "old_only": 321,
+      "old_and_new": 17,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-06T20:51:42.678025+00:00",
-    "snapshot_count": 153
+    "generated_at": "2026-11-07T19:19:14.649358+00:00",
+    "snapshot_count": 154
   }
 }
