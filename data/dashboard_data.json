@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 338,
-    "old_only": 321,
+    "total": 340,
+    "old_only": 323,
     "old_and_new": 17,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 133,
+    "Organization": 135,
     "User": 205
   },
   "impact": {
-    "total": 52663,
-    "average": 155.8
+    "total": 52680,
+    "average": 154.9
   },
   "top_targets": [
     {
@@ -234,8 +234,8 @@
     {
       "repo": "monero-project/monero",
       "impact": 14530,
-      "stars": 10984,
-      "forks": 3546,
+      "stars": 10985,
+      "forks": 3545,
       "owner_type": "Organization"
     },
     {
@@ -268,8 +268,8 @@
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 504,
-      "stars": 171,
+      "impact": 505,
+      "stars": 172,
       "forks": 333,
       "owner_type": "Organization"
     },
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 250,
-      "stars": 204,
+      "impact": 251,
+      "stars": 205,
       "forks": 46,
       "owner_type": "Organization"
     },
@@ -1639,10 +1639,18 @@
       "old_and_new": 17,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-07_19-19-14",
+      "total": 338,
+      "old_only": 321,
+      "old_and_new": 17,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-07T19:19:14.649358+00:00",
-    "snapshot_count": 154
+    "generated_at": "2026-11-08T19:20:16.725556+00:00",
+    "snapshot_count": 155
   }
 }
