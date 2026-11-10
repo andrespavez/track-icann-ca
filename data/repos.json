@@ -3,13 +3,13 @@
     "repo": "microsoft/azurelinux",
     "description": "General purpose Linux OS for Azure",
     "html_url": "https://github.com/microsoft/azurelinux",
-    "stars": 5363,
-    "forks": 713,
+    "stars": 5362,
+    "forks": 714,
     "watchers": 138,
     "archived": false,
-    "updated_at": "2026-11-09T20:53:02Z",
-    "pushed_at": "2026-11-09T23:53:07Z",
-    "open_issues": 278,
+    "updated_at": "2026-11-10T21:54:49Z",
+    "pushed_at": "2026-11-10T21:04:16Z",
+    "open_issues": 277,
     "default_branch": "4.0",
     "fork": false,
     "owner_type": "Organization",
@@ -25,12 +25,12 @@
     ],
     "files": [
       {
-        "path": "specs/u/unbound/icannbundle.pem",
-        "html_url": "https://github.com/microsoft/azurelinux/blob/d519156c274c5d8eac5ca5d2fefad36090af1569/specs/u/unbound/icannbundle.pem"
+        "path": "specs/d/dns-root-data/icannbundle.pem",
+        "html_url": "https://github.com/microsoft/azurelinux/blob/7027d498ca9eee968452a3abc1211dac114b4ca1/specs/d/dns-root-data/icannbundle.pem"
       },
       {
-        "path": "specs/d/dns-root-data/icannbundle.pem",
-        "html_url": "https://github.com/microsoft/azurelinux/blob/d519156c274c5d8eac5ca5d2fefad36090af1569/specs/d/dns-root-data/icannbundle.pem"
+        "path": "specs/u/unbound/icannbundle.pem",
+        "html_url": "https://github.com/microsoft/azurelinux/blob/7027d498ca9eee968452a3abc1211dac114b4ca1/specs/u/unbound/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -43,13 +43,13 @@
     "repo": "monero-project/monero",
     "description": "Monero: the secure, private, untraceable cryptocurrency",
     "html_url": "https://github.com/monero-project/monero",
-    "stars": 10985,
+    "stars": 10988,
     "forks": 3544,
     "watchers": 501,
     "archived": false,
-    "updated_at": "2026-11-09T20:39:58Z",
+    "updated_at": "2026-11-10T17:40:30Z",
     "pushed_at": "2026-11-09T20:39:52Z",
-    "open_issues": 597,
+    "open_issues": 606,
     "default_branch": "master",
     "fork": false,
     "owner_type": "Organization",
@@ -75,12 +75,12 @@
     "repo": "NLnetLabs/unbound",
     "description": "Unbound is a validating, recursive, and caching DNS resolver.",
     "html_url": "https://github.com/NLnetLabs/unbound",
-    "stars": 5056,
+    "stars": 5059,
     "forks": 471,
     "watchers": 76,
     "archived": false,
-    "updated_at": "2026-11-09T22:24:28Z",
-    "pushed_at": "2026-11-05T14:38:36Z",
+    "updated_at": "2026-11-10T16:01:06Z",
+    "pushed_at": "2026-11-10T16:00:41Z",
     "open_issues": 404,
     "default_branch": "master",
     "fork": false,
@@ -98,7 +98,7 @@
     "files": [
       {
         "path": "smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/NLnetLabs/unbound/blob/16f61366fb0a46553c2b245e74ba81a17790b2ea/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/NLnetLabs/unbound/blob/e6bf5f46e71e49bb4ff96361e1f4464ad20ce6c3/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -112,7 +112,7 @@
     "description": "Knot Resolver - resolve DNS names like it's 2026",
     "html_url": "https://github.com/CZ-NIC/knot-resolver",
     "stars": 477,
-    "forks": 73,
+    "forks": 72,
     "watchers": 22,
     "archived": false,
     "updated_at": "2026-11-08T10:03:41Z",
@@ -212,11 +212,11 @@
     "description": "Read-only git conversion of OpenBSD's CVS src repository. This only includes the main branch; use CVS for -stable or release branches. Send any diffs to the tech@ mailing list.",
     "html_url": "https://github.com/openbsd/src",
     "stars": 3931,
-    "forks": 957,
+    "forks": 958,
     "watchers": 177,
     "archived": false,
-    "updated_at": "2026-11-09T22:20:19Z",
-    "pushed_at": "2026-11-09T22:20:07Z",
+    "updated_at": "2026-11-10T22:02:12Z",
+    "pushed_at": "2026-11-10T20:20:18Z",
     "open_issues": 1,
     "default_branch": "master",
     "fork": false,
@@ -234,7 +234,7 @@
     "files": [
       {
         "path": "usr.sbin/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/openbsd/src/blob/6689907bdb0b0941e9e0ae76ba0f035b647f3f78/usr.sbin/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/openbsd/src/blob/dd7b77119373d13f9c59cd224b32e20557c1bd19/usr.sbin/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -279,12 +279,12 @@
     "repo": "opnsense/src",
     "description": "OPNsense operating system",
     "html_url": "https://github.com/opnsense/src",
-    "stars": 523,
+    "stars": 526,
     "forks": 206,
     "watchers": 33,
     "archived": false,
-    "updated_at": "2026-11-09T21:12:32Z",
-    "pushed_at": "2026-11-09T21:12:17Z",
+    "updated_at": "2026-11-10T13:05:33Z",
+    "pushed_at": "2026-11-10T12:57:17Z",
     "open_issues": 37,
     "default_branch": "stable/26.7",
     "fork": false,
@@ -298,7 +298,7 @@
     "files": [
       {
         "path": "contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/opnsense/src/blob/04585f9c4952afc494e530b15e5d2836faf9a363/contrib/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/opnsense/src/blob/1633399de9ddbceb1474b7c095eeb5ef8c2f9ca8/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -408,7 +408,7 @@
     "description": "FreeBSD adapted for CHERI-RISC-V and Arm Morello.",
     "html_url": "https://github.com/CTSRD-CHERI/cheribsd",
     "stars": 226,
-    "forks": 84,
+    "forks": 85,
     "watchers": 37,
     "archived": false,
     "updated_at": "2026-10-25T13:25:38Z",
@@ -832,8 +832,8 @@
     "watchers": 16,
     "archived": false,
     "updated_at": "2026-11-09T16:07:43Z",
-    "pushed_at": "2026-11-09T17:46:13Z",
-    "open_issues": 4,
+    "pushed_at": "2026-11-10T12:46:32Z",
+    "open_issues": 6,
     "default_branch": "main",
     "fork": false,
     "owner_type": "Organization",
@@ -953,12 +953,12 @@
         "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/regress/icannbundle.pem"
       },
       {
-        "path": "get_trust_anchor/get_trust_anchor.py",
-        "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py"
-      },
-      {
         "path": "dnssec_ta_tool/dnssec_ta_tool_wrapper.sh",
         "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh"
+      },
+      {
+        "path": "get_trust_anchor/get_trust_anchor.py",
+        "html_url": "https://github.com/kirei/dnssec-ta-tools/blob/414c1e709bf4b5005f98cadbbf2c6ea6497f3c71/get_trust_anchor/get_trust_anchor.py"
       }
     ],
     "issue_url": null,
@@ -1135,12 +1135,12 @@
     "repo": "FreshTomato-Project/freshtomato-arm",
     "description": "Alternative open source firmware for Broadcom based routers (ARM)",
     "html_url": "https://github.com/FreshTomato-Project/freshtomato-arm",
-    "stars": 205,
+    "stars": 206,
     "forks": 46,
     "watchers": 8,
     "archived": false,
-    "updated_at": "2026-11-08T21:01:33Z",
-    "pushed_at": "2026-11-08T21:01:28Z",
+    "updated_at": "2026-11-10T21:15:29Z",
+    "pushed_at": "2026-11-10T17:34:22Z",
     "open_issues": 76,
     "default_branch": "arm-master",
     "fork": false,
@@ -1154,7 +1154,7 @@
     "files": [
       {
         "path": "release/src-rt-6.x.4708/router/getdns/src/context.c",
-        "html_url": "https://github.com/FreshTomato-Project/freshtomato-arm/blob/3f11e3a12d58673186d0efb94bee98a171e18ff9/release/src-rt-6.x.4708/router/getdns/src/context.c"
+        "html_url": "https://github.com/FreshTomato-Project/freshtomato-arm/blob/18243fc6fd23f1782e502a3c6c99ff5d628dd9cc/release/src-rt-6.x.4708/router/getdns/src/context.c"
       }
     ],
     "issue_url": null,
@@ -1509,12 +1509,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/BitChute/chutoken/blob/845742c60c2211eb5f03dcabf9437f3a223ce543/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -1745,12 +1745,12 @@
     ],
     "files": [
       {
-        "path": "keys/icannbundle.pem",
-        "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/keys/icannbundle.pem"
-      },
-      {
         "path": "data/icannbundle.pem",
         "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/data/icannbundle.pem"
+      },
+      {
+        "path": "keys/icannbundle.pem",
+        "html_url": "https://github.com/ExodusVPN/resolver/blob/44357a5dd6077898179676c9dc52d0cbca546b4d/keys/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -1785,12 +1785,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/charnacrypto/charnacoin/blob/bd82e2b5686fa9ab32aa20808cd89e1bcd227806/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/charnacrypto/charnacoin/blob/bd82e2b5686fa9ab32aa20808cd89e1bcd227806/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/charnacrypto/charnacoin/blob/bd82e2b5686fa9ab32aa20808cd89e1bcd227806/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -2321,12 +2321,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -2593,12 +2593,12 @@
     ],
     "files": [
       {
-        "path": "distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "distribution/Monero/include/src/common/dns_utils.cpp",
         "html_url": "https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -2791,8 +2791,8 @@
     "forks": 0,
     "watchers": 3,
     "archived": false,
-    "updated_at": "2026-09-24T16:34:19Z",
-    "pushed_at": "2026-10-02T22:44:34Z",
+    "updated_at": "2026-11-10T12:49:41Z",
+    "pushed_at": "2026-11-10T12:49:35Z",
     "open_issues": 0,
     "default_branch": "el9",
     "fork": false,
@@ -2806,7 +2806,7 @@
     "files": [
       {
         "path": "SOURCES/icannbundle.pem",
-        "html_url": "https://github.com/openela-main/unbound/blob/50d0b4bc375b6d32c4853cca3a9afddc7bae17ab/SOURCES/icannbundle.pem"
+        "html_url": "https://github.com/openela-main/unbound/blob/27ab943c3acafc672e885fb90356e281a4189132/SOURCES/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -2985,12 +2985,12 @@
     ],
     "files": [
       {
-        "path": "rpms/dns-root-data/icannbundle.pem",
-        "html_url": "https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/dns-root-data/icannbundle.pem"
-      },
-      {
         "path": "rpms/unbound/icannbundle.pem",
         "html_url": "https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/unbound/icannbundle.pem"
+      },
+      {
+        "path": "rpms/dns-root-data/icannbundle.pem",
+        "html_url": "https://github.com/p5/hummingbird-rpms/blob/5b6528a0a121bbe5c9c29bb5a9103c8a429d899d/rpms/dns-root-data/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -3217,12 +3217,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/klaroooo/klaro/blob/1b5e508ed8ace4b863de9f85ef3215c4c1948634/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/klaroooo/klaro/blob/1b5e508ed8ace4b863de9f85ef3215c4c1948634/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/klaroooo/klaro/blob/1b5e508ed8ace4b863de9f85ef3215c4c1948634/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -3239,8 +3239,8 @@
     "forks": 16,
     "watchers": 4,
     "archived": false,
-    "updated_at": "2026-11-08T20:57:10Z",
-    "pushed_at": "2026-11-08T20:58:57Z",
+    "updated_at": "2026-11-10T21:15:41Z",
+    "pushed_at": "2026-11-10T17:34:36Z",
     "open_issues": 11,
     "default_branch": "mips-master",
     "fork": false,
@@ -3254,7 +3254,7 @@
     "files": [
       {
         "path": "release/src/router/getdns/src/context.c",
-        "html_url": "https://github.com/FreshTomato-Project/freshtomato-mips/blob/d0f41774cb78f2c487f488b1629892672b42c5ae/release/src/router/getdns/src/context.c"
+        "html_url": "https://github.com/FreshTomato-Project/freshtomato-mips/blob/1e9323297ca9d8585367beb8155c7967e4dd8fbc/release/src/router/getdns/src/context.c"
       }
     ],
     "issue_url": null,
@@ -3335,8 +3335,8 @@
     "forks": 12,
     "watchers": 1,
     "archived": false,
-    "updated_at": "2026-11-09T23:03:38Z",
-    "pushed_at": "2026-11-09T23:03:33Z",
+    "updated_at": "2026-11-10T22:00:24Z",
+    "pushed_at": "2026-11-10T20:08:01Z",
     "open_issues": 96,
     "default_branch": "master",
     "fork": false,
@@ -3354,7 +3354,11 @@
     "files": [
       {
         "path": "contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/MidnightBSD/src/blob/71a6724722078909399d3443edfd26cd23d5d737/contrib/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/MidnightBSD/src/blob/fc021209d5cc2820c14ebcb3881a745399f2a8b7/contrib/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "contrib/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/MidnightBSD/src/blob/16fe0033074cf991e3ebf6561d8c46ed07250784/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -4465,16 +4469,16 @@
     ],
     "files": [
       {
-        "path": "dnssec_ta_tool/dnssec_ta_tool_wrapper.sh",
-        "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh"
-      },
-      {
         "path": "root.py",
         "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/root.py"
       },
       {
         "path": "dnssec_ta_tool/regress/icannbundle.pem",
         "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/regress/icannbundle.pem"
+      },
+      {
+        "path": "dnssec_ta_tool/dnssec_ta_tool_wrapper.sh",
+        "html_url": "https://github.com/freight-trust/trust-anchors/blob/f856fe21007b1bfa8efc479406b0bd79074d2b4c/dnssec_ta_tool/dnssec_ta_tool_wrapper.sh"
       }
     ],
     "issue_url": null,
@@ -4605,12 +4609,12 @@
     ],
     "files": [
       {
-        "path": "external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/common/dns_utils.cpp",
         "html_url": "https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/zephyr-protocol/zephyr/blob/4737919f7ddaf6b9c4c952b88660208c824c73c4/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -5303,8 +5307,8 @@
     "forks": 0,
     "watchers": 0,
     "archived": false,
-    "updated_at": "2026-11-08T19:20:22Z",
-    "pushed_at": "2026-11-08T19:20:18Z",
+    "updated_at": "2026-11-10T00:32:44Z",
+    "pushed_at": "2026-11-10T00:32:40Z",
     "open_issues": 0,
     "default_branch": "main",
     "fork": false,
@@ -5749,224 +5753,224 @@
     ],
     "files": [
       {
-        "path": "data/snapshots/snapshot_2026-06-27_15-52-35.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-27_15-52-35.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-13_17-02-21.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-13_17-02-21.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-05_21-51-50.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-05_21-51-50.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-16_16-22-59.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-16_16-22-59.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-08-25_14-58-54.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-08-25_14-58-54.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-21_16-09-04.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-21_16-09-04.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-14_16-28-42.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-14_16-28-42.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-06_15-50-48.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-06_15-50-48.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-19_16-40-53.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-19_16-40-53.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-18_17-26-02.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-18_17-26-02.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-03_16-03-11.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-03_16-03-11.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-10_17-04-33.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-10_17-04-33.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-24_16-48-40.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-24_16-48-40.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-28_15-55-35.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-28_15-55-35.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-23_16-56-07.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-23_16-56-07.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-19_15-27-27.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-19_15-27-27.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-15_16-23-21.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-15_16-23-21.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-17_17-14-24.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-17_17-14-24.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-08-09_14-46-14.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-08-09_14-46-14.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-12_15-31-17.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-12_15-31-17.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-02_16-32-51.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-02_16-32-51.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-07_15-52-15.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-07_15-52-15.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-09_16-40-06.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-09_16-40-06.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-08_17-31-31.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-08_17-31-31.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-10_17-30-54.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-10_17-30-54.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-20_16-03-43.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-20_16-03-43.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-10_21-32-18.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-10_21-32-18.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-08_16-39-40.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-08_16-39-40.json"
-      },
-      {
         "path": "data/snapshots/snapshot_2026-06-03_18-26-08.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-03_18-26-08.json"
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-03_18-26-08.json"
       },
       {
-        "path": "data/snapshots/snapshot_2026-06-29_17-37-13.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-29_17-37-13.json"
-      },
-      {
-        "path": "data/config.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/config.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-06_17-23-26.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-06_17-23-26.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-13_16-10-28.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-13_16-10-28.json"
+        "path": "data/snapshots/snapshot_2026-06-27_15-52-35.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-27_15-52-35.json"
       },
       {
         "path": "data/snapshots/snapshot_2026-07-18_15-23-10.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-18_15-23-10.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-14_16-12-33.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-14_16-12-33.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-09_16-53-56.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-09_16-53-56.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-30_16-39-42.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-30_16-39-42.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-12_17-20-22.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-12_17-20-22.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-11_18-18-37.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-11_18-18-37.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-17_15-49-52.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-17_15-49-52.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-08_16-40-37.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-08_16-40-37.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-22_15-51-17.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-22_15-51-17.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-25_17-02-58.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-25_17-02-58.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-26_16-45-22.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-26_16-45-22.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-21_16-23-05.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-21_16-23-05.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-03_18-42-21.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-03_18-42-21.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-01_16-44-41.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-01_16-44-41.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-15_18-55-34.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-15_18-55-34.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-04_18-39-33.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-04_18-39-33.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-07_16-56-49.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-07_16-56-49.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-20_16-09-03.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-20_16-09-03.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-16_18-51-24.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-16_18-51-24.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-07-04_15-28-10.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-04_15-28-10.json"
-      },
-      {
-        "path": "data/snapshots/snapshot_2026-06-22_18-31-05.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-06-22_18-31-05.json"
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-18_15-23-10.json"
       },
       {
         "path": "data/snapshots/snapshot_2026-07-11_15-24-46.json",
-        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/8ab82b720d7c3b0c77b433e0866e5624aad19bf3/data/snapshots/snapshot_2026-07-11_15-24-46.json"
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-11_15-24-46.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-30_16-39-42.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-30_16-39-42.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-21_16-23-05.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-21_16-23-05.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-09_16-40-06.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-09_16-40-06.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-10_17-30-54.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-10_17-30-54.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-10_17-04-33.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-10_17-04-33.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-06_15-50-48.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-06_15-50-48.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-20_16-09-03.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-20_16-09-03.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-03_16-03-11.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-03_16-03-11.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-21_16-09-04.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-21_16-09-04.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-04_15-28-10.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-04_15-28-10.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-06_17-23-26.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-06_17-23-26.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-18_17-26-02.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-18_17-26-02.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-08-25_14-58-54.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-08-25_14-58-54.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-15_18-55-34.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-15_18-55-34.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-09_16-53-56.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-09_16-53-56.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-20_16-03-43.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-20_16-03-43.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-13_17-02-21.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-13_17-02-21.json"
+      },
+      {
+        "path": "data/config.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/config.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-24_16-48-40.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-24_16-48-40.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-03_18-42-21.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-03_18-42-21.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-11_18-18-37.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-11_18-18-37.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-14_16-12-33.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-14_16-12-33.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-08_16-39-40.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-08_16-39-40.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-07_16-56-49.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-07_16-56-49.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-07_15-52-15.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-07_15-52-15.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-23_16-56-07.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-23_16-56-07.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-01_16-44-41.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-01_16-44-41.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-12_17-20-22.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-12_17-20-22.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-02_16-32-51.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-02_16-32-51.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-25_17-02-58.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-25_17-02-58.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-08-09_14-46-14.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-08-09_14-46-14.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-19_16-40-53.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-19_16-40-53.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-19_15-27-27.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-19_15-27-27.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-22_18-31-05.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-22_18-31-05.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-08_17-31-31.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-08_17-31-31.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-16_18-51-24.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-16_18-51-24.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-15_16-23-21.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-15_16-23-21.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-26_16-45-22.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-26_16-45-22.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-22_15-51-17.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-22_15-51-17.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-04_18-39-33.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-04_18-39-33.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-08_16-40-37.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-08_16-40-37.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-17_15-49-52.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-17_15-49-52.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-05_21-51-50.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-05_21-51-50.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-13_16-10-28.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-13_16-10-28.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-12_15-31-17.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-12_15-31-17.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-29_17-37-13.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-29_17-37-13.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-16_16-22-59.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-16_16-22-59.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-10_21-32-18.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-10_21-32-18.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-28_15-55-35.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-28_15-55-35.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-07-14_16-28-42.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-07-14_16-28-42.json"
+      },
+      {
+        "path": "data/snapshots/snapshot_2026-06-17_17-14-24.json",
+        "html_url": "https://github.com/andrespavez/track-icann-ca/blob/e8fad619fa9902a31ab155878cba67c5b929dd58/data/snapshots/snapshot_2026-06-17_17-14-24.json"
       }
     ],
     "issue_url": null,
@@ -6169,12 +6173,12 @@
     ],
     "files": [
       {
-        "path": "openstack/pike/assets/eviz-etc/unbound/icannbundle.pem",
-        "html_url": "https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/eviz-etc/unbound/icannbundle.pem"
-      },
-      {
         "path": "openstack/pike/assets/pike-etc/unbound/icannbundle.pem",
         "html_url": "https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/pike-etc/unbound/icannbundle.pem"
+      },
+      {
+        "path": "openstack/pike/assets/eviz-etc/unbound/icannbundle.pem",
+        "html_url": "https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/eviz-etc/unbound/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -6288,7 +6292,7 @@
     "watchers": 1,
     "archived": false,
     "updated_at": "2026-10-20T15:41:53Z",
-    "pushed_at": "2026-10-21T16:58:00Z",
+    "pushed_at": "2026-11-10T21:19:50Z",
     "open_issues": 1,
     "default_branch": "main",
     "fork": false,
@@ -6601,12 +6605,12 @@
     ],
     "files": [
       {
-        "path": "free-bsd/contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/beingofexistence13/multiversal-os/blob/ce9fd7358740e32ad59c6cc3d1ecbec52652dcdf/free-bsd/contrib/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "open-bsd/usr.sbin/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/beingofexistence13/multiversal-os/blob/ce9fd7358740e32ad59c6cc3d1ecbec52652dcdf/open-bsd/usr.sbin/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "free-bsd/contrib/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/beingofexistence13/multiversal-os/blob/ce9fd7358740e32ad59c6cc3d1ecbec52652dcdf/free-bsd/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -7713,12 +7717,12 @@
     ],
     "files": [
       {
-        "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/src/common/dns_utils.cpp"
-      },
-      {
         "path": "external/unbound/smallapp/unbound-anchor.c",
         "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/external/unbound/smallapp/unbound-anchor.c"
+      },
+      {
+        "path": "src/common/dns_utils.cpp",
+        "html_url": "https://github.com/equisde/sevabit-new/blob/2cfd256cccb38c02be9386a675a5d97e176ca8a6/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -7935,9 +7939,9 @@
     "forks": 0,
     "watchers": 0,
     "archived": false,
-    "updated_at": "2026-11-09T21:06:26Z",
-    "pushed_at": "2026-11-09T21:21:21Z",
-    "open_issues": 0,
+    "updated_at": "2026-11-10T21:58:33Z",
+    "pushed_at": "2026-11-10T21:50:14Z",
+    "open_issues": 1,
     "default_branch": "main",
     "fork": false,
     "owner_type": "User",
@@ -7950,7 +7954,7 @@
     "files": [
       {
         "path": "src/common/dns_utils.cpp",
-        "html_url": "https://github.com/ahafarag/grox-coin/blob/387f6b44757d51d60141ee0792895f0801082147/src/common/dns_utils.cpp"
+        "html_url": "https://github.com/ahafarag/grox-coin/blob/fea7725d8c935b31d1cbad4f18b5d8647d0c5428/src/common/dns_utils.cpp"
       }
     ],
     "issue_url": null,
@@ -9443,8 +9447,8 @@
     "forks": 0,
     "watchers": 1,
     "archived": false,
-    "updated_at": "2026-11-09T02:46:09Z",
-    "pushed_at": "2026-11-09T02:46:05Z",
+    "updated_at": "2026-11-10T04:41:09Z",
+    "pushed_at": "2026-11-10T04:41:05Z",
     "open_issues": 0,
     "default_branch": "main",
     "fork": false,
@@ -9462,7 +9466,7 @@
     "files": [
       {
         "path": "data/trust-anchors/icannbundle.pem",
-        "html_url": "https://github.com/takonomura/iana-root-files/blob/a3febdd52a6aaf9e0287080b2bb9b088fc7e36b2/data/trust-anchors/icannbundle.pem"
+        "html_url": "https://github.com/takonomura/iana-root-files/blob/260b329651e74db40b4805da9bb339eded4c5bd4/data/trust-anchors/icannbundle.pem"
       }
     ],
     "issue_url": null,
@@ -10856,7 +10860,7 @@
     "watchers": 0,
     "archived": false,
     "updated_at": "2026-11-09T19:50:58Z",
-    "pushed_at": "2026-11-09T19:50:53Z",
+    "pushed_at": "2026-11-10T18:18:20Z",
     "open_issues": 1,
     "default_branch": "main",
     "fork": false,
@@ -11289,12 +11293,12 @@
     ],
     "files": [
       {
-        "path": "src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c"
-      },
-      {
         "path": "src/contrib/monero-0.10.0/src/common/dns_utils.cpp",
         "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/src/common/dns_utils.cpp"
+      },
+      {
+        "path": "src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c",
+        "html_url": "https://github.com/shopglobal/node-xmr/blob/483cff5b02e6413d9971ad4e1e1258f9bd5b731e/src/contrib/monero-0.10.0/external/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -11787,12 +11791,12 @@
     "repo": "freebsd/freebsd-src",
     "description": "The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....",
     "html_url": "https://github.com/freebsd/freebsd-src",
-    "stars": 9441,
-    "forks": 3474,
+    "stars": 9442,
+    "forks": 3475,
     "watchers": 448,
     "archived": false,
-    "updated_at": "2026-11-10T00:25:24Z",
-    "pushed_at": "2026-11-10T00:25:10Z",
+    "updated_at": "2026-11-10T22:25:31Z",
+    "pushed_at": "2026-11-10T22:25:10Z",
     "open_issues": 234,
     "default_branch": "main",
     "fork": false,
@@ -11806,7 +11810,7 @@
     "files": [
       {
         "path": "contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/freebsd/freebsd-src/blob/922eaa623076b4b8878022b3cbad1bef1f023de8/contrib/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/freebsd/freebsd-src/blob/7cb4d4dfdd181fb070794ff203b158783c617218/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
@@ -11823,8 +11827,8 @@
     "forks": 1,
     "watchers": 1,
     "archived": false,
-    "updated_at": "2026-11-05T14:53:12Z",
-    "pushed_at": "2026-11-05T15:40:12Z",
+    "updated_at": "2026-11-10T13:44:00Z",
+    "pushed_at": "2026-11-10T13:43:29Z",
     "open_issues": 0,
     "default_branch": "main",
     "fork": false,
@@ -11838,7 +11842,7 @@
     "files": [
       {
         "path": "contrib/unbound/smallapp/unbound-anchor.c",
-        "html_url": "https://github.com/evadot/freebsd/blob/c502df9eb19391c911e6fe930422aff8df926d9f/contrib/unbound/smallapp/unbound-anchor.c"
+        "html_url": "https://github.com/evadot/freebsd/blob/79fbc233102e7cbe969a8bd21d65d843a8d2b9f6/contrib/unbound/smallapp/unbound-anchor.c"
       }
     ],
     "issue_url": null,
