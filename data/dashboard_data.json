@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 340,
-    "old_only": 323,
+    "total": 341,
+    "old_only": 324,
     "old_and_new": 17,
     "new_only": 0,
     "unknown": 0
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 205
+    "User": 206
   },
   "impact": {
-    "total": 52680,
-    "average": 154.9
+    "total": 52698,
+    "average": 154.5
   },
   "top_targets": [
     {
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14530,
+      "impact": 14529,
       "stars": 10985,
-      "forks": 3545,
+      "forks": 3544,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6074,
-      "stars": 5361,
+      "impact": 6076,
+      "stars": 5363,
       "forks": 713,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 728,
-      "stars": 522,
+      "impact": 729,
+      "stars": 523,
       "forks": 206,
       "owner_type": "Organization"
     },
@@ -316,16 +316,16 @@
       "owner_type": "User"
     },
     {
-      "repo": "xyzmos/GeekDNS",
+      "repo": "ZephyrProtocol/zephyr",
       "impact": 181,
-      "stars": 156,
-      "forks": 25,
+      "stars": 155,
+      "forks": 26,
       "owner_type": "User"
     },
     {
-      "repo": "ZephyrProtocol/zephyr",
-      "impact": 180,
-      "stars": 155,
+      "repo": "xyzmos/GeekDNS",
+      "impact": 181,
+      "stars": 156,
       "forks": 25,
       "owner_type": "User"
     },
@@ -1647,10 +1647,18 @@
       "old_and_new": 17,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-08_19-20-16",
+      "total": 340,
+      "old_only": 323,
+      "old_and_new": 17,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-08T19:20:16.725556+00:00",
-    "snapshot_count": 155
+    "generated_at": "2026-11-10T00:32:38.507275+00:00",
+    "snapshot_count": 156
   }
 }
