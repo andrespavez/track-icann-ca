@@ -1,6 +1,6 @@
 # ICANN Root CA Migration
 
-Generated: 2026-11-11T21:33:29.799109+00:00
+Generated: 2026-11-12T21:43:52.539659+00:00
 
 ## OLD_ONLY (324)
 
@@ -60,7 +60,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/ahafarag/grox-coin/blob/6f65b27583ac289778461be398c4b383614e0266/src/common/dns_utils.cpp
+- https://github.com/ahafarag/grox-coin/blob/916fb26a9919ad15d5e49f3294178699b44fe367/src/common/dns_utils.cpp
 
 ---
 
@@ -894,8 +894,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/src/common/dns_utils.cpp
 - https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/ditcoin/ditcoin-core/blob/ed0d9e4491f8f21604eb44aa4bc27a95616eebb2/src/common/dns_utils.cpp
 
 ---
 
@@ -1247,7 +1247,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-arm/blob/f4d861c2e1ae7b22b401ced3e36fd28b63d317d2/release/src-rt-6.x.4708/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-arm/blob/f3106282b9f59b02b016cd96f452e12881a7ea9c/release/src-rt-6.x.4708/router/getdns/src/context.c
 
 ---
 
@@ -1259,7 +1259,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/FreshTomato-Project/freshtomato-mips/blob/245200f7502daaa708012ef01fdde1c62c819c2e/release/src/router/getdns/src/context.c
+- https://github.com/FreshTomato-Project/freshtomato-mips/blob/e8c028dcf01dc376c33e8deb8427a28508f314f0/release/src/router/getdns/src/context.c
 
 ---
 
@@ -1295,8 +1295,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/src/common/dns_utils.cpp
 - https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/gkruja/MoneroAndroidwallet/blob/2e7fa734ef9a49d566e1abbfc6c1c4b4b790d629/distribution/Monero/include/src/common/dns_utils.cpp
 
 ---
 
@@ -1596,8 +1596,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/hvardhanx/monero/blob/8e41fec2d88d9c1883d901652c0109dd9cb50588/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/hvardhanx/monero/blob/8e41fec2d88d9c1883d901652c0109dd9cb50588/src/common/dns_utils.cpp
+- https://github.com/hvardhanx/monero/blob/8e41fec2d88d9c1883d901652c0109dd9cb50588/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -2153,8 +2153,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/microsoft/azurelinux/blob/17db0843f2ce075b94bb89708fd010cacc21b506/specs/d/dns-root-data/icannbundle.pem
-- https://github.com/microsoft/azurelinux/blob/17db0843f2ce075b94bb89708fd010cacc21b506/specs/u/unbound/icannbundle.pem
+- https://github.com/microsoft/azurelinux/blob/789a24bf40e841a6ca054bd97a436903edb4f1a9/specs/u/unbound/icannbundle.pem
+- https://github.com/microsoft/azurelinux/blob/789a24bf40e841a6ca054bd97a436903edb4f1a9/specs/d/dns-root-data/icannbundle.pem
 
 ---
 
@@ -2682,8 +2682,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/pike-etc/unbound/icannbundle.pem
 - https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/eviz-etc/unbound/icannbundle.pem
+- https://github.com/OpenSciViz/cloud/blob/50cba2c3869790e558171b7d10b5d84328046383/openstack/pike/assets/pike-etc/unbound/icannbundle.pem
 
 ---
 
@@ -3131,8 +3131,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c
 - https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/src/common/dns_utils.cpp
+- https://github.com/schmeckles22/SolaceCoin/blob/b33aac1c61625d1265339425115119341f12f9e2/external/unbound/smallapp/unbound-anchor.c
 
 ---
 
@@ -3399,7 +3399,7 @@ Affected files: 1
 
 Source locations:
 
-- https://github.com/SWRT-dev/asuswrt-bcm-ac/blob/e55517ae85ce6da65b01b1b5d1e23dd80af52dab/release/src/router/getdns/src/context.c
+- https://github.com/SWRT-dev/asuswrt-bcm-ac/blob/7f24c577ab66a62fd8f3b31c6b867cb09f344443/release/src/router/getdns/src/context.c
 
 ---
 
@@ -3507,8 +3507,8 @@ Affected files: 2
 
 Source locations:
 
-- https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/src/common/dns_utils.cpp
 - https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/external/unbound/smallapp/unbound-anchor.c
+- https://github.com/trublud/KickAss-Gui/blob/ddbce9cea11a73594b12d020bf4c2935f01e9d88/kickass/src/common/dns_utils.cpp
 
 ---
 
