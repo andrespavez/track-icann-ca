@@ -1,7 +1,7 @@
 {
   "summary": {
-    "total": 342,
-    "old_only": 324,
+    "total": 341,
+    "old_only": 323,
     "old_and_new": 18,
     "new_only": 0,
     "unknown": 0
@@ -20,12 +20,12 @@
     "NORMAL": 297
   },
   "owners": {
-    "Organization": 136,
+    "Organization": 135,
     "User": 206
   },
   "impact": {
-    "total": 52762,
-    "average": 154.3
+    "total": 52672,
+    "average": 154.5
   },
   "top_targets": [
     {
@@ -234,14 +234,14 @@
     {
       "repo": "monero-project/monero",
       "impact": 14544,
-      "stars": 10999,
-      "forks": 3545,
+      "stars": 10998,
+      "forks": 3546,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6078,
-      "stars": 5364,
+      "impact": 6077,
+      "stars": 5363,
       "forks": 714,
       "owner_type": "Organization"
     },
@@ -379,13 +379,6 @@
       "owner_type": "User"
     },
     {
-      "repo": "E-F-A/v4",
-      "impact": 95,
-      "stars": 58,
-      "forks": 37,
-      "owner_type": "Organization"
-    },
-    {
       "repo": "noloader/Build-Scripts",
       "impact": 93,
       "stars": 71,
@@ -394,8 +387,8 @@
     },
     {
       "repo": "wownero/wownero",
-      "impact": 92,
-      "stars": 59,
+      "impact": 91,
+      "stars": 58,
       "forks": 33,
       "owner_type": "Organization"
     },
@@ -404,6 +397,13 @@
       "impact": 91,
       "stars": 86,
       "forks": 5,
+      "owner_type": "User"
+    },
+    {
+      "repo": "AnthonyTechhh/ZephyrWallet",
+      "impact": 91,
+      "stars": 47,
+      "forks": 44,
       "owner_type": "User"
     }
   ],
@@ -1679,10 +1679,18 @@
       "old_and_new": 17,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-12_21-43-52",
+      "total": 342,
+      "old_only": 324,
+      "old_and_new": 18,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-12T21:43:52.907336+00:00",
-    "snapshot_count": 159
+    "generated_at": "2026-11-13T20:59:09.834499+00:00",
+    "snapshot_count": 160
   }
 }
