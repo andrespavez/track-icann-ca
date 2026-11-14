@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 341,
+    "total": 342,
     "old_only": 323,
-    "old_and_new": 18,
+    "old_and_new": 19,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 5.3,
+    "progress": 5.6,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 206
+    "User": 207
   },
   "impact": {
-    "total": 52672,
-    "average": 154.5
+    "total": 52688,
+    "average": 154.1
   },
   "top_targets": [
     {
@@ -240,15 +240,15 @@
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6077,
-      "stars": 5363,
+      "impact": 6078,
+      "stars": 5364,
       "forks": 714,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 733,
-      "stars": 527,
+      "impact": 734,
+      "stars": 528,
       "forks": 206,
       "owner_type": "Organization"
     },
@@ -386,18 +386,18 @@
       "owner_type": "User"
     },
     {
+      "repo": "pgraug/dhyve-src",
+      "impact": 92,
+      "stars": 87,
+      "forks": 5,
+      "owner_type": "User"
+    },
+    {
       "repo": "wownero/wownero",
       "impact": 91,
       "stars": 58,
       "forks": 33,
       "owner_type": "Organization"
-    },
-    {
-      "repo": "pgraug/dhyve-src",
-      "impact": 91,
-      "stars": 86,
-      "forks": 5,
-      "owner_type": "User"
     },
     {
       "repo": "AnthonyTechhh/ZephyrWallet",
@@ -1687,10 +1687,18 @@
       "old_and_new": 18,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-13_20-59-09",
+      "total": 341,
+      "old_only": 323,
+      "old_and_new": 18,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-13T20:59:09.834499+00:00",
-    "snapshot_count": 160
+    "generated_at": "2026-11-14T19:46:49.984152+00:00",
+    "snapshot_count": 161
   }
 }
