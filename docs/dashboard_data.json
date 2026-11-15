@@ -24,7 +24,7 @@
     "User": 207
   },
   "impact": {
-    "total": 52688,
+    "total": 52702,
     "average": 154.1
   },
   "top_targets": [
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 226,
+      "stars": 227,
       "forks": 85,
       "owner_type": "Organization",
-      "impact": 311
+      "impact": 312
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,16 +233,16 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14544,
+      "impact": 14545,
       "stars": 10998,
-      "forks": 3546,
+      "forks": 3547,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
       "impact": 6078,
-      "stars": 5364,
-      "forks": 714,
+      "stars": 5363,
+      "forks": 715,
       "owner_type": "Organization"
     },
     {
@@ -261,15 +261,15 @@
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 583,
-      "stars": 385,
+      "impact": 584,
+      "stars": 386,
       "forks": 198,
       "owner_type": "Organization"
     },
     {
       "repo": "pfsense/FreeBSD-src",
-      "impact": 506,
-      "stars": 172,
+      "impact": 507,
+      "stars": 173,
       "forks": 334,
       "owner_type": "Organization"
     },
@@ -282,8 +282,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 311,
-      "stars": 226,
+      "impact": 312,
+      "stars": 227,
       "forks": 85,
       "owner_type": "Organization"
     },
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 252,
-      "stars": 206,
+      "impact": 253,
+      "stars": 207,
       "forks": 46,
       "owner_type": "Organization"
     },
@@ -1695,10 +1695,18 @@
       "old_and_new": 18,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-14_19-46-50",
+      "total": 342,
+      "old_only": 323,
+      "old_and_new": 19,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-14T19:46:49.984152+00:00",
-    "snapshot_count": 161
+    "generated_at": "2026-11-15T21:10:55.661660+00:00",
+    "snapshot_count": 162
   }
 }
