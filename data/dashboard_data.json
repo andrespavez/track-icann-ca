@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 342,
+    "total": 343,
     "old_only": 323,
-    "old_and_new": 19,
+    "old_and_new": 20,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 5.6,
+    "progress": 5.8,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 207
+    "User": 208
   },
   "impact": {
-    "total": 52739,
-    "average": 154.2
+    "total": 52765,
+    "average": 153.8
   },
   "top_targets": [
     {
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14548,
-      "stars": 11001,
-      "forks": 3547,
+      "impact": 14549,
+      "stars": 11003,
+      "forks": 3546,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6088,
-      "stars": 5370,
+      "impact": 6092,
+      "stars": 5374,
       "forks": 718,
       "owner_type": "Organization"
     },
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 254,
-      "stars": 207,
+      "impact": 255,
+      "stars": 208,
       "forks": 47,
       "owner_type": "Organization"
     },
@@ -379,17 +379,17 @@
       "owner_type": "User"
     },
     {
+      "repo": "pgraug/dhyve-src",
+      "impact": 95,
+      "stars": 90,
+      "forks": 5,
+      "owner_type": "User"
+    },
+    {
       "repo": "noloader/Build-Scripts",
       "impact": 93,
       "stars": 71,
       "forks": 22,
-      "owner_type": "User"
-    },
-    {
-      "repo": "pgraug/dhyve-src",
-      "impact": 93,
-      "stars": 88,
-      "forks": 5,
       "owner_type": "User"
     },
     {
@@ -1711,10 +1711,18 @@
       "old_and_new": 19,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-17_00-15-53",
+      "total": 342,
+      "old_only": 323,
+      "old_and_new": 19,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-17T00:15:52.990736+00:00",
-    "snapshot_count": 163
+    "generated_at": "2026-11-17T22:54:09.886481+00:00",
+    "snapshot_count": 164
   }
 }
