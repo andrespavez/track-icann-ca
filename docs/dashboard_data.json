@@ -24,8 +24,8 @@
     "User": 207
   },
   "impact": {
-    "total": 52702,
-    "average": 154.1
+    "total": 52739,
+    "average": 154.2
   },
   "top_targets": [
     {
@@ -233,23 +233,23 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14545,
-      "stars": 10998,
+      "impact": 14548,
+      "stars": 11001,
       "forks": 3547,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6078,
-      "stars": 5363,
-      "forks": 715,
+      "impact": 6088,
+      "stars": 5370,
+      "forks": 718,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 734,
+      "impact": 733,
       "stars": 528,
-      "forks": 206,
+      "forks": 205,
       "owner_type": "Organization"
     },
     {
@@ -296,9 +296,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 253,
+      "impact": 254,
       "stars": 207,
-      "forks": 46,
+      "forks": 47,
       "owner_type": "Organization"
     },
     {
@@ -387,8 +387,8 @@
     },
     {
       "repo": "pgraug/dhyve-src",
-      "impact": 92,
-      "stars": 87,
+      "impact": 93,
+      "stars": 88,
       "forks": 5,
       "owner_type": "User"
     },
@@ -1703,10 +1703,18 @@
       "old_and_new": 19,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-15_21-10-55",
+      "total": 342,
+      "old_only": 323,
+      "old_and_new": 19,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-15T21:10:55.661660+00:00",
-    "snapshot_count": 162
+    "generated_at": "2026-11-17T00:15:52.990736+00:00",
+    "snapshot_count": 163
   }
 }
