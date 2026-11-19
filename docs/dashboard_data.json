@@ -24,7 +24,7 @@
     "User": 208
   },
   "impact": {
-    "total": 52780,
+    "total": 52795,
     "average": 153.9
   },
   "top_targets": [
@@ -39,10 +39,10 @@
     {
       "repo": "CTSRD-CHERI/cheribsd",
       "priority": "NORMAL",
-      "stars": 227,
+      "stars": 228,
       "forks": 85,
       "owner_type": "Organization",
-      "impact": 312
+      "impact": 313
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
@@ -233,22 +233,22 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14551,
-      "stars": 11005,
+      "impact": 14549,
+      "stars": 11003,
       "forks": 3546,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6095,
-      "stars": 5377,
-      "forks": 718,
+      "impact": 6098,
+      "stars": 5379,
+      "forks": 719,
       "owner_type": "Organization"
     },
     {
       "repo": "opnsense/src",
-      "impact": 733,
-      "stars": 528,
+      "impact": 734,
+      "stars": 529,
       "forks": 205,
       "owner_type": "Organization"
     },
@@ -282,8 +282,8 @@
     },
     {
       "repo": "CTSRD-CHERI/cheribsd",
-      "impact": 312,
-      "stars": 227,
+      "impact": 313,
+      "stars": 228,
       "forks": 85,
       "owner_type": "Organization"
     },
@@ -394,9 +394,9 @@
     },
     {
       "repo": "wownero/wownero",
-      "impact": 91,
-      "stars": 58,
-      "forks": 33,
+      "impact": 93,
+      "stars": 59,
+      "forks": 34,
       "owner_type": "Organization"
     },
     {
@@ -1727,10 +1727,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-18_21-53-34",
+      "total": 343,
+      "old_only": 323,
+      "old_and_new": 20,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-18T21:53:34.883435+00:00",
-    "snapshot_count": 165
+    "generated_at": "2026-11-19T22:23:54.360760+00:00",
+    "snapshot_count": 166
   }
 }
