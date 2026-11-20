@@ -24,7 +24,7 @@
     "User": 208
   },
   "impact": {
-    "total": 52795,
+    "total": 52804,
     "average": 153.9
   },
   "top_targets": [
@@ -233,16 +233,16 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14549,
+      "impact": 14547,
       "stars": 11003,
-      "forks": 3546,
+      "forks": 3544,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6098,
-      "stars": 5379,
-      "forks": 719,
+      "impact": 6099,
+      "stars": 5381,
+      "forks": 718,
       "owner_type": "Organization"
     },
     {
@@ -254,16 +254,16 @@
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 620,
+      "impact": 619,
       "stars": 485,
-      "forks": 135,
+      "forks": 134,
       "owner_type": "Organization"
     },
     {
       "repo": "electroneum/electroneum",
-      "impact": 584,
+      "impact": 585,
       "stars": 386,
-      "forks": 198,
+      "forks": 199,
       "owner_type": "Organization"
     },
     {
@@ -296,9 +296,9 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 255,
-      "stars": 208,
-      "forks": 47,
+      "impact": 258,
+      "stars": 209,
+      "forks": 49,
       "owner_type": "Organization"
     },
     {
@@ -338,9 +338,9 @@
     },
     {
       "repo": "ryo-currency/ryo-currency",
-      "impact": 129,
+      "impact": 128,
       "stars": 80,
-      "forks": 49,
+      "forks": 48,
       "owner_type": "Organization"
     },
     {
@@ -1735,10 +1735,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-19_22-23-54",
+      "total": 343,
+      "old_only": 323,
+      "old_and_new": 20,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-19T22:23:54.360760+00:00",
-    "snapshot_count": 166
+    "generated_at": "2026-11-20T22:00:31.013395+00:00",
+    "snapshot_count": 167
   }
 }
