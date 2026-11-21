@@ -24,8 +24,8 @@
     "User": 208
   },
   "impact": {
-    "total": 52804,
-    "average": 153.9
+    "total": 52817,
+    "average": 154.0
   },
   "top_targets": [
     {
@@ -234,8 +234,8 @@
     {
       "repo": "monero-project/monero",
       "impact": 14547,
-      "stars": 11003,
-      "forks": 3544,
+      "stars": 11004,
+      "forks": 3543,
       "owner_type": "Organization"
     },
     {
@@ -247,8 +247,8 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 734,
-      "stars": 529,
+      "impact": 735,
+      "stars": 530,
       "forks": 205,
       "owner_type": "Organization"
     },
@@ -1743,10 +1743,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-20_22-00-31",
+      "total": 343,
+      "old_only": 323,
+      "old_and_new": 20,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-20T22:00:31.013395+00:00",
-    "snapshot_count": 167
+    "generated_at": "2026-11-21T21:01:39.188661+00:00",
+    "snapshot_count": 168
   }
 }
