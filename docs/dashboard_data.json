@@ -24,8 +24,8 @@
     "User": 208
   },
   "impact": {
-    "total": 52834,
-    "average": 154.0
+    "total": 52843,
+    "average": 154.1
   },
   "top_targets": [
     {
@@ -48,9 +48,9 @@
       "repo": "HardenedBSD/hardenedBSD-stable",
       "priority": "NORMAL",
       "stars": 137,
-      "forks": 32,
+      "forks": 31,
       "owner_type": "Organization",
-      "impact": 169
+      "impact": 168
     },
     {
       "repo": "bmwiedemann/openSUSE",
@@ -69,7 +69,7 @@
       "impact": 49
     },
     {
-      "repo": "salvium/salvium",
+      "repo": "haven-protocol-org/haven-main",
       "priority": "NORMAL",
       "stars": 41,
       "forks": 21,
@@ -77,12 +77,12 @@
       "impact": 62
     },
     {
-      "repo": "haven-protocol-org/haven-main",
+      "repo": "salvium/salvium",
       "priority": "NORMAL",
-      "stars": 41,
+      "stars": 40,
       "forks": 21,
       "owner_type": "Organization",
-      "impact": 62
+      "impact": 61
     },
     {
       "repo": "TheSuperiorCoin/TheSuperiorCoin",
@@ -233,9 +233,9 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14550,
-      "stars": 11007,
-      "forks": 3543,
+      "impact": 14551,
+      "stars": 11009,
+      "forks": 3542,
       "owner_type": "Organization"
     },
     {
@@ -247,16 +247,16 @@
     },
     {
       "repo": "opnsense/src",
-      "impact": 736,
-      "stars": 530,
+      "impact": 738,
+      "stars": 532,
       "forks": 206,
       "owner_type": "Organization"
     },
     {
       "repo": "getdnsapi/getdns",
-      "impact": 619,
+      "impact": 620,
       "stars": 485,
-      "forks": 134,
+      "forks": 135,
       "owner_type": "Organization"
     },
     {
@@ -296,8 +296,8 @@
     },
     {
       "repo": "FreshTomato-Project/freshtomato-arm",
-      "impact": 261,
-      "stars": 212,
+      "impact": 262,
+      "stars": 213,
       "forks": 49,
       "owner_type": "Organization"
     },
@@ -331,9 +331,9 @@
     },
     {
       "repo": "HardenedBSD/hardenedBSD-stable",
-      "impact": 169,
+      "impact": 168,
       "stars": 137,
-      "forks": 32,
+      "forks": 31,
       "owner_type": "Organization"
     },
     {
@@ -394,8 +394,8 @@
     },
     {
       "repo": "wownero/wownero",
-      "impact": 93,
-      "stars": 59,
+      "impact": 92,
+      "stars": 58,
       "forks": 34,
       "owner_type": "Organization"
     },
@@ -1759,10 +1759,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-22_21-03-08",
+      "total": 343,
+      "old_only": 323,
+      "old_and_new": 20,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-22T21:03:08.170440+00:00",
-    "snapshot_count": 169
+    "generated_at": "2026-11-24T02:36:01.573402+00:00",
+    "snapshot_count": 170
   }
 }
