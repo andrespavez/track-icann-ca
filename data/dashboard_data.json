@@ -1,13 +1,13 @@
 {
   "summary": {
-    "total": 343,
-    "old_only": 323,
-    "old_and_new": 20,
+    "total": 345,
+    "old_only": 324,
+    "old_and_new": 21,
     "new_only": 0,
     "unknown": 0
   },
   "campaign": {
-    "progress": 5.8,
+    "progress": 6.1,
     "statuses": {
       "NOT_CONTACTED": 277,
       "ISSUE_OPEN": 23,
@@ -21,11 +21,11 @@
   },
   "owners": {
     "Organization": 135,
-    "User": 208
+    "User": 210
   },
   "impact": {
-    "total": 52861,
-    "average": 154.1
+    "total": 52880,
+    "average": 153.3
   },
   "top_targets": [
     {
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14555,
-      "stars": 11013,
+      "impact": 14556,
+      "stars": 11014,
       "forks": 3542,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6103,
-      "stars": 5384,
+      "impact": 6104,
+      "stars": 5385,
       "forks": 719,
       "owner_type": "Organization"
     },
@@ -269,8 +269,8 @@
     {
       "repo": "pfsense/FreeBSD-src",
       "impact": 507,
-      "stars": 173,
-      "forks": 334,
+      "stars": 174,
+      "forks": 333,
       "owner_type": "Organization"
     },
     {
@@ -1775,10 +1775,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-24_23-34-59",
+      "total": 343,
+      "old_only": 323,
+      "old_and_new": 20,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-24T23:34:59.479443+00:00",
-    "snapshot_count": 171
+    "generated_at": "2026-11-25T23:36:21.850593+00:00",
+    "snapshot_count": 172
   }
 }
