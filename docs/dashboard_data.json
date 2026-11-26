@@ -24,7 +24,7 @@
     "User": 210
   },
   "impact": {
-    "total": 52880,
+    "total": 52893,
     "average": 153.3
   },
   "top_targets": [
@@ -233,8 +233,8 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14556,
-      "stars": 11014,
+      "impact": 14559,
+      "stars": 11017,
       "forks": 3542,
       "owner_type": "Organization"
     },
@@ -394,8 +394,8 @@
     },
     {
       "repo": "wownero/wownero",
-      "impact": 92,
-      "stars": 58,
+      "impact": 93,
+      "stars": 59,
       "forks": 34,
       "owner_type": "Organization"
     },
@@ -1783,10 +1783,18 @@
       "old_and_new": 20,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-25_23-36-21",
+      "total": 345,
+      "old_only": 324,
+      "old_and_new": 21,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-25T23:36:21.850593+00:00",
-    "snapshot_count": 172
+    "generated_at": "2026-11-26T23:14:21.590071+00:00",
+    "snapshot_count": 173
   }
 }
