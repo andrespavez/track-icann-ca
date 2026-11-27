@@ -24,8 +24,8 @@
     "User": 210
   },
   "impact": {
-    "total": 52893,
-    "average": 153.3
+    "total": 52913,
+    "average": 153.4
   },
   "top_targets": [
     {
@@ -233,15 +233,15 @@
   "high_impact": [
     {
       "repo": "monero-project/monero",
-      "impact": 14559,
-      "stars": 11017,
+      "impact": 14563,
+      "stars": 11021,
       "forks": 3542,
       "owner_type": "Organization"
     },
     {
       "repo": "microsoft/azurelinux",
-      "impact": 6104,
-      "stars": 5385,
+      "impact": 6106,
+      "stars": 5387,
       "forks": 719,
       "owner_type": "Organization"
     },
@@ -1791,10 +1791,18 @@
       "old_and_new": 21,
       "new_only": 0,
       "unknown": 0
+    },
+    {
+      "timestamp": "2026-11-26_23-14-21",
+      "total": 345,
+      "old_only": 324,
+      "old_and_new": 21,
+      "new_only": 0,
+      "unknown": 0
     }
   ],
   "metadata": {
-    "generated_at": "2026-11-26T23:14:21.590071+00:00",
-    "snapshot_count": 173
+    "generated_at": "2026-11-27T23:36:20.677472+00:00",
+    "snapshot_count": 174
   }
 }
